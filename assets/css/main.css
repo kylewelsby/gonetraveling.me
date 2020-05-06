@@ -1,0 +1,16 @@
+@tailwind base;
+
+@tailwind components;
+
+.entry-content a {
+  @apply text-pink-600;
+}
+.entry-content > p {
+  @apply my-10;
+}
+
+.gallery {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+@tailwind utilities;

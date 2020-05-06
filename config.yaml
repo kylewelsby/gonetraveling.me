@@ -1,0 +1,10 @@
+---
+baseURL: 'https://gonetraveling.me'
+languageCode: "en-GB"
+title: Gone Traveling
+author:
+  name: Kyle Welsby
+  email: kyle@mekyle.com
+params:
+  googlePlacesAPIKey: AIzaSyDVcuW4Q6Gd1SuHATdn86L-ZjVF4cAcjtM # this key only works on GoneTraveling.me
+---

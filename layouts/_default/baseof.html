@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+  <meta charset="UTF-8">
+  <title>{{ block "title" . }}{{ .Site.Title }} {{ with .Title }} | {{ . }}{{ end }}{{ end }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  {{- template "_internal/opengraph.html" . -}}
+  {{- template "_internal/twitter_cards.html" . -}}
+  {{- template "_internal/schema.html" . -}}
+  <link href="https://fonts.googleapis.com/css?family=Raleway:300,400,700&subset=latin,latin-ext" rel="stylesheet">
+  {{ $css := resources.Get "css/main.css" }}
+  {{ $style := $css | resources.PostCSS }}
+  {{ $secureStyle := $style | resources.Fingerprint "sha512" }}
+  <link rel="stylesheet" href="{{ $secureStyle.RelPermalink }}" integrity="{{ $secureStyle.Data.Integrity }}">
+  <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tailwindcss@1.4.4/dist/tailwind.min.css" integrity="sha256-CAI/7ThhltsmP2L2zKBYa7FknB3ZwFbD0nqL8FCdxdc=" crossorigin="anonymous"> -->
+</head>
+<body>
+  <p class="p-3 text-center bg-orange-600 text-orange-900 tracking-wide">
+    This blog was mainly from 2014-2015 travels and has since been neglected.  It's in a archive state.
+  </p>
+  <nav class="flex items-center justify-between flex-wrap bg-gray-500 p-6">
+    <div class="flex items-center flex-shrink-0 text-white mr-6">
+      <a href="/">
+        <img src="/gonetraveling-logo-light@2x.png" alt="Gone Traveling" width="336">
+      </a>
+    </div>
+    <div class="flex flex-grow justify-end text-lg font-light uppercase tracking-wider">
+      <a href="/" class="block mt-4 lg:inline-block lg:mt-0 text-white hover:text-white mr-4">Home</a>
+    </div>
+  </nav>
+
+  <main role="main">
+    {{- block "main" . -}}{{- end -}}
+  </main>
+</body>
+</html>

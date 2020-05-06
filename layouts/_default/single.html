@@ -1,0 +1,20 @@
+{{ define "main" }}
+<article class="flex flex-col items-center mb-10">
+  {{ if .Param "artwork" }}
+  <img src="{{ .Params.artwork }}" class="object-cover h-hero w-full mb-10"/>
+  {{ end }}
+
+  <h1 class="text-6xl uppercase text-center">{{ .Title }}</h1>
+
+  <div class="entry-content text-xl max-w-3xl text-gray-500 font-light hyphens-auto">
+    {{ .Content }}
+  </div>
+
+  <time class="uppercase text-gray-500 my-5 text-2xl">{{ .Date.Format "02 January 2006" }}</time>
+  <div class="uppercase text-gray-500 my-5">
+    {{- range (.GetTerms "categories") }}
+    <a href="{{ .RelPermalink }}" class="mx-1">{{ .LinkTitle }}</a>
+    {{ end }}
+  </div>
+</article>
+{{ end }}

@@ -1,0 +1,17 @@
+<a href="{{ .RelPermalink }}"class="flex flex-col items-center">
+  {{ if .Param "artwork" }}
+    {{ with .Resources.Match .Params.artwork }}
+      {{ range . }}
+        <img src="{{ .RelPermalink }}" class="object-cover h-64 w-screen mb-4 max-w-auto"/>
+      {{ end }}
+    {{ end }}
+  {{ else }}
+    <hr class="border-solid border-double border-t-4 w-full max-w-lg pb-12"/>
+  {{ end }}
+  <h2 class="text-center text-2xl my-4">{{ .Title }}</h2>
+  <div class="max-w-3xl hyphens-auto font-light text-gray-500 pb-12">
+    {{ .Summary }}
+
+    <span class="block mt-4 uppercase text-xs tracking-widest font-semibold">Continue Reading</span>
+  </div>
+</a>
