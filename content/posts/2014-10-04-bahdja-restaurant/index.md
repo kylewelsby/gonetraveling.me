@@ -6,6 +6,7 @@ url: /bahdja-restaurant
 categories:
 - Vietnam
 - Ho Chi Minh City
+- Food
 ---
 
 I visited Bahdja Restaurant with some friends, treating all of us to a cuisine non of us have ever experienced, Algerian (North African) Food.

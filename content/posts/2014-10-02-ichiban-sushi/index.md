@@ -6,6 +6,7 @@ url: /ichiban-sushi
 categories:
 - Vietnam
 - Ho Chi Minh City
+- Food
 ---
 
 

@@ -1,9 +1,14 @@
 ---
 title: "Olina Hotel"
 date: "2014-09-22"
+url: /olina-hotel
+categories:
+- Vietnam
+- Nha Trang
+- Food
 ---
 
-Olina Hotel (ranked #13 out of 201 hotels in Danang on [TripAdvisor](http://tripadvisor.com/3370587)) is a budget hotel, after checking reviews for all hotels within our price range this hotel yields less problems.
+Olina Hotel {{<tripadvisor 3370587>}} is a budget hotel, after checking reviews for all hotels within our price range this hotel yields less problems.
 
 The hotel is noisy by other guests and outside construction.
 
@@ -31,10 +36,11 @@ Cons:
 - slow WiFi internet
 - unhappy staff
 
-\[usrlist Service:3 Cleanliness:3  Food:0 Value:4 English:2 Overall:3\]
+<!-- \[usrlist Service:3 Cleanliness:3  Food:0 Value:4 English:2 Overall:3\] -->
 
-> [Olina Hotel](http://goo.gl/maps/yh94l), 54 Pham Thieu Street, Da Nang, Vietnam Tel: [+84 511 3937 477](tel:+845113937477) Email: [reservations@olinahotel.com](mailto:reservations@olinahotel.com) Website: [www.olinahotel.com](http://www.olinahotel.com)
 
-[![Booking-dot-com](images/Booking-dot-com.png)](http://www.booking.com/app_link/hotel/vn/olina.html?aid=399308)
+{{<place ChIJpWYqa4YXQjERDh79Jpi3qMg>}}
 
-[![agoda-dot-com](images/agoda-dot-com.png)](http://www.agoda.com/olina-hotel-danang/hotel/da-nang-vn.html?cid=1649959)
+<!-- [![Booking-dot-com](images/Booking-dot-com.png)](http://www.booking.com/app_link/hotel/vn/olina.html?aid=399308) -->
+
+<!-- [![agoda-dot-com](images/agoda-dot-com.png)](http://www.agoda.com/olina-hotel-danang/hotel/da-nang-vn.html?cid=1649959) -->
