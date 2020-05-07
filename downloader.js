@@ -5,8 +5,8 @@ const axios = require("axios");
 const fs = require("fs");
 const path = require("path");
 const ids =
-"1475,1474,1473,1472,1471,1470";
-const id ="2014-10-02-ichiban-sushi"
+"1385,1386,1384,1387,1378,1382,1388,1392,1393,1383,1389,1391,1399,1398,1397,1390,1381,1394,1395,1396,1400,1401,1403";
+const id ="2014-10-01-the-freedom-of-mui-ne"
 const dir = `content/posts/${id}/images/`;
 let md = path.resolve(dir.replace("/images/", "/index.md"));
 

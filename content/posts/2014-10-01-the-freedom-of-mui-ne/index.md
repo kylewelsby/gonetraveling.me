@@ -1,11 +1,16 @@
 ---
 title: "The freedom of Mui Ne"
 date: "2014-10-01"
+url: the-freedom-of-mui-ne
+artwork: images/DSC01447-1024x546.jpg
+categories:
+- Vietnam
+- Mui Ne
 ---
 
-![DSC01447](images/DSC01447-1024x546.jpg)
+Mui Ne is a quiet sandy town with plenty of sun, sand and a beach not really something to rave about. We stayed at WindFlower Boutique Hotel {{<tripadvisor 10592514>}} for 2 nights spending most the the time relaxing in the pool and watching the sun set over the South China Sea.
 
-Mui Ne is a quiet sandy town with plenty of sun, sand and a beach not really something to rave about. We stayed at WindFlower Boutique Hotel for 2 nights spending most the the time relaxing in the pool and watching the sun set over the South China Sea.
+{{<place ChIJN1gcRd2PdjER6vRhBChU9Uk>}}
 
 We could not be bothered searching for a new restaurant each night to eat, so every night we ate at The Bar. The Bar has good selection of western dishes, all reasonably priced which is nice on our pocket and stomach.
 
@@ -17,4 +22,30 @@ The police incident did put a downer on the night, being down £15 is not nice, 
 
 On the plus side, we had a good ride out to the dunes, seen some really amazing views and enjoyed the freedom of exploring at our own pace.
 
-\[gallery link="file" type="rectangular" ids="1385,1386,1384,1387,1378,1382,1388,1392,1393,1383,1389,1391,1399,1398,1397,1390,1381,1394,1395,1396,1400,1401,1403" orderby="post\_date"\]
+{{<place ChIJG0sCU6yPdjERGKRMrcgkOxU>}}
+
+{{<gallery>}}
+  {{<img src="images/IMG_5336.jpg">}}
+  {{<img src="images/IMG_5337.jpg">}}
+  {{<img src="images/IMG_5333.jpg">}}
+  {{<img src="images/IMG_5338.jpg">}}
+  {{<img src="images/IMG_53521.jpg">}}
+  {{<img src="images/DSC01493.jpg">}}
+  {{<img src="images/DSC01533.jpg">}}
+  {{<img src="images/DSC01480.jpg">}}
+  {{<img src="images/DSC01468.jpg" oriantation="portrait">}}
+  {{<img src="images/DSC01524.jpg" title="MuNie" oriantation="large">}}
+  {{<img src="images/IMG_5351.jpg">}}
+  {{<img src="images/DSC01538.jpg" oriantation="portrait">}}
+  {{<img src="images/DSC01472.jpg" title="Sand dunes">}}
+  {{<img src="images/DSC01535.jpg">}}
+  {{<img src="images/IMG_5361.jpg">}}
+  {{<img src="images/IMG_5364.jpg">}}
+  {{<img src="images/DSC01546.jpg">}}
+  {{<img src="images/IMG_5320.jpg">}}
+  {{<img src="images/IMG_20140929_134138.jpg">}}
+  {{<img src="images/PANO_20140929_125939.jpg">}}
+  {{<img src="images/IMG_20141001_104917-EFFECTS.jpg">}}
+  {{<img src="images/PANO_20141001_104821.jpg">}}
+  {{<img src="images/DSC01447.jpg">}}
+{{</gallery>}}
