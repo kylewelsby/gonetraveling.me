@@ -3,6 +3,10 @@
 {{- $width := 230 }}
 {{- $height := 125 }}
 {{- $class := "" }}
+{{ if (not .Parent) }}
+  {{- $width = 768 }}
+  {{- $height = 768 }}
+{{end}}
 {{ if (eq $oriantation "portrait") }}
   {{- $width = 230 }}
   {{- $height = 415 }}
@@ -31,7 +35,7 @@
 {{ with $.Page.Resources.GetMatch (printf "*%s*" (.Get "src")) }}
   {{ $img := .Fit (printf "%sx%s Gaussian jpg" (string (mul $width 2)) (string (mul $height 2))) }}
   <div class="rounded overflow-hidden shadow-lg {{ $class }}">
-    <img src="{{ $img.RelPermalink }}" alt="{{ $title }}" width="{{ $width }}" height="{{ $height }}">
+    <img src="{{ $img.RelPermalink }}" class="w-full" alt="{{ $title }}" width="{{ $width }}" height="{{ $height }}">
     {{- if $title -}}
     <p class="text-gray-700 text-base text-sm px-6 py-4">{{ $title }}</p>
     {{- end -}}
