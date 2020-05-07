@@ -9,8 +9,10 @@
   @apply my-10;
 }
 
+/* Gallery */
+
 .gallery {
-  grid-template-columns: repeat(auto-fill, 30%);
+  grid-template-columns: repeat(2, 1fr);
   grid-auto-rows: 125px;
   grid-auto-flow: dense;
   display: block;
@@ -26,7 +28,7 @@
 }
 
 .gallery .portrait {
-  grid-row: span 3;
+  grid-row: span 2;
 }
 
 .gallery .square {
@@ -42,6 +44,20 @@
   grid-column: span 3;
 }
 
+.gallery .large {
+  grid-column: span 2;
+  grid-row: span 2;
+}
+
+@media (min-width: 376px) {
+  .gallery {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .gallery .portrait {
+    grid-row: span 3;
+  }
+}
 
 
 @tailwind utilities;

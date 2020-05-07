@@ -1,6 +1,10 @@
 ---
 title: "The once empty capital city of Phnom Penh"
 date: "2014-10-10"
+url: /the-once-empty-capital-city-of-phnom-penh
+categories:
+- Cambodia
+- Phnom Penh
 ---
 
 Phnom Penh the capital of Cambodia. As in many places we've travelled to, stepping off the bus we were greeted by many tuk-tuk riders asking "where you go" in hopes to get a fare.  Being savvy Kim and I decided to take the short 1.5km walk from the bus terminal to our pre-booked hotel.
@@ -22,7 +26,15 @@ I would encourage anybody visiting Cambodia to visit this site, entry includes a
 Along with Choeung Ek, Tuol Sleng Genocide Museum closes the story with unforgettable effect of the pain the Cambodian people endured. Tuol Sleng is a former school that was converted into make shift prison cells where people would be identified, detained, and tortured.  -  The detention and torture is far worse than what You or I would have ever imagined at School.
 
 The history lesson of the Kremer Rouge is one that will forever stick with me.
-
-\[gallery type="rectangular" ids="1654,1655,1656,1660,1659,1658,1657,1633"\]
+{{<gallery>}}
+  {{<img src="images/DSC01618.jpg">}}
+  {{<img src="images/PANO_20141010_140835.jpg" oriantation="square">}}
+  {{<img src="images/IMG_5404.jpg">}}
+  {{<img src="images/IMG_5413.jpg">}}
+  {{<img src="images/IMG_5410.jpg" oriantation="portrait">}}
+  {{<img src="images/DSC01621.jpg" oriantation="portrait">}}
+  {{<img src="images/IMG_5412.jpg">}}
+  {{<img src="images/IMG_5409.jpg">}}
+{{</gallery>}}
 
 There was no need to stay in Phnom Penh for any longer, we swiftly moved on to Siem Reap.

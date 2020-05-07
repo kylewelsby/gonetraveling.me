@@ -23,6 +23,11 @@
   {{- $height = 768 }}
   {{- $class = "full" }}
 {{ end }}
+{{ if (eq $oriantation "large") }}
+  {{- $width = 480 }}
+  {{- $height = 270 }}
+  {{- $class = "large" }}
+{{ end }}
 {{ with $.Page.Resources.GetMatch (printf "*%s*" (.Get "src")) }}
   {{ $img := .Fit (printf "%sx%s Gaussian jpg" (string (mul $width 2)) (string (mul $height 2))) }}
   <div class="rounded overflow-hidden shadow-lg {{ $class }}">
