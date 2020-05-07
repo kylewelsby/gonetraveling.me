@@ -2,6 +2,7 @@
 title: "Sax n Art Jazz Club"
 date: "2014-10-04"
 artwork: images/IMG_20141004_211313-1024x583.jpg
+url: /sax-n-art-jazz-club
 categories:
 - Vietnam
 - Ho Chi Minh City
