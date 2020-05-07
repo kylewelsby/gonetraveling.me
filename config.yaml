@@ -7,4 +7,5 @@ author:
   email: kyle@mekyle.com
 params:
   googlePlacesAPIKey: AIzaSyDVcuW4Q6Gd1SuHATdn86L-ZjVF4cAcjtM # this key only works on GoneTraveling.me
+  tripAdvisorAPIKey: 6F988E410E334D3CBCEBC86A6DAA4788
 ---

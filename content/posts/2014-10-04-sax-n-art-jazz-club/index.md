@@ -5,7 +5,7 @@ date: "2014-10-04"
 
 \[caption id="attachment\_1455" align="aligncenter" width="700"\]![Sax n Art Jazz Club](images/IMG_20141004_211313-1024x583.jpg) Sax n Art Jazz Club - Ho Chi Minh City\[/caption\]
 
-While in Ho Chi Minh City, we invited our hosts out for an evening of cocktails and music at Sax n Art Jazz Club (Ranked #9 out of 48 Nightlife in Ho Chi Min City on [TripAdvisor](http://www.tripadvisor.com/Attraction_Review-g293925-d2435381-Reviews-Sax_N_Art_Jazz_Club-Ho_Chi_Minh_City.html)).
+While in Ho Chi Minh City, we invited our hosts out for an evening of cocktails and music at Sax n Art Jazz Club {{<tripadvisor 2435381>}}.
 
 We arrived just in time to get a table, order some drinks and listen to the live Jazz performances. The layout is interesting with the side-on stage, and cool lighting. I had high expectations to have a breathtaking experience of beautiful, unique, exciting, energising music. I think my expectations where a little to high.
 
