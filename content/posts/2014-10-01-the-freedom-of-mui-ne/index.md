@@ -1,7 +1,7 @@
 ---
 title: "The freedom of Mui Ne"
 date: "2014-10-01"
-url: the-freedom-of-mui-ne
+url: /the-freedom-of-mui-ne
 artwork: images/DSC01447-1024x546.jpg
 categories:
 - Vietnam
