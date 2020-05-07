@@ -5,6 +5,7 @@ url: /ho-chi-minh-city
 artwork: images/IMG_20141003_170819.jpg
 categories:
 - Vietnam
+- Ho Chi Minh City
 ---
 
 Ho Chi Minh City was our last stop in Vietnam, we stayed in a [Cheerful Home in Siagon that’s listed on AirBnB](https://www.airbnb.co.uk/rooms/3864609) for 1 week and our hosts made us feel very much at home. Most days we spent walking around the city, eating good food, and gathering last bit’s of souvenirs of Vietnam before we leave.

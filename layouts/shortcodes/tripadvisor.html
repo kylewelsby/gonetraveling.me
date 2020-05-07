@@ -4,10 +4,10 @@
   (Ranked 
   {{ if $data.ranking_data.ranking_string_detail -}}
     {{- range first 1 $data.ranking_data.ranking_string_detail -}}
-    {{ . }}
+    {{ . | safeHTML }}
     {{- end -}}
   {{- else -}}
-    {{ $data.ranking_data.ranking_string }}
+    {{ $data.ranking_data.ranking_string  | safeHTML }}
   {{- end }}
   on <a href="{{ $data.web_url }}">Tripadvisor</a>)
 </span>

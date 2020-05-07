@@ -3,6 +3,9 @@ title: "Pizza 4P's"
 date: "2014-10-05"
 url: /pizza-4ps
 artwork: images/IMG_20141005_1713311.jpg
+categories:
+- Vietnam
+- Ho Chi Minh City
 ---
 
 Recommended by our hosts, Pizza 4P’s {{<tripadvisor 2200413 >}} is undoubtedly the best independent place I have been for pizza that is cooked in a traditional clay oven.

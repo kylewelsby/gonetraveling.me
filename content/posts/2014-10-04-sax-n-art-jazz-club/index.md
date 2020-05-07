@@ -1,9 +1,11 @@
 ---
 title: "Sax n Art Jazz Club"
 date: "2014-10-04"
+artwork: images/IMG_20141004_211313-1024x583.jpg
+categories:
+- Vietnam
+- Ho Chi Minh City
 ---
-
-\[caption id="attachment\_1455" align="aligncenter" width="700"\]![Sax n Art Jazz Club](images/IMG_20141004_211313-1024x583.jpg) Sax n Art Jazz Club - Ho Chi Minh City\[/caption\]
 
 While in Ho Chi Minh City, we invited our hosts out for an evening of cocktails and music at Sax n Art Jazz Club {{<tripadvisor 2435381>}}.
 
@@ -13,4 +15,4 @@ I have not had a great deal of live Jazz performances, but I would personally sa
 
 At the mid-time break, we decided to call it a night.
 
-> [Sax n Art Jazz Club](https://plus.google.com/111260184844492649269/about?hl=en&gl=th), 28 Lê Lợi, Bến Nghé, 1 Hồ Chí Minh, Vietnam‎ Tel: [+84 8 3822 8472](tel:+84838228472) Email: [jazz@saxnart.com](mailto:jazz@saxnart.com) Website: [www.saxnart.com](http://www.saxnart.com/)
+{{<place ChIJSdClbkcvdTER4xcz68R7M04>}}
