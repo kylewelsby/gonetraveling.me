@@ -1,0 +1,27 @@
+{{ $star := "<svg class=\"w-4 h-4 fill-current text-yellow-600\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 20 20\"><path d=\"M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z\"/></svg>"}}
+<table class="text-sm">
+  <tr class="">
+    <th class="text-left font-bold pr-2">Ease of getting around</th>
+    <td class="flex flex-row">{{ safeHTML ($star | strings.Repeat (int (.Get "ease"))) }}</td>
+  </tr>
+
+  <tr class="">
+    <th class="text-left font-bold pr-2">Budget friendly</th>
+    <td class="flex flex-row">{{ safeHTML ($star | strings.Repeat (int (.Get "budget"))) }}</td>
+  </tr>
+
+  <tr class="">
+    <th class="text-left font-bold pr-2">English speaking</th>
+    <td class="flex flex-row">{{ safeHTML ($star | strings.Repeat (int (.Get "english"))) }}</td>
+  </tr>
+
+  <tr class="">
+    <th class="text-left font-bold pr-2">Safety</th>
+    <td class="flex flex-row">{{ safeHTML ($star | strings.Repeat (int (.Get "safety"))) }}</td>
+  </tr>
+
+  <tr class="">
+    <th class="text-left font-bold pr-2">Hawkers</th>
+    <td class="flex flex-row">{{ safeHTML ($star | strings.Repeat (int (.Get "hawkers"))) }}</td>
+  </tr>
+</table>

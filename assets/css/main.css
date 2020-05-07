@@ -10,7 +10,38 @@
 }
 
 .gallery {
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(auto-fill, 30%);
+  grid-auto-rows: 125px;
+  grid-auto-flow: dense;
+  display: block;
 }
+
+.gallery img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center center;
+  /* grid-column-start: auto; */
+  /* grid-row-start: auto; */
+}
+
+.gallery .portrait {
+  grid-row: span 3;
+}
+
+.gallery .square {
+  grid-row: span 3;
+  grid-column: span 2;
+}
+
+.gallery .pano {
+  grid-column: span 3;
+}
+
+.gallery .full {
+  grid-column: span 3;
+}
+
+
 
 @tailwind utilities;
