@@ -1,11 +1,12 @@
 ---
-title: "Goal for my 30th year"
-date: "2017-08-05"
-artwork: images/IMG_20170729_123956-2-1024x768.jpg
+title: Goal for my 30th year
+date: '2017-08-05'
+artwork: images/artwork.jpg
 url: /thirtieth-year-goal
 categories:
-- Self
-- United Kingdom
+  - Self
+  - United Kingdom
+tags: []
 ---
 
 The big three-oh.  Yes, I turned thirty this year.  I told myself to get ready to do something big, scary and special to forever remember what I did during my thirtieth year.  So, while I have been back in the United Kingdom I have taken this time to Learn how to ride a Motorbike among many other activities. Learning to ride a motorbike is only one part of the preparation for a bigger part of my goal I must act before my thirtieth year is over.

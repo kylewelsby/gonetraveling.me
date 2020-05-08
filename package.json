@@ -17,6 +17,7 @@
   "devDependencies": {
     "axios": "^0.19.2",
     "glob": "^7.1.6",
+    "gray-matter": "^4.0.2",
     "tailwindcss-hyphens": "^0.1.0"
   }
 }
