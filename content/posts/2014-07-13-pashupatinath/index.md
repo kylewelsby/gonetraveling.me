@@ -13,4 +13,21 @@ This significant place completes the cycle of life. Visiting this place for a sh
 
  
 
-\[gallery link="file" type="rectangular" ids="325,323,328,329,330,331,333,334,335,336,337,338,339,340,341" orderby="post\_date"\]
+
+{{<gallery>}}
+  {{<img src="images/DSC00202.jpg" oriantation="portrait">}}
+  {{<img src="images/DSC00205.jpg">}}
+  {{<img src="images/PANO_20140713_113020.jpg">}}
+  {{<img src="images/IMG_20140713_113356.jpg">}}
+  {{<img src="images/IMG_20140713_111209.jpg">}}
+  {{<img src="images/IMG_20140713_113453.jpg">}}
+  {{<img src="images/IMG_20140713_113528-EFFECTS.jpg">}}
+  {{<img src="images/PANO_20140713_113418.jpg">}}
+  {{<img src="images/IMG_20140713_113602.jpg">}}
+  {{<img src="images/IMG_20140713_113618.jpg" title="North is to the right" oriantation="portrait">}}
+  {{<img src="images/IMG_20140713_113628.jpg">}}
+  {{<img src="images/PANO_20140713_114458.jpg">}}
+  {{<img src="images/IMG_20140713_115043.jpg" title="Calm Cow">}}
+  {{<img src="images/IMG_20140713_115048.jpg">}}
+  {{<img src="images/IMG_20140713_115533.jpg" title="Cremation">}}
+{{</gallery>}}

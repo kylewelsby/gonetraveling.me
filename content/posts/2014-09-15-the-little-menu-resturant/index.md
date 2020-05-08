@@ -19,4 +19,10 @@ Overall, the service if great, food is good and atmosphere is pleasant.
 
 > The Little Menu Restaurant, 12 Le Loi Str., Hoi An, Vietnam Tel: +84 510 3939 568 Website: [www.thelittlemenu.com](http://www.thelittlemenu.com) Email: [sale@thelittlemenu.com](mailto:sale@thelittlemenu.com)
 
-\[gallery type="rectangular" ids="1285,1284,1283,1282"\]
+
+{{<gallery>}}
+  {{<img src="images/IMG_20140915_190229.jpg" title="Rolls tasting platter">}}
+  {{<img src="images/IMG_20140915_190827.jpg">}}
+  {{<img src="images/IMG_20140915_191811.jpg" title="Banana Leaf Chicken">}}
+  {{<img src="images/IMG_20140915_191817.jpg" title="Banana Blossom Salad with Grilled Chicken">}}
+{{</gallery>}}

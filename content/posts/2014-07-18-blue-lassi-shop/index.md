@@ -13,4 +13,12 @@ While we where enjoying our Lassi, about 5 bodies were carried though the street
 
  
 
-\[gallery link="file" type="rectangular" ids="398,399,400,397,404,403" orderby="post\_date"\]
+
+{{<gallery>}}
+  {{<img src="images/PANO_20140718_120644.jpg" title="Painted advertisement posters">}}
+  {{<img src="images/IMG_20140718_121340.jpg">}}
+  {{<img src="images/IMG_20140718_121358.jpg" title="Body being carried though the streets">}}
+  {{<img src="images/IMG_20140718_121252.jpg" title="Man making our Lassi">}}
+  {{<img src="images/DSC00230-MIX.jpg">}}
+  {{<img src="images/IMG_3268.jpg" title="Tour Group Members">}}
+{{</gallery>}}

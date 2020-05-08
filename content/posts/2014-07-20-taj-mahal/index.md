@@ -9,4 +9,24 @@ I think its beautiful, not everybody can fund the construct of such a beautiful
 
 Our visit was ok, loads of free time to roam the grounds. It is a popular attraction so there are thousands of people passing though the attraction, getting in the way of your photos, asking you loads of questions about where you are from, and stepping on your toes.
 
-\[gallery link="file" type="rectangular" ids="498,499,500,501,502,503,504,505,506,507,508,509,510,511,512,515,514,513" orderby="post\_date"\]
+
+{{<gallery>}}
+  {{<img src="images/IMG_3520-MOTION.gif">}}
+  {{<img src="images/DSC00320.jpg">}}
+  {{<img src="images/DSC00338.jpg" oriantation="portrait">}}
+  {{<img src="images/IMG_3556.jpg">}}
+  {{<img src="images/DSC00370.jpg">}}
+  {{<img src="images/PANO_20140720_162330.jpg" title="Taj Mahal ">}}
+  {{<img src="images/PANO_20140720_162643.jpg" oriantation="portrait">}}
+  {{<img src="images/IMG_20140720_164449.jpg" oriantation="portrait">}}
+  {{<img src="images/PANO_20140720_164455.jpg">}}
+  {{<img src="images/PANO_20140720_164906.jpg" oriantation="portrait">}}
+  {{<img src="images/IMG_3566.jpg">}}
+  {{<img src="images/IMG_3519.jpg">}}
+  {{<img src="images/IMG_3570-MOTION.gif">}}
+  {{<img src="images/IMG_3567-SMILE.jpg">}}
+  {{<img src="images/IMG_3661.jpg">}}
+  {{<img src="images/DSC00359.jpg">}}
+  {{<img src="images/IMG_3664.jpg">}}
+  {{<img src="images/IMG_3565.jpg">}}
+{{</gallery>}}

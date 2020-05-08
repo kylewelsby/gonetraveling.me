@@ -55,4 +55,13 @@ You can book on [Agoda](http://www.agoda.com/tu-linh-palace-hotel-2/hotel/hanoi-
 
 [![booking.com](images/booking.com_logo_blue_1000.jpg)](http://www.booking.com/hotel/vn/tu-linh-palace-2.html?aid=399308)
 
-\[gallery type="rectangular" ids="1086,1091,1089,1105,1104,1103,1102"\]
+
+{{<gallery>}}
+  {{<img src="images/PANO_20140909_154238-EFFECTS.jpg" title="Front of building" oriantation="portrait">}}
+  {{<img src="images/IMG_20140912_140659.jpg" title="Logo">}}
+  {{<img src="images/PANO_20140815_105529.jpg" title="From the balcony">}}
+  {{<img src="images/IMG_20140912_082355.jpg" title="Ghang, me and Thien">}}
+  {{<img src="images/IMG_20140912_183633.jpg" title="Te Te, Ming, Kim and Lilli">}}
+  {{<img src="images/IMG_20140912_183614.jpg" title="Te Te, Ming, Lilli and I">}}
+  {{<img src="images/IMG_20140912_183711.jpg" title="Te Te, Ming, Me, Kim and Lilli">}}
+{{</gallery>}}

@@ -15,4 +15,9 @@ It is so nice, we ate here twice!
 
 > [Hola Taco](https://plus.google.com/104244464240025294088/about), 5 Phan Châu Trinh, Minh An, tp. Hội An, Quảng Nam, Vietnam Tel:  +84 91 296 11 69
 
-\[gallery type="rectangular" ids="1271,1272,1274"\]
+
+{{<gallery>}}
+  {{<img src="images/Picture.jpeg" title="Best Chicken Wings Ever!">}}
+  {{<img src="images/Picture1.jpeg" title="Totally awesome Chicken Taco.">}}
+  {{<img src="images/Picture3.jpeg" title="Guacamole and baked nachos">}}
+{{</gallery>}}

@@ -13,4 +13,19 @@ Such a wonderful scriptural place to visit.
 
  
 
-\[gallery type="rectangular" link="file" ids="381,389,392,391,394,385,393,390,387,383,388,386,384"\]
+
+{{<gallery>}}
+  {{<img src="images/IMG_20140716_191909.jpg" title="Maya Devi Temple and Sacred Pond">}}
+  {{<img src="images/IMG_3184.jpg" title="Us at Maya Devi Temple">}}
+  {{<img src="images/IMG_3162.jpg">}}
+  {{<img src="images/IMG_3163.jpg">}}
+  {{<img src="images/DSC00228.jpg">}}
+  {{<img src="images/IMG_20140716_190708.jpg">}}
+  {{<img src="images/IMG_3160.jpg">}}
+  {{<img src="images/IMG_3164.jpg" title="Bodhi tree">}}
+  {{<img src="images/PANO_20140716_190634.jpg">}}
+  {{<img src="images/IMG_20140716_1920051.jpg" title="Maya Devi Temple">}}
+  {{<img src="images/IMG_20140716_184909.jpg">}}
+  {{<img src="images/IMG_20140716_190951.jpg" title="Sacred Pond sunset">}}
+  {{<img src="images/IMG_20140716_192138.jpg">}}
+{{</gallery>}}

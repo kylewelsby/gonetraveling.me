@@ -16,6 +16,7 @@
   },
   "devDependencies": {
     "axios": "^0.19.2",
+    "glob": "^7.1.6",
     "tailwindcss-hyphens": "^0.1.0"
   }
 }

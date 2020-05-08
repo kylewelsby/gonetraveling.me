@@ -1,9 +1,11 @@
 ---
 title: "Da Nang"
 date: "2014-09-22"
+categories:
+- Vietnam
+- Da Nang
+artwork: images/IMG_20140921_142501-1024x583.jpg
 ---
-
-![](images/IMG_20140921_142501-1024x583.jpg)
 
 We stayed in Da Nang for a 2 nights in [Olina Hotel](http://gonetraveling.me/2014/09/olina-hotel/ "Olina Hotel") before catching the next 14+ hour train to Nha Trang. The city is spacious with many roads built waiting for properties to be built on them (future fetched), the highly of Da Nang would be the colourful bridges at night. Each night the bridges would illuminate with colourful light displays.
 
@@ -15,4 +17,12 @@ We got the train from Da Nang to Nha Trang our next destination, using the local
 
 Anyway enjoy these photos.
 
-\[gallery link="file" type="rectangular" ids="1351,1352,1353,1354,1355,1356" orderby="post\_date"\]
+
+{{<gallery>}}
+  {{<img src="images/IMG_20140920_154931.jpg" title="Beach Bãi tắm Phạm Văn Đồng">}}
+  {{<img src="images/PANO_20140920_155003.jpg" title="Beach Bãi tắm Phạm Văn Đồng">}}
+  {{<img src="images/IMG_5045-EFFECTS.jpg" title="Angry Storm">}}
+  {{<img src="images/IMG_5069.jpg" title="Dragon Bridge">}}
+  {{<img src="images/IMG_5128-MOTION.gif" title="Night time traffic">}}
+  {{<img src="images/IMG_20140921_142501.jpg">}}
+{{</gallery>}}

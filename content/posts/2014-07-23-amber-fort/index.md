@@ -11,4 +11,34 @@ There are many annoying pocket vendors trying to sell you stuff you disrupting 
 
 [Views](https://www.google.com/maps/views/): [Amber Fort](https://www.google.com/maps/views/view/103958417703949399427/gphoto/6042997405757882802) by [Kyle Welsby](https://www.google.com/maps/views/profile/103958417703949399427)
 
-\[gallery link="file" type="rectangular" ids="562,580,564,556,552,553,557,559,558,560,555,561,563,565,566,567,568,569,570,571,572,573,574,579,575,576,577,578" orderby="post\_date"\]
+
+{{<gallery>}}
+  {{<img src="images/IMG_3841.jpg">}}
+  {{<img src="images/PANO_20140723_104438.jpg">}}
+  {{<img src="images/IMG_3825-MOTION.gif">}}
+  {{<img src="images/PANO_20140723_113339.jpg">}}
+  {{<img src="images/PANO_20140723_111324.jpg">}}
+  {{<img src="images/PANO_20140723_113147.jpg">}}
+  {{<img src="images/IMG_20140723_113450.jpg">}}
+  {{<img src="images/IMG_3856-MOTION.gif">}}
+  {{<img src="images/PANO_20140723_114119.jpg">}}
+  {{<img src="images/IMG_3842-MOTION.gif">}}
+  {{<img src="images/IMG_20140723_113732.jpg" oriantation="portrait">}}
+  {{<img src="images/IMG_3852.jpg">}}
+  {{<img src="images/IMG_3839.jpg">}}
+  {{<img src="images/IMG_3823.jpg">}}
+  {{<img src="images/DSC00410.jpg">}}
+  {{<img src="images/IMG_3887.jpg">}}
+  {{<img src="images/IMG_3880.jpg">}}
+  {{<img src="images/IMG_3879.jpg">}}
+  {{<img src="images/IMG_3878.jpg">}}
+  {{<img src="images/IMG_3892.jpg" oriantation="portrait">}}
+  {{<img src="images/IMG_3891.jpg" oriantation="portrait">}}
+  {{<img src="images/IMG_3893.jpg">}}
+  {{<img src="images/IMG_3894.jpg" oriantation="portrait">}}
+  {{<img src="images/PANO_20140723_111043.jpg">}}
+  {{<img src="images/DSC00413.jpg">}}
+  {{<img src="images/DSC00417.jpg">}}
+  {{<img src="images/IMG_3905.jpg">}}
+  {{<img src="images/IMG_3903.jpg">}}
+{{</gallery>}}

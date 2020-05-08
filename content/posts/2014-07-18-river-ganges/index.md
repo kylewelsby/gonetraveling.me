@@ -15,4 +15,25 @@ We visited the Ganges river for an entire day, there was a lot of activity to ta
 
  
 
-\[gallery link="file" type="rectangular" ids="417,418,419,420,422,426,427,438,428,424,416,421,429,430,431,412,423,432,433" orderby="post\_date"\]
+
+{{<gallery>}}
+  {{<img src="images/IMG_3278.jpg">}}
+  {{<img src="images/IMG_3291.jpg" title="Locals bathing in the River">}}
+  {{<img src="images/IMG_3290.jpg">}}
+  {{<img src="images/IMG_3299.jpg">}}
+  {{<img src="images/IMG_3284.jpg">}}
+  {{<img src="images/IMG_3275.jpg">}}
+  {{<img src="images/IMG_3288.jpg">}}
+  {{<img src="images/IMG_20140718_182919.jpg">}}
+  {{<img src="images/IMG_3297-MOTION.gif">}}
+  {{<img src="images/DSC00236.jpg" title="Gangies" oriantation="portrait">}}
+  {{<img src="images/DSC00235.jpg">}}
+  {{<img src="images/IMG_3333-MOTION.gif">}}
+  {{<img src="images/IMG_3309.jpg">}}
+  {{<img src="images/IMG_3367-MOTION.gif">}}
+  {{<img src="images/DSC00257.jpg" title="Offering">}}
+  {{<img src="images/IMG_3394-MOTION.gif" title="Giving a lantern offering">}}
+  {{<img src="images/DSC00263.jpg">}}
+  {{<img src="images/DSC00269.jpg">}}
+  {{<img src="images/IMG_3433.jpg">}}
+{{</gallery>}}

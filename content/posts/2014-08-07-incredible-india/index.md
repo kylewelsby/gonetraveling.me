@@ -65,4 +65,23 @@ Would not travel alone in India, especially if you are Woman. It feels safe enou
 
 [Read more of my experiences in India](/category/india/)
 
-\[gallery type="rectangular" ids="800,799,721,711,701,709,680,674,661,641,628,586,558,522,503,434,398"\]
+
+{{<gallery>}}
+  {{<img src="images/PANO_20140806_182651.jpg" title="Spice trade">}}
+  {{<img src="images/PANO_20140806_182714.jpg" title="Overlooking Old Delhi">}}
+  {{<img src="images/PANO_20140729_12451522.jpg" title="India Gate" oriantation="portrait">}}
+  {{<img src="images/IMG_4043-MOTION.gif">}}
+  {{<img src="images/IMG_4024.jpg">}}
+  {{<img src="images/IMG_3990.jpg" title="City Palace">}}
+  {{<img src="images/DSC00529-EFFECTS.jpg">}}
+  {{<img src="images/DSC00508.jpg">}}
+  {{<img src="images/DSC00464.jpg">}}
+  {{<img src="images/DSC00453.jpg">}}
+  {{<img src="images/IMG_20140725_141123.jpg">}}
+  {{<img src="images/IMG_3927.jpg">}}
+  {{<img src="images/PANO_20140723_114119.jpg">}}
+  {{<img src="images/IMG_3731-MOTION.gif">}}
+  {{<img src="images/PANO_20140720_162330.jpg" title="Taj Mahal ">}}
+  {{<img src="images/IMG_3387-MOTION.gif">}}
+  {{<img src="images/PANO_20140718_120644.jpg" title="Painted advertisement posters">}}
+{{</gallery>}}

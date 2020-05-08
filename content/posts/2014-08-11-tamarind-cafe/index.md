@@ -9,4 +9,10 @@ We visited Tamarind Cafe (rated #145 out of 856 restaurants on [TripAdvisor](htt
 
  
 
-\[gallery type="rectangular" ids="821,822,823,824"\]
+
+{{<gallery>}}
+  {{<img src="images/IMG_4219.jpg" title="Restaurant Front">}}
+  {{<img src="images/IMG_4221.jpg" title="Coffee">}}
+  {{<img src="images/IMG_4222.jpg" title="Fresh Spring Rolls">}}
+  {{<img src="images/IMG_4223.jpg" title="Fried Spring Rolls">}}
+{{</gallery>}}

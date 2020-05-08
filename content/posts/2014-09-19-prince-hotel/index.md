@@ -42,4 +42,11 @@ Cons
 
 [![agoda-dot-com](images/agoda-dot-com.png)](http://www.agoda.com/hoi-an-prince-hotel/hotel/hoi-an-vn.html?cid=1649959)
 
-\[gallery link="file" type="rectangular" ids="1242,1248,1249,1250,1251" orderby="post\_date"\]
+
+{{<gallery>}}
+  {{<img src="images/IMG_20140915_1715331.jpg">}}
+  {{<img src="images/IMG_20140915_171515.jpg">}}
+  {{<img src="images/IMG_20140915_171523.jpg" oriantation="portrait">}}
+  {{<img src="images/IMG_20140915_173128.jpg">}}
+  {{<img src="images/DSC01188.jpg">}}
+{{</gallery>}}

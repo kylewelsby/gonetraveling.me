@@ -5,4 +5,16 @@ date: "2014-07-27"
 
 Udaiper as seen from Lake Pichola.
 
-\[gallery type="rectangular" ids="708,709,707,706,705,704,700,701,702,703"\]
+
+{{<gallery>}}
+  {{<img src="images/IMG_3988.jpg">}}
+  {{<img src="images/IMG_3990.jpg" title="City Palace">}}
+  {{<img src="images/IMG_3993.jpg" title="Taj Lake Palace">}}
+  {{<img src="images/IMG_4000.jpg">}}
+  {{<img src="images/IMG_4005.jpg">}}
+  {{<img src="images/IMG_4025.jpg">}}
+  {{<img src="images/IMG_4031.jpg">}}
+  {{<img src="images/IMG_4024.jpg">}}
+  {{<img src="images/IMG_4022.jpg" title="Jag Mandir">}}
+  {{<img src="images/IMG_4027.jpg">}}
+{{</gallery>}}

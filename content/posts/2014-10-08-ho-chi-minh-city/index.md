@@ -42,7 +42,7 @@ After buying all the wonderful souvenirs, we taken a short walk around the corne
 
 Ho Chi Minh City is a worthwhile visit, for those who like a big busy city with everything within easy reach.
 
-\[gallery type="rectangular" ids="1523,1522,1521,1520,1504,1493,1494,1500,1492,1488,1471,1455,1461,1525,1526,1527"\]
+
 {{<gallery>}}
   {{<img src="images/IMG_20141003_170819.jpg" title="Busy streets of Ho Chi Minh City" oriantation="large">}}
   {{<img src="images/DSC_0134.jpg" title="Epic view" oriantation="portrait">}}
@@ -56,6 +56,24 @@ Ho Chi Minh City is a worthwhile visit, for those who like a big busy city with 
   {{<img src="images/DSC01554.jpg" title="secret escape hole">}}
   {{<img src="images/IMG_20141004_211313.jpg" title="Sax n Art Jazz Club &#8211; Ho Chi Minh City" oriantation="large">}}
   {{<img src="images/IMG_5372.jpg" title="Spicy Salmon Nigiri">}}
+  {{<img src="images/IMG_20141004_202147.jpg" title="Bahdja Restaurant &#8211; Ho Chi Minh City">}}
+  {{<img src="images/DSC01596.jpg" title="Artillery Gun">}}
+  {{<img src="images/DSC01599.jpg" title="Artillery Tank">}}
+  {{<img src="images/DSC01603.jpg" title="Helicopter with turret gun">}}
+{{</gallery>}}
+{{<gallery>}}
+  {{<img src="images/IMG_20141003_170819.jpg" title="Busy streets of Ho Chi Minh City">}}
+  {{<img src="images/PANO_20141005_133245.jpg" title="Saigon Central Post Office &#8211; constructed between 1886-1891">}}
+  {{<img src="images/IMG_20141005_1713312.jpg" title="Pizza 4P&#8217;s taisty pizza">}}
+  {{<img src="images/IMG_20141005_141033.jpg" title="Busy isles of Ben Thanh Markets">}}
+  {{<img src="images/DSC_0134.jpg" title="Epic view" oriantation="portrait">}}
+  {{<img src="images/DSC01588.jpg" title="there are bats for company">}}
+  {{<img src="images/DSC01589.jpg" title="entrance">}}
+  {{<img src="images/IMG_5375.jpg" title="Mojito at Chill Skybar">}}
+  {{<img src="images/DSC01586.jpg" title="tunnel selfie" oriantation="portrait">}}
+  {{<img src="images/DSC01554.jpg" title="secret escape hole">}}
+  {{<img src="images/IMG_5372.jpg" title="Spicy Salmon Nigiri">}}
+  {{<img src="images/IMG_20141004_211313.jpg" title="Sax n Art Jazz Club &#8211; Ho Chi Minh City">}}
   {{<img src="images/IMG_20141004_202147.jpg" title="Bahdja Restaurant &#8211; Ho Chi Minh City">}}
   {{<img src="images/DSC01596.jpg" title="Artillery Gun">}}
   {{<img src="images/DSC01599.jpg" title="Artillery Tank">}}

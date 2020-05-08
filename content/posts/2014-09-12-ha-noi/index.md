@@ -47,4 +47,26 @@ For the entire month we stayed in Hanoi we withdrawn ₫70,290,000 (exactly £
 
 **Overall** I liked our stay in Hanoi, there are plenty of things to do and navigating is easy enough. If your are not working, blogging or something I would recommend about 1 week to enjoy the sights, sounds and food.
 
-\[gallery type="rectangular" ids="1171,1172,1164,1165,1166,1167,1168,1169,1170,1176,1175,1174,1173,1126,1190,1189,1183,1182,1181,1180"\]
+
+{{<gallery>}}
+  {{<img src="images/IMG_4811-EFFECTS.jpg" title="Lý Quốc Sư">}}
+  {{<img src="images/IMG_4182-EFFECTS.jpg" oriantation="portrait">}}
+  {{<img src="images/IMG_4180.jpg" title="Vườn hoa Lý Thái Tổ">}}
+  {{<img src="images/IMG_4143-MOTION.gif" title="Hoàn Kiếm Lake">}}
+  {{<img src="images/IMG_4202.jpg" title="Đài phun nước in the evening">}}
+  {{<img src="images/IMG_4210.jpg" title="Night Markets">}}
+  {{<img src="images/DSC00640.jpg" title="Pineapple Scam">}}
+  {{<img src="images/PANO_20140816_191219.jpg" title="Đài phun nước at night">}}
+  {{<img src="images/IMG_20140906_204525.jpg" title="Busy Busy streets">}}
+  {{<img src="images/IMG_20140830_210737.jpg">}}
+  {{<img src="images/PANO_20140813_092450.jpg" title="outside the front of hotel, one rainy morning.">}}
+  {{<img src="images/IMG_4280.jpg">}}
+  {{<img src="images/IMG_20140811_151043.jpg" title="bike parking more important than pedestrians. ">}}
+  {{<img src="images/IMG_20140913_054131-EFFECTS.jpg" title="Ga Hà Nội">}}
+  {{<img src="images/PANO_20140813_070153.jpg" title="Hoàn Kiếm Lake">}}
+  {{<img src="images/IMG_20140811_142358.jpg" title="Hoàn Kiếm Lake">}}
+  {{<img src="images/DSC00584.jpg" title="Hoàn Kiếm Lake">}}
+  {{<img src="images/IMG_4195.jpg" title="busy streets ">}}
+  {{<img src="images/IMG_4191.jpg" title="Woman&#8217;s Museum Tickets">}}
+  {{<img src="images/DSC00587.jpg" oriantation="portrait">}}
+{{</gallery>}}

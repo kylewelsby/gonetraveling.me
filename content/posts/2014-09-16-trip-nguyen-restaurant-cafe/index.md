@@ -13,4 +13,8 @@ I would recommend checking this place out for the cheap local dishes, food is pr
 
 > [Trip Nguyen](https://plus.google.com/111909047415655090515/about), 736 Hai Bà Trưng, Minh An, tp. Hội An Quảng Nam, Vietnam‎ Tel: [+84 91 769 31 52](tel:+84917693152) Email: [tripnguyen\_207@yahoo.com](mailto:tripnguyen_207@yahoo.com)
 
-\[gallery type="rectangular" ids="1295,1294"\]
+
+{{<gallery>}}
+  {{<img src="images/IMG_20140916_141904.jpg" title="Cao Lầu">}}
+  {{<img src="images/IMG_20140916_141900.jpg" title="White Rose">}}
+{{</gallery>}}

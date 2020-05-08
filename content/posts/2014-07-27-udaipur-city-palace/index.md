@@ -7,4 +7,33 @@ We visited the City Palace and had a guided tour around the paid-public sections
 
 This City Palace is well worth the visit.
 
-\[gallery link="file" type="rectangular" ids="661,662,663,664,665,666,667,668,669,670,671,672,673,674,675,676,677,678,679,680,681,682,683,687,686,685,684" orderby="post\_date"\]
+
+{{<gallery>}}
+  {{<img src="images/DSC00464.jpg">}}
+  {{<img src="images/DSC00466.jpg" oriantation="portrait">}}
+  {{<img src="images/DSC00479.jpg">}}
+  {{<img src="images/DSC00482.jpg">}}
+  {{<img src="images/DSC00486.jpg">}}
+  {{<img src="images/DSC00488.jpg">}}
+  {{<img src="images/DSC00487-PANO.jpg">}}
+  {{<img src="images/PANO_20140727_174933.jpg">}}
+  {{<img src="images/DSC00497.jpg">}}
+  {{<img src="images/DSC00496.jpg" oriantation="portrait">}}
+  {{<img src="images/DSC00495.jpg">}}
+  {{<img src="images/DSC00505.jpg">}}
+  {{<img src="images/DSC00503.jpg">}}
+  {{<img src="images/DSC00508.jpg">}}
+  {{<img src="images/DSC00512.jpg">}}
+  {{<img src="images/DSC00521.jpg" oriantation="portrait">}}
+  {{<img src="images/DSC00515.jpg">}}
+  {{<img src="images/DSC00527.jpg">}}
+  {{<img src="images/DSC00524.jpg">}}
+  {{<img src="images/DSC00529-EFFECTS.jpg">}}
+  {{<img src="images/DSC00528.jpg">}}
+  {{<img src="images/DSC00526.jpg">}}
+  {{<img src="images/DSC00518.jpg">}}
+  {{<img src="images/DSC00463.jpg">}}
+  {{<img src="images/DSC00468.jpg">}}
+  {{<img src="images/DSC00461.jpg">}}
+  {{<img src="images/DSC00484.jpg">}}
+{{</gallery>}}

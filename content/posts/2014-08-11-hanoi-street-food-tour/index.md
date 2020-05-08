@@ -57,4 +57,28 @@ Some of the group member called it a night, but we got along with some long-term
 
 This food tour cost us 424,000₫ per person, not entirely bad for the amount of places we tried. Would have preferred to try some less popular but still good Vietnamese Street food.
 
-\[gallery type="rectangular" ids="971,970,969,968,967,961,962,963,964,965,966,974,975,976,977,978,979,984,983,982,981,980"\]
+
+{{<gallery>}}
+  {{<img src="images/IMG_4227.jpg" title="Chicken Noodles @ Phở Gà Thanh Hợp">}}
+  {{<img src="images/IMG_4234.jpg" title="Shrimp Rolls @ Bánh Cuốn Nóng &#038; Mỳ Vằn Thắn">}}
+  {{<img src="images/IMG_4241.jpg" title="Purple mangosteen">}}
+  {{<img src="images/IMG_4242-MOTION.gif" title="Refreshing cool drink">}}
+  {{<img src="images/IMG_4264.jpg" title="Spring Rolls @ Quán Bánh Gối">}}
+  {{<img src="images/DSC00606.jpg" title="Cake!">}}
+  {{<img src="images/DSC00603.jpg" title="Egg Coffee @ Cafe Giảng">}}
+  {{<img src="images/DSC00601.jpg" title="Beer!">}}
+  {{<img src="images/IMG_4270.jpg" title="Egg Coffee @ Cafe Giảng">}}
+  {{<img src="images/IMG_4268.jpg" title="Beer!">}}
+  {{<img src="images/IMG_4267.jpg" title="Fresh Fruit @ Shinh Tố Trang TríI">}}
+  {{<img src="images/IMG_4224.jpg" title="Phở Gà Thanh Hợp">}}
+  {{<img src="images/IMG_4230.jpg" title="Bánh Cuốn Nóng &#038; Mỳ Vằn Thắn">}}
+  {{<img src="images/IMG_4231.jpg" title="Kitchen @ Bánh Cuốn Nóng &#038; Mỳ Vằn Thắn">}}
+  {{<img src="images/IMG_4232.jpg" title="Preparing cake @ Bánh Cuốn Nóng &#038; Mỳ Vằn Thắn">}}
+  {{<img src="images/IMG_4233.jpg" title="peeling the cake @ Bánh Cuốn Nóng &#038; Mỳ Vằn Thắn">}}
+  {{<img src="images/IMG_4237.jpg" title="Purple mangosteen and Pitaya">}}
+  {{<img src="images/IMG_4271.jpg" title="Cafe Giảng">}}
+  {{<img src="images/DSC00600.jpg" title="St Joseph Cathedral" oriantation="portrait">}}
+  {{<img src="images/IMG_4266.jpg" title="Shinh Tố Trang TríI">}}
+  {{<img src="images/IMG_4265.jpg" title="Quán Bánh Gối">}}
+  {{<img src="images/IMG_4258.jpg">}}
+{{</gallery>}}

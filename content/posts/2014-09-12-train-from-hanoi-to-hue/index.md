@@ -21,4 +21,15 @@ Much preferred the soft seat day time ride than the looks of the hard seat.  Th
 
 We paid $30 per person (inflated from $22 due to hotel commission), and got to see plenty of land culture as we travelled, not sure what the air fair would have been but it would have been too easy not have been so eventful.
 
-\[gallery type="rectangular" ids="1131,1129,1128,1126,1125,1124,1123,1121,1127"\]
+
+{{<gallery>}}
+  {{<img src="images/IMG_4835-EFFECTS.jpg">}}
+  {{<img src="images/IMG_4848-MOTION.gif">}}
+  {{<img src="images/IMG_4876.jpg">}}
+  {{<img src="images/IMG_20140913_054131-EFFECTS.jpg" title="Ga Hà Nội">}}
+  {{<img src="images/IMG_20140913_051338.jpg" title="Hard Seat Cabin">}}
+  {{<img src="images/IMG_20140913_051347.jpg" title="Soft Seat Cabin">}}
+  {{<img src="images/IMG_20140913_195626.jpg" title="Football playing loudly ">}}
+  {{<img src="images/IMG_20140914_093009.jpg" title="Train ticket">}}
+  {{<img src="images/IMG_4835.jpg" title="Vietnam Train">}}
+{{</gallery>}}

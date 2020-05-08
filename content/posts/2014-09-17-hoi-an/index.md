@@ -41,6 +41,33 @@ Also while in Hoi An, I got a leather bag messenger of my design for my laptop m
 
 > [Pandanus Spa](https://plus.google.com/110928023007490527370/about), Cẩm Châu, tp. Hội An, Quảng Nam, Vietnam Tel: [+84 93 555 27 33](tel:+84935552733) Email: [hngtaman@gmail.com](mailto:hngtaman@gmail.com) Website: [pandanusspahoian.wordpress.com](http://pandanusspahoian.wordpress.com) [TripAdvisor](http://www.tripadvisor.com/Attraction_Review-g298082-d6599621-Reviews-Pandanus_Spa_Hoi_An-Hoi_An_Quang_Nam_Province.html)
 
-Really enjoyed our stay in Hoi An, would love to return again especially for the food. \[gallery type="rectangular" ids="1322,1324,1325,1323,1318,1319,1307,1306,1305,1304,1303,1302,1301,1300,1299,1271,1295,1317,1313,1311,1309,1314,1316,1315,1312"\]
+Really enjoyed our stay in Hoi An, would love to return again especially for the food. 
 
 * * *
+{{<gallery>}}
+  {{<img src="images/DSC01189.jpg" title="bãi biển An Bàng &#8211; Hoi An">}}
+  {{<img src="images/IMG_5043.jpg" title="bãi biển An Bàng &#8211; Hoi An">}}
+  {{<img src="images/DSC01215.jpg" title="bãi biển An Bàng &#8211; Hoi An">}}
+  {{<img src="images/DSC01208.jpg" title="bãi biển An Bàng &#8211; Hoi An">}}
+  {{<img src="images/PANO_20140918_141840.jpg" title="bãi biển An Bàng &#8211; Hoi An">}}
+  {{<img src="images/DSC01188.jpg" title="Free bicycle rental">}}
+  {{<img src="images/DSC01151.jpg">}}
+  {{<img src="images/DSC01128.jpg" title="Hoi An Markets">}}
+  {{<img src="images/DSC01122.jpg" title="Japanese Covered Bridge">}}
+  {{<img src="images/DSC01118.jpg">}}
+  {{<img src="images/DSC01116.jpg">}}
+  {{<img src="images/DSC01110.jpg">}}
+  {{<img src="images/DSC01104.jpg">}}
+  {{<img src="images/IMG_4941.jpg">}}
+  {{<img src="images/IMG_20140916_164229.jpg">}}
+  {{<img src="images/Picture.jpeg" title="Best Chicken Wings Ever!">}}
+  {{<img src="images/IMG_20140916_141904.jpg" title="Cao Lầu">}}
+  {{<img src="images/IMG_20140917_180338.jpg">}}
+  {{<img src="images/DSC01173.jpg" title="Lanterns">}}
+  {{<img src="images/DSC011621.jpg" title="Lanterns">}}
+  {{<img src="images/DSC01160.jpg" title="Lanterns">}}
+  {{<img src="images/IMG_5001.jpg" title="Japanese Covered Bridge at Night">}}
+  {{<img src="images/IMG_5006.jpg">}}
+  {{<img src="images/IMG_5003.jpg" title="Japanese Covered Bridge at Night">}}
+  {{<img src="images/IMG_4991.jpg">}}
+{{</gallery>}}

@@ -107,6 +107,69 @@ This tour cost us $278 per person (including transportation from Hanoi).
 > 
 > Website: [www.indochina-junk.com](http://www.indochina-junk.com/)
 
-\[gallery type="rectangular" ids="1065,1064,1063,1062,1061,1060,1059,1058,1057,1056,1055,1054,1053,1052,1051,1050,1049,1048,1047,1046,1045,1044,1043,1042,1041,1040,1039,1038,1037,1036,1035,1034,1033,1032,1031,1030,1029,1028,1027,1026,1025,1024,1023,1022,1021,1020,1019,1018,1017,1016,1015,1014,1013,1012,1011,1010,1009,1008,1007,1006,1005"\]
+
 
 http://youtu.be/rnZ8BGXpEW0
+{{<gallery>}}
+  {{<img src="images/IMG_20140822_151826.jpg" title="Relaxing on deck">}}
+  {{<img src="images/IMG_20140822_152748.jpg">}}
+  {{<img src="images/IMG_4561.jpg" title="Boarding">}}
+  {{<img src="images/IMG_4564.jpg">}}
+  {{<img src="images/IMG_4567.jpg" title="Dragon&#8217;s Pearl">}}
+  {{<img src="images/IMG_4571.jpg" title="Our room">}}
+  {{<img src="images/IMG_4578.jpg">}}
+  {{<img src="images/DSC00789.jpg" oriantation="portrait">}}
+  {{<img src="images/IMG_4580.jpg">}}
+  {{<img src="images/IMG_4583.jpg">}}
+  {{<img src="images/IMG_4585.jpg">}}
+  {{<img src="images/IMG_4589.jpg">}}
+  {{<img src="images/DSC00810.jpg">}}
+  {{<img src="images/IMG_4595-MOTION.gif">}}
+  {{<img src="images/IMG_4610.jpg" title="&#8220;Set sail for over there&#8221;">}}
+  {{<img src="images/IMG_4614.jpg">}}
+  {{<img src="images/DSC00816.jpg">}}
+  {{<img src="images/IMG_4619.jpg" title="Floating out-post">}}
+  {{<img src="images/IMG_4622.jpg">}}
+  {{<img src="images/DSC00828.jpg" title="Kayaks ">}}
+  {{<img src="images/IMG_4628.jpg" title="Ha Long Bay">}}
+  {{<img src="images/IMG_4630.jpg">}}
+  {{<img src="images/IMG_4633.jpg">}}
+  {{<img src="images/IMG_4637.jpg">}}
+  {{<img src="images/IMG_4646-MOTION.gif">}}
+  {{<img src="images/IMG_4667.jpg">}}
+  {{<img src="images/IMG_4669-MOTION.gif">}}
+  {{<img src="images/DSC00835.jpg" title="Floating rubbish">}}
+  {{<img src="images/IMG_4686-MOTION.gif">}}
+  {{<img src="images/IMG_4698.jpg" title="Fresh mango growing on beach">}}
+  {{<img src="images/IMG_4700.jpg" title="Sand Closeup">}}
+  {{<img src="images/DSC00839.jpg">}}
+  {{<img src="images/DSC00842.jpg" title="More floating rubbish">}}
+  {{<img src="images/IMG_4706.jpg">}}
+  {{<img src="images/IMG_4708.jpg">}}
+  {{<img src="images/DSC00849.jpg">}}
+  {{<img src="images/DSC00861.jpg" title="Sunset">}}
+  {{<img src="images/DSC00891-EFFECTS.jpg">}}
+  {{<img src="images/DSC00894.jpg" title="Relaxing on a beach">}}
+  {{<img src="images/DSC00898.jpg" title="Kyle ♡ Kim">}}
+  {{<img src="images/DSC00926.jpg" title="Kayaking together" oriantation="portrait">}}
+  {{<img src="images/DSC00933.jpg">}}
+  {{<img src="images/DSC00942.jpg" title="Kayaking">}}
+  {{<img src="images/IMG_4726-MOTION.gif" title="It rained sometimes.">}}
+  {{<img src="images/IMG_4739.jpg" title="Food Carvings">}}
+  {{<img src="images/IMG_4740.jpg" title="Food Carvings">}}
+  {{<img src="images/DSC00978.jpg" title="Cave Love">}}
+  {{<img src="images/IMG_4746.jpg" oriantation="portrait">}}
+  {{<img src="images/IMG_4753-MOTION.gif" title="Starry night">}}
+  {{<img src="images/IMG_4769.jpg" title="Beautiful Night">}}
+  {{<img src="images/PANO_20140824_084303.jpg" title="Entrance to Floating Village">}}
+  {{<img src="images/DSC00985.jpg" title="Floating community">}}
+  {{<img src="images/IMG_4772.jpg" title="Floating community">}}
+  {{<img src="images/DSC00994.jpg" title="Floating Scool">}}
+  {{<img src="images/DSC00997.jpg" title="Cute dog on floating village">}}
+  {{<img src="images/IMG_4795.jpg">}}
+  {{<img src="images/IMG_4801.jpg" title="Fresh Perl ">}}
+  {{<img src="images/IMG_4802.jpg" title="Fresh Pearl">}}
+  {{<img src="images/DSC01004.jpg" title="&#8220;Set sail for over there..&#8221;">}}
+  {{<img src="images/DSC01006.jpg">}}
+  {{<img src="images/DSC01017.jpg" oriantation="portrait">}}
+{{</gallery>}}

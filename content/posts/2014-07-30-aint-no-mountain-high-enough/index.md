@@ -71,7 +71,7 @@ It rained very hard during the early hours of the morning, **we woke to localise
 
 After taking a tuk-tuk to the city centre, we had to finish the last few metres ankle-deep in flood water to reach the bustling alleyways.
 
-\[gallery type="rectangular" ids="410,397"\]
+
 
 We stopped at [Blue Lassi Shop](http://gonetraveling.me/2014/07/blue-lassi-shop/ "Blue Lassi Shop") recommended for its Lassi, while enjoying our Lassi, cows strolled on past and bodies were carried through the alleyways. We later find out where the bodies were being carried to.
 
@@ -178,3 +178,7 @@ I loved India's welcoming villages where families and children would greet you w
 Would I visit Nepal again? Yes! Would I visit India again? YES!
 
 Would I recommend you to visit Nepal and/or India? Absolutely!
+{{<gallery>}}
+  {{<img src="images/IMG_3262.jpg" title="Kim walking ankle-deep though flood water." oriantation="portrait">}}
+  {{<img src="images/IMG_20140718_121252.jpg" title="Man making our Lassi">}}
+{{</gallery>}}

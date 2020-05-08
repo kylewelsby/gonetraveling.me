@@ -69,4 +69,73 @@ I would recommend people to visit this district, the train ride, altitude and vi
 
 [Views](https://www.google.com/maps/views/): [Sapa](https://www.google.com/maps/views/view/103958417703949399427/gphoto/6053260651578030530) by [Kyle Welsby](https://www.google.com/maps/views/profile/103958417703949399427)
 
-\[gallery type="rectangular" ids="884,885,886,887,888,889,890,891,892,893,894,895,896,897,898,899,900,901,902,903,904,905,906,907,908,909,910,911,912,913,914,915,916,917,918,919,920,921,922,923,924,925,926,928,929,930,931,932,933,934,935,936,937,938,939,940,941,942,943,945,946,947,948,949,950,952,954"\]
+
+{{<gallery>}}
+  {{<img src="images/DSC006601.jpg" title="&#8230;and this is Sapa">}}
+  {{<img src="images/DSC00671.jpg">}}
+  {{<img src="images/DSC00673.jpg" title="Children playing.">}}
+  {{<img src="images/DSC00674.jpg">}}
+  {{<img src="images/DSC00685.jpg">}}
+  {{<img src="images/DSC00688.jpg">}}
+  {{<img src="images/DSC00705.jpg" title="Calving Bamboo with my Swiss Army Knife">}}
+  {{<img src="images/DSC00708.jpg" title="Cute kitten ">}}
+  {{<img src="images/DSC00713.jpg">}}
+  {{<img src="images/DSC00715.jpg">}}
+  {{<img src="images/DSC00717.jpg">}}
+  {{<img src="images/DSC00720.jpg" title="Buffalo remind me of my dogs">}}
+  {{<img src="images/DSC00721.jpg">}}
+  {{<img src="images/DSC00723.jpg" title="Bathing with buffalo">}}
+  {{<img src="images/DSC00726.jpg" title="Extremely safe wooden bridge. " oriantation="portrait">}}
+  {{<img src="images/DSC00730.jpg" title="Li&#8217;May">}}
+  {{<img src="images/DSC00733.jpg" title="Black and white dragonfly">}}
+  {{<img src="images/DSC00736.jpg">}}
+  {{<img src="images/DSC00738.jpg">}}
+  {{<img src="images/DSC00740.jpg">}}
+  {{<img src="images/DSC00741.jpg" title="Pig wallowing in mud">}}
+  {{<img src="images/DSC00744.jpg">}}
+  {{<img src="images/DSC00752.jpg">}}
+  {{<img src="images/DSC00768.jpg">}}
+  {{<img src="images/DSC00778-EFFECTS.jpg" oriantation="portrait">}}
+  {{<img src="images/DSC00780.jpg">}}
+  {{<img src="images/IMG_4339.jpg" title="Muddy paths">}}
+  {{<img src="images/IMG_4344.jpg">}}
+  {{<img src="images/IMG_4345.jpg" title="Rice 3 weeks away from harvest">}}
+  {{<img src="images/IMG_4346.jpg">}}
+  {{<img src="images/IMG_4353.jpg" title="Sticky rice">}}
+  {{<img src="images/IMG_4357.jpg">}}
+  {{<img src="images/IMG_4362.jpg" title="Rice fields">}}
+  {{<img src="images/IMG_4389.jpg" oriantation="portrait">}}
+  {{<img src="images/IMG_4390-MOTION.gif" title="We&#8217;re in the clouds">}}
+  {{<img src="images/IMG_4414.jpg" title="Rice fields">}}
+  {{<img src="images/IMG_4415.jpg" title="Red dragon fly">}}
+  {{<img src="images/IMG_4416.jpg" title="Red dragon fly">}}
+  {{<img src="images/IMG_4417.jpg" title="Banana Trees">}}
+  {{<img src="images/IMG_4426.jpg">}}
+  {{<img src="images/IMG_4427-MOTION.gif" oriantation="portrait">}}
+  {{<img src="images/IMG_4441-EFFECTS.jpg">}}
+  {{<img src="images/IMG_4457-MOTION.gif" title="Busy bee">}}
+  {{<img src="images/IMG_4482.jpg" title="duck, duck, duck">}}
+  {{<img src="images/IMG_4483.jpg" title="New born piglets">}}
+  {{<img src="images/IMG_4485.jpg">}}
+  {{<img src="images/IMG_4495.jpg" title="Poor beetle stuck on its back.">}}
+  {{<img src="images/IMG_4497.jpg">}}
+  {{<img src="images/IMG_4514.jpg">}}
+  {{<img src="images/IMG_4524.jpg">}}
+  {{<img src="images/IMG_4537.jpg">}}
+  {{<img src="images/IMG_4550.jpg" title="4 berth delux cabin">}}
+  {{<img src="images/IMG_4555.jpg" title="Train snaking around bend.">}}
+  {{<img src="images/IMG_20140817_194816.jpg" title="Our Train.">}}
+  {{<img src="images/IMG_20140818_1112101.jpg">}}
+  {{<img src="images/IMG_20140818_190238.jpg" title="Kitten enjoying the fire. ">}}
+  {{<img src="images/IMG_20140818_191633.jpg" title="Pork Dinner">}}
+  {{<img src="images/IMG_20140819_100020.jpg" title="Wooden bed dormitory ">}}
+  {{<img src="images/IMG_20140819_103323.jpg" title="May Lai Homestay " oriantation="portrait">}}
+  {{<img src="images/IMG_20140820_114154.jpg">}}
+  {{<img src="images/PANO_20140818_100946.jpg">}}
+  {{<img src="images/PANO_20140818_104149.jpg">}}
+  {{<img src="images/PANO_20140818_110932.jpg">}}
+  {{<img src="images/PANO_20140819_112242.jpg" title="1500ft up in sapa">}}
+  {{<img src="images/PANO_20140820_110237.jpg">}}
+  {{<img src="images/IMG_4477.jpg" title="A cave that was too dark to enter">}}
+  {{<img src="images/IMG_20140819_1224201.jpg" title="Slashing water &#8211; <a href="https://soundcloud.com/mekyle/water/s-sLa0K">listen</a>">}}
+{{</gallery>}}

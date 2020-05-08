@@ -31,4 +31,28 @@ Sadly only got a few hours of sleep, the room air-conditioning unit failed and I
 
 Waking up cranky and tired we had breakfast, showered, packed our bags and departed to get our bus to Hoi An.
 
-\[gallery link="file" type="rectangular" ids="1208,1212,1213,1214,1215,1216,1217,1219,1220,1221,1222,1223,1224,1225,1226,1228,1227,1233,1232,1231,1230,1229" orderby="post\_date"\]
+
+{{<gallery>}}
+  {{<img src="images/IMG_4934.jpg" title="Lotterria &#8211; Vietnam&#8217;s McDonalds fast food alternative">}}
+  {{<img src="images/PANO_20140914_112718.jpg">}}
+  {{<img src="images/IMG_20140914_120658.jpg">}}
+  {{<img src="images/IMG_20140914_133408.jpg">}}
+  {{<img src="images/IMG_4885.jpg" title="Tree taking back a lookout point">}}
+  {{<img src="images/IMG_4887.jpg" title="concrete bunker">}}
+  {{<img src="images/DSC01034.jpg">}}
+  {{<img src="images/IMG_4893-MOTION1.gif">}}
+  {{<img src="images/IMG_4906.jpg">}}
+  {{<img src="images/IMG_4909.jpg">}}
+  {{<img src="images/DSC01057.jpg" oriantation="portrait">}}
+  {{<img src="images/IMG_4919.jpg">}}
+  {{<img src="images/DSC01064.jpg">}}
+  {{<img src="images/DSC01072.jpg" oriantation="portrait">}}
+  {{<img src="images/DSC01069.jpg">}}
+  {{<img src="images/DSC01076.jpg" title="Hue " oriantation="portrait">}}
+  {{<img src="images/PANO_20140914_120057.jpg">}}
+  {{<img src="images/PANO_20140915_120348-EFFECTS.jpg" title="Bee Coffee">}}
+  {{<img src="images/DSC01095.jpg">}}
+  {{<img src="images/IMG_4931.jpg">}}
+  {{<img src="images/DSC01084.jpg">}}
+  {{<img src="images/DSC01083.jpg">}}
+{{</gallery>}}

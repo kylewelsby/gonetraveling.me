@@ -9,7 +9,7 @@ We visited Pukhraj Durry Udhyog for a few hours in the morning, having breakfas
 
 \[youtube=http://youtu.be/R5g68ItgKok\]
 
-\[gallery link="file" type="rectangular" ids="649,651,618,616,617,650,652,621,623" orderby="post\_date"\]
+
 
 As an attrition, this village also has a clay pot makers which we also had the privilege to experience.
 
@@ -24,3 +24,14 @@ As an attrition, this village also has a clay pot makers which we also had the p
 > Website: [www.pukhrajdurry.com](http://www.pukhrajdurry.com/)
 
 There is also has a home stay [Chhotaram Prajapat's Homestay](http://www.agoda.com/en-gb/chhotaram-prajapat-s-homestay/hotel/jodhpur-in.html?cid=1649959) for about ₹2200 per night on [Agoda.](http://www.agoda.com/en-gb/chhotaram-prajapat-s-homestay/hotel/jodhpur-in.html?cid=1649959) We where shown the rooms and they looked amazing for a ultimate out-back village experience.
+{{<gallery>}}
+  {{<img src="images/IMG_3969.jpg" title="Breakfaast">}}
+  {{<img src="images/IMG_3971.jpg" title="Loom tools">}}
+  {{<img src="images/DSC00447.jpg">}}
+  {{<img src="images/IMG_20140726_091930.jpg">}}
+  {{<img src="images/IMG_20140726_091918.jpg">}}
+  {{<img src="images/IMG_3967.jpg">}}
+  {{<img src="images/IMG_3975.jpg" title="Pukharj and his mustache ">}}
+  {{<img src="images/IMG_3979.jpg" title="the professional ">}}
+  {{<img src="images/Screenshot-2014-08-02-23.07.08.png" title="Me pot making">}}
+{{</gallery>}}

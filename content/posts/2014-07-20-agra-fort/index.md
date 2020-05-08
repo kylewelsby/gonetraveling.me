@@ -13,4 +13,35 @@ This breathtaking fort as a wonderful place to walk around and learn the luxurie
 
 [Views](https://www.google.com/maps/views/): [Diwan E Aam](https://www.google.com/maps/views/view/103958417703949399427/gphoto/6042920313141021346) by [Kyle Welsby](https://www.google.com/maps/views/profile/103958417703949399427)
 
-\[gallery link="file" type="rectangular" ids="459,460,461,462,463,464,465,466,467,468,469,470,471,472,473,474,475,476,477,478,479,480,481,482,483,484,458,487,486" orderby="post\_date"\]
+
+{{<gallery>}}
+  {{<img src="images/PANO_20140720_123836.jpg">}}
+  {{<img src="images/IMG_20140720_121811.jpg">}}
+  {{<img src="images/IMG_20140720_120857.jpg">}}
+  {{<img src="images/PANO_20140720_124834.jpg">}}
+  {{<img src="images/PANO_20140720_124745.jpg">}}
+  {{<img src="images/IMG_3466.jpg">}}
+  {{<img src="images/IMG_3469.jpg">}}
+  {{<img src="images/IMG_3508.jpg">}}
+  {{<img src="images/IMG_3511.jpg">}}
+  {{<img src="images/DSC00275.jpg">}}
+  {{<img src="images/DSC00280.jpg">}}
+  {{<img src="images/DSC00289.jpg">}}
+  {{<img src="images/DSC00287.jpg" oriantation="portrait">}}
+  {{<img src="images/DSC00285.jpg">}}
+  {{<img src="images/DSC00310.jpg">}}
+  {{<img src="images/DSC00315.jpg">}}
+  {{<img src="images/DSC00301.jpg">}}
+  {{<img src="images/DSC00297.jpg">}}
+  {{<img src="images/IMG_3512.jpg">}}
+  {{<img src="images/IMG_3484.jpg">}}
+  {{<img src="images/IMG_3467.jpg">}}
+  {{<img src="images/IMG_3468.jpg">}}
+  {{<img src="images/PANO_20140720_113430.jpg">}}
+  {{<img src="images/IMG_20140720_120414.jpg">}}
+  {{<img src="images/IMG_20140720_115330.jpg">}}
+  {{<img src="images/IMG_20140720_120559.jpg">}}
+  {{<img src="images/PANO_20140720_114836.jpg">}}
+  {{<img src="images/DSC00307.jpg">}}
+  {{<img src="images/IMG_3457.jpg">}}
+{{</gallery>}}

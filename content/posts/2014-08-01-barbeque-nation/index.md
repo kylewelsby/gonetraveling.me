@@ -15,7 +15,7 @@ We enjoyed the food and atmosphere for the evening, eating until we could not ea
 
 I would recommend this place for a food filled evening.
 
-\[gallery type="rectangular" ids="443,445,444,446,447"\]
+
 
 > Barberque Nation, N96, 2nd Floor, Outer Circle, Munshli Lal building, Cannaught Place, New Delhi, 110001, India
 > 
@@ -24,3 +24,10 @@ I would recommend this place for a food filled evening.
 > Email: cp@barbeque-nation.com
 > 
 > Website: [www.barbeque-nation.com](http://www.barbeque-nation.com)
+{{<gallery>}}
+  {{<img src="images/IMG_4093-e1406968292699.jpg" oriantation="portrait">}}
+  {{<img src="images/IMG_4092.jpg">}}
+  {{<img src="images/IMG_4091.jpg">}}
+  {{<img src="images/IMG_4096.jpg">}}
+  {{<img src="images/IMG_4097.jpg" oriantation="portrait">}}
+{{</gallery>}}

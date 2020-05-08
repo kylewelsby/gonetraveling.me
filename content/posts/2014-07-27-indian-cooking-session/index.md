@@ -9,4 +9,11 @@ We joined the hotel owner Shakti Singh Inda in his group cooking kitchen to lear
 
 We head great fun cooking and joking with Shakti and we got to eat a large lunch too.
 
-\[gallery link="file" type="rectangular" ids="692,694,695,696,697" orderby="post\_date"\]
+
+{{<gallery>}}
+  {{<img src="images/DSC00541.jpg">}}
+  {{<img src="images/DSC00534.jpg">}}
+  {{<img src="images/DSC00542.jpg">}}
+  {{<img src="images/IMG_3987.jpg">}}
+  {{<img src="images/DSC00531.jpg">}}
+{{</gallery>}}

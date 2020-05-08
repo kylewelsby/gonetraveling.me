@@ -21,4 +21,29 @@ Walking around the temple we wondered “where are the monkeys” was not long u
 
 We found the World Peace Pond, shame this pond seemed more like a coin grabber than a meaningful attraction. Many people where having much fun throwing their coins to the center (aiming for the bucket). The pond water was green with no life (likely from the copper in the water).
 
-\[gallery link="file" type="rectangular" ids="245,244,243,241,240,239,238,237,236,212,362,363,365,366,367,369,370,371,372,374,375,376,377" orderby="post\_date"\]
+
+{{<gallery>}}
+  {{<img src="images/Stairs.gif">}}
+  {{<img src="images/Toy-Town-Kathmandu.gif">}}
+  {{<img src="images/Sunglass-reflection.jpg">}}
+  {{<img src="images/down-the-steep-stairs.gif">}}
+  {{<img src="images/The-Cutest-Monkey.gif">}}
+  {{<img src="images/Monkeys-in-tree.gif" title="monkeys doing monkey stuff">}}
+  {{<img src="images/Monkey.gif">}}
+  {{<img src="images/World-Peace-Pond.jpg" title="World Peace Pond">}}
+  {{<img src="images/Three-Buddas.jpg" title="Three Buddhas at the East Entrance.">}}
+  {{<img src="images/IMG_2874.jpg">}}
+  {{<img src="images/PANO_20140710_135813.jpg">}}
+  {{<img src="images/PANO_20140710_140831.jpg">}}
+  {{<img src="images/IMG_2826.jpg">}}
+  {{<img src="images/IMG_2842.jpg">}}
+  {{<img src="images/IMG_2839.jpg">}}
+  {{<img src="images/IMG_2846-MOTION.gif" title="Prayer Wheels">}}
+  {{<img src="images/IMG_2871.jpg">}}
+  {{<img src="images/IMG_2869.jpg">}}
+  {{<img src="images/IMG_2819.jpg">}}
+  {{<img src="images/DSC00168-MOTION.gif">}}
+  {{<img src="images/DSC00166.jpg">}}
+  {{<img src="images/DSC00161.jpg">}}
+  {{<img src="images/DSC00162.jpg">}}
+{{</gallery>}}
