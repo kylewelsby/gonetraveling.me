@@ -1,11 +1,16 @@
 ---
-title: "Ho Chi Minh City"
-date: "2014-10-08"
+title: Ho Chi Minh City
+date: '2014-10-08'
 url: /ho-chi-minh-city
-artwork: images/IMG_20141003_170819.jpg
+artwork: images/artwork.jpg
 categories:
-- Vietnam
-- Ho Chi Minh City
+  - Attractions
+  - Food
+  - Nightlife
+  - Vietnam
+tags:
+  - city
+  - ho chi minh city
 ---
 
 Ho Chi Minh City was our last stop in Vietnam, we stayed in a [Cheerful Home in Siagon that’s listed on AirBnB](https://www.airbnb.co.uk/rooms/3864609) for 1 week and our hosts made us feel very much at home. Most days we spent walking around the city, eating good food, and gathering last bit’s of souvenirs of Vietnam before we leave.

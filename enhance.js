@@ -16,7 +16,7 @@ const matter = require("gray-matter");
   });
 
   const resp = await axios.get(
-    "http://gonetraveling.me/wp-json/wp/v2/posts?per_page=1&page=1"
+    "http://gonetraveling.me/wp-json/wp/v2/posts?per_page=100&page=2"
   );
   const catResp = await axios.get(
     `http://gonetraveling.me/wp-json/wp/v2/categories?per_page=100`
@@ -45,6 +45,7 @@ const matter = require("gray-matter");
   }
 
   for (let item of resp.data) {
+    console.log(`Processing ${item.slug}`);
     // let filepath = glob.sync(`content/posts/*-${item.slug}/index.md`)
     let dir = path.resolve(
       __dirname,
@@ -53,18 +54,22 @@ const matter = require("gray-matter");
     );
     let filepath = path.resolve(dir, `index.md`);
     if (filepath.length > 0) {
-      try {
-        fs.mkdirSync(path.resolve(dir, 'images/'));
-      } catch (err) {}
-      let writer = fs.createWriteStream(path.resolve(dir, 'images/', 'artwork.jpg'));
-      let stream = await axios.get(item.jetpack_featured_media_url, {
-        responseType: "stream"
-      });
-      stream.data.pipe(writer);
-      await new Promise((resolve, reject) => {
-        writer.on("finish", resolve);
-        writer.on("error", reject);
-      });
+      if (item.jetpack_featured_media_url) {
+        try {
+          fs.mkdirSync(path.resolve(dir, "images/"));
+        } catch (err) {}
+        let writer = fs.createWriteStream(
+          path.resolve(dir, "images/", "artwork.jpg")
+        );
+        let stream = await axios.get(item.jetpack_featured_media_url, {
+          responseType: "stream"
+        });
+        stream.data.pipe(writer);
+        await new Promise((resolve, reject) => {
+          writer.on("finish", resolve);
+          writer.on("error", reject);
+        });
+      }
 
       let categories = item.categories
         .map((id) => catResp.data.find((item) => item.id === id))
@@ -75,7 +80,7 @@ const matter = require("gray-matter");
 
       let fm = matter.read(filepath);
       fm.data.url = `/${item.slug}`;
-      fm.data.artwork = 'images/artwork.jpg'
+      fm.data.artwork = "images/artwork.jpg";
       fm.data.categories = categories.map((c) => c.name);
       fm.data.tags = tags.map((c) => c.name);
       fs.writeFileSync(filepath, matter.stringify(fm), "utf-8");

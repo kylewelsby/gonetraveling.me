@@ -1,6 +1,15 @@
 ---
-title: "Hanoi Street Food Tour"
-date: "2014-08-11"
+title: Hanoi Street Food Tour
+date: '2014-08-11'
+url: /hanoi-street-food-tour
+categories:
+  - Attractions
+  - Food
+  - Vietnam
+tags:
+  - food tour
+  - Hanoi
+artwork: images/artwork.jpg
 ---
 
 ![](images/hanoi-street-food-tour.png)

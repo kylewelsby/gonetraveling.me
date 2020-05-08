@@ -1,6 +1,15 @@
 ---
-title: "Trip Nguyen Restaurant Cafe"
-date: "2014-09-16"
+title: Trip Nguyen Restaurant Cafe
+date: '2014-09-16'
+url: /trip-nguyen-restaurant-cafe
+categories:
+  - Food
+  - Vietnam
+tags:
+  - Cao lầu
+  - good food
+  - hoi an
+artwork: images/artwork.jpg
 ---
 
 ![](images/IMG_20140916_141904-1024x583.jpg) Trip Nguyen Restaurant Cafe (ranked #123 out of 412 restaurants on TripAdvisor) serves many Vietnamese dishes

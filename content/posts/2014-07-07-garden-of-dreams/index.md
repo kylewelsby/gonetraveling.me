@@ -1,6 +1,16 @@
 ---
-title: "Garden of Dreams"
-date: "2014-07-07"
+title: Garden of Dreams
+date: '2014-07-07'
+url: /garden-of-dreams
+categories:
+  - Nepal
+tags:
+  - Attraction
+  - fountain
+  - garden
+  - Garden of Dreams
+  - History
+artwork: images/artwork.jpg
 ---
 
 [![](images/IMG_1986-MOTION.gif)](http://gonetraveling.me/wp-content/uploads/2014/07/IMG_1986-MOTION.gif)

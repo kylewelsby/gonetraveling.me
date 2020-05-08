@@ -1,6 +1,12 @@
 ---
-title: "Mughal India Crafts & Textiles"
-date: "2014-07-23"
+title: Mughal India Crafts & Textiles
+date: '2014-07-23'
+url: /mughal-india-crafts-textiles
+categories:
+  - India
+tags:
+  - clothing
+artwork: images/artwork.jpg
 ---
 
 Recommended by our tuktuk driver, taken us to Mughal India Crafts & Textiles and shown the fabrics they stock.  As I ripped my shorts in Tordi Grah I could do with a sturdy new pair.

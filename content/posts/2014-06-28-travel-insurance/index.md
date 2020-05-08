@@ -1,6 +1,11 @@
 ---
-title: "Travel Insurance"
-date: "2014-06-28"
+title: Travel Insurance
+date: '2014-06-28'
+url: /travel-insurance
+artwork: images/artwork.jpg
+categories:
+  - Pre Travels
+tags: []
 ---
 
 A few weeks we arranged some Travel Insurance and I thought I would share our booking experience.  We initially researched into many other insurers, World Nomads, Alpha Insurance, and Insure And Go, all pitching backpackers cover.  We settled with [True Traveller](http://www.truetraveller.com/ "True Traveller") in the end after 2 weeks of reading though policy wording documents for most companies.

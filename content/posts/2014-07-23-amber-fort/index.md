@@ -1,6 +1,14 @@
 ---
-title: "Amber Fort"
-date: "2014-07-23"
+title: Amber Fort
+date: '2014-07-23'
+url: /amber-fort
+categories:
+  - Attractions
+  - India
+tags:
+  - fort
+  - History
+artwork: images/artwork.jpg
 ---
 
 We visited Amber Fort in Jaipur (a grand fort kingdom that once held 20,000 residents).  This fort is remarkable to walk around, and discover hidden secret rooms. The view around is breathtaking, seeing the wall snaking up and down the hills.

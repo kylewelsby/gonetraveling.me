@@ -1,6 +1,14 @@
 ---
-title: "Raj Mandir Cinema"
-date: "2014-07-22"
+title: Raj Mandir Cinema
+date: '2014-07-22'
+url: /raj-mandir-cinema
+categories:
+  - Attractions
+  - India
+tags:
+  - bollywood
+  - cinema
+artwork: images/artwork.jpg
 ---
 
 ![IMG_20140722_210813](images/IMG_20140722_210813-1024x583.jpg)

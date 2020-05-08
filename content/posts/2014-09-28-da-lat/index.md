@@ -1,11 +1,13 @@
 ---
-title: "Da Lat"
-date: "2014-09-28"
-artwork: images/DSC01429-1024x575.jpg
+title: Da Lat
+date: '2014-09-28'
+artwork: images/artwork.jpg
 url: /da-lat
 categories:
-- Vietnam
-- Da lat
+  - Attractions
+  - Vietnam
+tags:
+  - dalat
 ---
 
 We visited Đà Lạt the capital of Lâm Đồng Province in Vietnam. Dalat with an altitude of 1500 it is much cooler than other towns and cities we visited in Vietnam. Its a popular off-track tourist destination that requires a small bus to twist and turn around tight Mountains roads and uneven surfaces.

@@ -1,10 +1,15 @@
 ---
-title: "My experience as a #DigitalNomad"
-date: "2015-08-07"
-artwork: images/DSC02412.jpg
+title: 'My experience as a #DigitalNomad'
+date: '2015-08-07'
+artwork: images/artwork.jpg
 url: /my-experiance-as-a-digitalnomad
 categories:
-- Self
+  - Self
+  - Thailand
+tags:
+  - 1year
+  - digitalnomad
+  - experiance
 ---
 
 After a year of traveling and working when I can, I can conclude that the dream of working and traveling is a hard mix to get right.

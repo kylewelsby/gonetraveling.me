@@ -1,6 +1,14 @@
 ---
-title: "Pashupatinath"
-date: "2014-07-13"
+title: Pashupatinath
+date: '2014-07-13'
+url: /pashupatinath
+categories:
+  - Attractions
+  - Nepal
+tags:
+  - cremation
+  - death
+artwork: images/artwork.jpg
 ---
 
 ![DSC00205](images/DSC00205-1024x575.jpg)

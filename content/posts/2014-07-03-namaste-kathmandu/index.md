@@ -1,6 +1,14 @@
 ---
-title: "Namaste Kathmandu"
-date: "2014-07-03"
+title: Namaste Kathmandu
+date: '2014-07-03'
+url: /namaste-kathmandu
+artwork: images/artwork.jpg
+categories:
+  - Nepal
+tags:
+  - Chicken
+  - Cockroach
+  - Coffee
 ---
 
 We're finally here, Kathmandu! After a delayed start we arrived into the mountainous Kathmandu airport, taken away by the beautiful scene surrounding us. The Airport staff were laid back, greeting us with smiles and jokes.

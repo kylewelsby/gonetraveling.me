@@ -1,6 +1,15 @@
 ---
-title: "Food Tour in Delhi"
-date: "2014-08-06"
+title: Food Tour in Delhi
+date: '2014-08-06'
+url: /delhi-food-tour
+categories:
+  - Attractions
+  - Food
+  - India
+tags:
+  - delhi
+  - food tour
+artwork: images/artwork.jpg
 ---
 
 \[caption id="attachment\_802" align="aligncenter" width="700"\]![Taster dishes @ Shyam Sweets](images/DSC00559-1024x575.jpg) Taster dishes @ Shyam Sweets\[/caption\]

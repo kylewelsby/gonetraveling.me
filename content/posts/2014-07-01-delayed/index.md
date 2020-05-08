@@ -1,6 +1,15 @@
 ---
-title: "delayed..."
-date: "2014-07-01"
+title: delayed...
+date: '2014-07-01'
+url: /delayed
+artwork: images/artwork.jpg
+categories:
+  - Transportation
+tags:
+  - airport
+  - delays
+  - flight
+  - Heathrow
 ---
 
 ![Heathrow Flight Board Delayed flight](images/IMG_20140701_163325-e1404581414300-1024x424.jpg)

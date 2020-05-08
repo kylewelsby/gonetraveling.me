@@ -1,6 +1,13 @@
 ---
-title: "Lumbini Buddha Garden Resort"
-date: "2014-07-16"
+title: Lumbini Buddha Garden Resort
+date: '2014-07-16'
+url: /lumbini-buddha-garden-resort
+categories:
+  - Lodgings
+  - Nepal
+tags:
+  - '360'
+artwork: images/artwork.jpg
 ---
 
 [![](images/Lumbini-Buddha-Garden-Resort-1024x206.jpg)](http://gonetraveling.me/wp-content/uploads/2014/07/Lumbini-Buddha-Garden-Resort.jpg)

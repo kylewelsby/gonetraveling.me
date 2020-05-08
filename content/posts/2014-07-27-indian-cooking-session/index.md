@@ -1,6 +1,16 @@
 ---
-title: "Indian Cooking Session"
-date: "2014-07-27"
+title: Indian Cooking Session
+date: '2014-07-27'
+url: /indian-cooking-session
+categories:
+  - Attractions
+  - Food
+  - India
+tags:
+  - cooking
+  - cooking class
+  - food
+artwork: images/artwork.jpg
 ---
 
 ![DSC00541](images/DSC00541-1024x575.jpg)

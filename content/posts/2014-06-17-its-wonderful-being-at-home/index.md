@@ -1,6 +1,17 @@
 ---
-title: "It's wonderful being at home"
-date: "2014-06-17"
+title: It's wonderful being at home
+date: '2014-06-17'
+url: /its-wonderful-being-at-home
+artwork: images/artwork.jpg
+categories:
+  - Home
+  - Pre Travels
+tags:
+  - dogs
+  - family
+  - garden
+  - green
+  - home
 ---
 
 Where ever you are in the world, home is always where the heart is. My mom puts so much love and attention into our home, it makes it an honour to come home and look after the place while they go on a short holiday.

@@ -1,6 +1,11 @@
 ---
-title: "Incredible India"
-date: "2014-08-07"
+title: Incredible India
+date: '2014-08-07'
+url: /incredible-india
+categories:
+  - India
+tags: []
+artwork: images/artwork.jpg
 ---
 
 ![](images/incredible-india1.jpg)

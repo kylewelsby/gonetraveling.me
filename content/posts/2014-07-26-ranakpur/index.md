@@ -1,6 +1,12 @@
 ---
-title: "Ranakpur"
-date: "2014-07-26"
+title: Ranakpur
+date: '2014-07-26'
+url: /ranakpur
+categories:
+  - Attractions
+  - India
+tags: []
+artwork: images/artwork.jpg
 ---
 
 ![PANO_20140726_143252](images/PANO_20140726_143252-1024x237.jpg)

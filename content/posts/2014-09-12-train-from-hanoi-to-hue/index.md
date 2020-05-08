@@ -1,6 +1,15 @@
 ---
-title: "Train from Hanoi to Hué"
-date: "2014-09-12"
+title: Train from Hanoi to Hué
+date: '2014-09-12'
+url: /train-from-hanoi-to-hue
+categories:
+  - Transportation
+  - Vietnam
+tags:
+  - cabin
+  - country side
+  - day time transport
+artwork: images/artwork.jpg
 ---
 
 ![IMG_4835-EFFECTS](images/IMG_4835-EFFECTS-1024x575.jpg)

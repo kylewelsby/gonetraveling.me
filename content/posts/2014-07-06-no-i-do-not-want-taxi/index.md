@@ -1,6 +1,11 @@
 ---
-title: "No! I do not want taxi"
-date: "2014-07-06"
+title: No! I do not want taxi
+date: '2014-07-06'
+url: /no-i-do-not-want-taxi
+categories:
+  - Nepal
+tags: []
+artwork: images/artwork.jpg
 ---
 
 ![](images/Kathmandu-Taxi-1024x575.jpg)

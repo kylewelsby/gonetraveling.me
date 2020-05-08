@@ -1,6 +1,14 @@
 ---
-title: "New Day Restaurant"
-date: "2014-09-10"
+title: New Day Restaurant
+date: '2014-09-10'
+url: /new-day-restaurant
+categories:
+  - Food
+  - Vietnam
+tags:
+  - cheap
+  - Hanoi
+artwork: images/artwork.jpg
 ---
 
 New Day Restaurant on the corner of Mã Mây a few properties away from our hotel, which is really convenient.

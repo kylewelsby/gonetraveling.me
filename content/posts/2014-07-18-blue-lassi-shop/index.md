@@ -1,6 +1,14 @@
 ---
-title: "Blue Lassi Shop"
-date: "2014-07-18"
+title: Blue Lassi Shop
+date: '2014-07-18'
+url: /blue-lassi-shop
+categories:
+  - Attractions
+  - Food
+  - India
+tags:
+  - desert
+artwork: images/artwork.jpg
 ---
 
 ![](images/IMG_20140718_121252-1024x583.jpg)

@@ -1,6 +1,13 @@
 ---
-title: "Joma Bakery Cafe"
-date: "2014-09-09"
+title: Joma Bakery Cafe
+date: '2014-09-09'
+url: /joma-bakery-cafe
+categories:
+  - Food
+  - Vietnam
+tags:
+  - Coffee
+artwork: images/artwork.jpg
 ---
 
 ![](images/TA_IMG_20140912_170950_large-1024x768.jpg)Joma Bakery Cafe (rated #27 out of 926 restaurants in Hanoi on [TripAdvisor](http://www.tripadvisor.com/Restaurant_Review-g293924-d1733461-Reviews-Joma_Bakery_Cafe-Hanoi.html)) is a quality reliable café and bakery in Hanoi. We regally went to work, or chat with family on Skype as they have very reliable internet, great coffee and yummy pies and cakes.

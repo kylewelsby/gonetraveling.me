@@ -1,6 +1,14 @@
 ---
-title: "Selling up"
-date: "2014-06-11"
+title: Selling up
+date: '2014-06-11'
+url: /selling-up
+artwork: images/artwork.jpg
+categories:
+  - Pre Travels
+tags:
+  - car
+  - flat
+  - home
 ---
 
 \[caption id="" align="alignnone" width="2235"\]![](images/IMG_20140609_111343.jpg) All of our stuff in storage boxes\[/caption\]

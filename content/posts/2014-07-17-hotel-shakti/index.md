@@ -1,6 +1,12 @@
 ---
-title: "Hotel Shakti"
-date: "2014-07-17"
+title: Hotel Shakti
+date: '2014-07-17'
+url: /hotel-shakti
+categories:
+  - Lodgings
+  - Nepal
+tags: []
+artwork: images/artwork.jpg
 ---
 
 [Hotel Shakti](http://www.agoda.com/en-gb/hotel-shakti/hotel/kathmandu-np.html?cid=1649959 "Agoda: Hotel Shakti") (ranked 33 out of 70 on TripAdvisor) was a comfortable enough stay.  Every-other day there is a large tour group passing though (some european youth group that all wear the same uniform).

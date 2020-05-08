@@ -1,6 +1,12 @@
 ---
-title: "Rawla Bagh"
-date: "2014-07-24"
+title: Rawla Bagh
+date: '2014-07-24'
+url: /rawla-bagh
+categories:
+  - India
+  - Lodgings
+tags: []
+artwork: images/artwork.jpg
 ---
 
 ![](images/PANO_20140724_1303282-1024x512.jpg)

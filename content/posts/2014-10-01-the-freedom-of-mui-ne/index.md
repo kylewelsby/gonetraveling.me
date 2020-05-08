@@ -1,11 +1,12 @@
 ---
-title: "The freedom of Mui Ne"
-date: "2014-10-01"
+title: The freedom of Mui Ne
+date: '2014-10-01'
 url: /the-freedom-of-mui-ne
-artwork: images/DSC01447-1024x546.jpg
+artwork: images/artwork.jpg
 categories:
-- Vietnam
-- Mui Ne
+  - Attractions
+  - Vietnam
+tags: []
 ---
 
 Mui Ne is a quiet sandy town with plenty of sun, sand and a beach not really something to rave about. We stayed at WindFlower Boutique Hotel {{<tripadvisor 10592514>}} for 2 nights spending most the the time relaxing in the pool and watching the sun set over the South China Sea.

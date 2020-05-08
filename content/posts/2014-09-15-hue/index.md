@@ -1,6 +1,15 @@
 ---
-title: "Huế"
-date: "2014-09-15"
+title: Huế
+date: '2014-09-15'
+url: /hue
+categories:
+  - Attractions
+  - Food
+  - Lodgings
+  - Vietnam
+tags:
+  - city
+artwork: images/artwork.jpg
 ---
 
 ![PANO_20140914_120057](images/PANO_20140914_120057-1024x762.jpg)

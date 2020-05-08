@@ -1,6 +1,14 @@
 ---
-title: "Udaipur Boat Ride"
-date: "2014-07-27"
+title: Udaipur Boat Ride
+date: '2014-07-27'
+url: /udaipur-boat-ride
+categories:
+  - Attractions
+  - India
+tags:
+  - boat
+  - boat ride
+artwork: images/artwork.jpg
 ---
 
 Udaiper as seen from Lake Pichola.

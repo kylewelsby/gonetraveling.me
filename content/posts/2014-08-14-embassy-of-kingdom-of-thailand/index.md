@@ -1,6 +1,12 @@
 ---
-title: "Embassy of Kingdom of Thailand"
-date: "2014-08-14"
+title: Embassy of Kingdom of Thailand
+date: '2014-08-14'
+url: /embassy-of-kingdom-of-thailand
+categories:
+  - Thailand
+  - Vietnam
+tags: []
+artwork: images/artwork.jpg
 ---
 
 ![](images/IMG_20140816_183539-1024x576.jpg)

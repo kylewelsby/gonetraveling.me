@@ -1,6 +1,13 @@
 ---
-title: "Taj Mahal"
-date: "2014-07-20"
+title: Taj Mahal
+date: '2014-07-20'
+url: /taj-mahal
+categories:
+  - Attractions
+  - India
+tags:
+  - agra
+artwork: images/artwork.jpg
 ---
 
 A trip to India is not complete without visiting the grant Taj Mahal, we could not miss the opportunity to visit this wonderful mausoleum. We were given a light guide introduction about the history of Taj Mahal. We leaned this white marble building designed and built within 22 years and emperor Shah Jahan ensured no other replica is constructed by retiring all the workers (paying for them to not work again). To express the unconditional love of emperor Shah Jahan's departed wife Taj Mahal was constructed.

@@ -1,6 +1,15 @@
 ---
-title: "Pukhraj Durry Udhyog"
-date: "2014-07-25"
+title: Pukhraj Durry Udhyog
+date: '2014-07-25'
+url: /pukhraj-durry-udhyog
+categories:
+  - Attractions
+  - Food
+  - India
+tags:
+  - carpets
+  - hand-made
+artwork: images/artwork.jpg
 ---
 
 ![IMG_20140726_091930](images/IMG_20140726_091930-1024x583.jpg)

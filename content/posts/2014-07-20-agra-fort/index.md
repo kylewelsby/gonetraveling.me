@@ -1,6 +1,15 @@
 ---
-title: "Agra Fort"
-date: "2014-07-20"
+title: Agra Fort
+date: '2014-07-20'
+url: /agra-fort
+categories:
+  - Attractions
+  - India
+tags:
+  - agra
+  - fort
+  - History
+artwork: images/artwork.jpg
 ---
 
 ![IMG_3457](images/IMG_3457-1024x575.jpg)

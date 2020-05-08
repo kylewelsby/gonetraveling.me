@@ -1,6 +1,13 @@
 ---
-title: "Harati Devi Temple"
-date: "2014-07-13"
+title: Harati Devi Temple
+date: '2014-07-13'
+url: /monkey-temple
+categories:
+  - Attractions
+  - Nepal
+tags:
+  - buddha
+artwork: images/artwork.jpg
 ---
 
 [![](images/IMG_2874-1024x575.jpg)](http://gonetraveling.me/wp-content/uploads/2014/07/IMG_2874.jpg)

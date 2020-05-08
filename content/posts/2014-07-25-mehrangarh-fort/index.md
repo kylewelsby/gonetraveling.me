@@ -1,6 +1,13 @@
 ---
-title: "Mehrangarh Fort"
-date: "2014-07-25"
+title: Mehrangarh Fort
+date: '2014-07-25'
+url: /mehrangarh-fort
+categories:
+  - Attractions
+  - India
+tags:
+  - fort
+artwork: images/artwork.jpg
 ---
 
  

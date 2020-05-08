@@ -1,6 +1,16 @@
 ---
-title: "Sa Pa"
-date: "2014-08-20"
+title: Sa Pa
+date: '2014-08-20'
+url: /sa-pa
+categories:
+  - Attractions
+  - Lodgings
+  - Vietnam
+tags:
+  - Bảo Thắng District
+  - Home-stay
+  - Homestay
+artwork: images/artwork.jpg
 ---
 
 ![](images/IMG_20140818_111210-1024x583.jpg)

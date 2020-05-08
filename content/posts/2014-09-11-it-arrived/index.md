@@ -1,6 +1,13 @@
 ---
-title: "It arrived!"
-date: "2014-09-11"
+title: It arrived!
+date: '2014-09-11'
+url: /it-arrived
+categories:
+  - Vietnam
+tags:
+  - book
+  - delivery
+artwork: images/artwork.jpg
 ---
 
 ![IMG_20140911_195150](images/IMG_20140911_195150-1024x576.jpg)

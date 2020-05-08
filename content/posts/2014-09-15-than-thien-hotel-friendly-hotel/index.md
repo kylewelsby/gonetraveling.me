@@ -1,6 +1,12 @@
 ---
-title: "Than Thien Hotel - Friendly Hotel"
-date: "2014-09-15"
+title: Than Thien Hotel - Friendly Hotel
+date: '2014-09-15'
+url: /than-thien-hotel-friendly-hotel
+categories:
+  - Lodgings
+  - Vietnam
+tags: []
+artwork: images/artwork.jpg
 ---
 
 ![IMG_20140915_120646](images/IMG_20140915_120646-1024x583.jpg)

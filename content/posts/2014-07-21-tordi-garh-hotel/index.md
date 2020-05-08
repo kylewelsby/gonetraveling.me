@@ -1,6 +1,12 @@
 ---
-title: "Tordi Garh Hotel"
-date: "2014-07-21"
+title: Tordi Garh Hotel
+date: '2014-07-21'
+url: /tordi-garh-hotel
+categories:
+  - India
+  - Lodgings
+tags: []
+artwork: images/artwork.jpg
 ---
 
 ![](images/photo-1024x768.jpg)

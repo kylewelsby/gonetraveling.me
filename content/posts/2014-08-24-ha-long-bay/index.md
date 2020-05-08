@@ -1,6 +1,19 @@
 ---
-title: "Hạ Long Bay & Bái Tử Long Bay"
-date: "2014-08-24"
+title: Hạ Long Bay & Bái Tử Long Bay
+date: '2014-08-24'
+url: /ha-long-bay
+categories:
+  - Attractions
+  - Lodgings
+  - Transportation
+  - Vietnam
+tags:
+  - Bái Tử Long Bay
+  - boat
+  - cruise
+  - ha long
+  - ha long bay
+artwork: images/artwork.jpg
 ---
 
 ![halong-bay](images/halong-bay.jpg)

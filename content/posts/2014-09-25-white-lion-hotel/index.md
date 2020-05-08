@@ -1,11 +1,12 @@
 ---
-title: "White Lion Hotel"
-date: "2014-09-25"
+title: White Lion Hotel
+date: '2014-09-25'
 url: /white-lion-hotel
-artwork: images/DSC01248.jpg
+artwork: images/artwork.jpg
 categories:
-- Vietnam
-- Nha Trang
+  - Lodgings
+  - Vietnam
+tags: []
 ---
 
 Located down a quiet alley right behind The Summer Hotel is White Lion Hotel {{<tripadvisor 3158394>}}.

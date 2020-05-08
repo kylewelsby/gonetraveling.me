@@ -1,10 +1,14 @@
 ---
-title: "Chill Skybar"
-date: "2014-10-06"
-artwork: images/IMG_53751-1024x575.jpg
+title: Chill Skybar
+date: '2014-10-06'
+artwork: images/artwork.jpg
 categories:
-- Vietnam
-- Ho Chi Minh City
+  - Attractions
+  - Nightlife
+  - Vietnam
+url: /chill-skybar
+tags:
+  - city scape
 ---
 
 As there are many high rise buildings around a visit to view the city scape in the night could not go a miss.  I decided to go Chill Skybar {{<tripadvisor 2336225>}}.

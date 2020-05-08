@@ -1,6 +1,13 @@
 ---
-title: "Namaste - Omar's Indian Restaurant"
-date: "2014-09-17"
+title: Namaste - Omar's Indian Restaurant
+date: '2014-09-17'
+url: /namaste-omars-indian-restaurant
+categories:
+  - Food
+  - Vietnam
+tags:
+  - hoi an
+artwork: images/artwork.jpg
 ---
 
 ![](images/IMG_20140917_184327-1024x576.jpg)

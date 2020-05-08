@@ -1,6 +1,13 @@
 ---
-title: "Tu Linh Palace Hotel 2"
-date: "2014-09-12"
+title: Tu Linh Palace Hotel 2
+date: '2014-09-12'
+url: /tu-linh-palace-hotel-2
+categories:
+  - Lodgings
+  - Vietnam
+tags:
+  - Hanoi
+artwork: images/artwork.jpg
 ---
 
 ![IMG_20140912_140659](images/IMG_20140912_140659-1024x627.jpg)

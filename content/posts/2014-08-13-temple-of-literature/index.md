@@ -1,6 +1,14 @@
 ---
-title: "Temple of Literature"
-date: "2014-08-13"
+title: Temple of Literature
+date: '2014-08-13'
+url: /temple-of-literature
+categories:
+  - Attractions
+  - Vietnam
+tags:
+  - Hanoi
+  - historical landmark
+artwork: images/artwork.jpg
 ---
 
  

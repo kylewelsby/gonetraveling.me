@@ -1,6 +1,12 @@
 ---
-title: "Hotel Surya"
-date: "2014-07-17"
+title: Hotel Surya
+date: '2014-07-17'
+url: /hotel-surya
+categories:
+  - India
+  - Lodgings
+tags: []
+artwork: images/artwork.jpg
 ---
 
 ![Hotel Surya official photo](images/Hotel-Surya.jpg)

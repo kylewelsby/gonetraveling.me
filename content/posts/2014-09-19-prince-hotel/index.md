@@ -1,6 +1,13 @@
 ---
-title: "Prince Hotel"
-date: "2014-09-19"
+title: Prince Hotel
+date: '2014-09-19'
+url: /prince-hotel
+categories:
+  - Lodgings
+  - Vietnam
+tags:
+  - hoi an
+artwork: images/artwork.jpg
 ---
 
 ![IMG_20140915_171533](images/IMG_20140915_1715331-1024x554.jpg)

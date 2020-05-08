@@ -1,10 +1,11 @@
 ---
-title: "Vietnam"
-date: "2014-10-08"
+title: Vietnam
+date: '2014-10-08'
 url: /vietnam
-artwork: images/DSC01128-1024x575.jpg
+artwork: images/artwork.jpg
 categories:
-- Vietnam
+  - Vietnam
+tags: []
 ---
 
 I am immensely proud to have visited the country of Vietnam, I never would have seen myself going Vietnam if I was not challenging South East Asia overland.

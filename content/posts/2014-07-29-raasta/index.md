@@ -1,6 +1,13 @@
 ---
-title: "Raasta"
-date: "2014-07-29"
+title: Raasta
+date: '2014-07-29'
+url: /raasta
+categories:
+  - Food
+  - India
+tags:
+  - caribbean
+artwork: images/artwork.jpg
 ---
 
 ![IMG_20140729_195818](images/IMG_20140729_195818-1024x576.jpg)

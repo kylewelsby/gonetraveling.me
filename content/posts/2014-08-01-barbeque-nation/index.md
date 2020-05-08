@@ -1,6 +1,14 @@
 ---
-title: "Barbeque Nation"
-date: "2014-08-01"
+title: Barbeque Nation
+date: '2014-08-01'
+url: /barbeque-nation
+categories:
+  - Food
+  - India
+tags:
+  - all you can eat
+  - buffet
+artwork: images/artwork.jpg
 ---
 
 ![Barbeque Nation](images/IMG_4093-e1406968292699-575x1024.jpg)

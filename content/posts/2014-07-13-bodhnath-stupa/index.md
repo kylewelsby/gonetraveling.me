@@ -1,6 +1,13 @@
 ---
-title: "Bodhnath Stupa"
-date: "2014-07-13"
+title: Bodhnath Stupa
+date: '2014-07-13'
+url: /bodhnath-stupa
+categories:
+  - Attractions
+  - Nepal
+tags:
+  - buddha
+artwork: images/artwork.jpg
 ---
 
 [![](images/Boudhanath-1024x575.jpg)](http://gonetraveling.me/wp-content/uploads/2014/07/Boudhanath.jpg)

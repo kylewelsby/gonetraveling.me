@@ -1,6 +1,13 @@
 ---
-title: "Zen Bed and Breakfast"
-date: "2014-07-12"
+title: Zen Bed and Breakfast
+date: '2014-07-12'
+url: /zen-bed-and-breakfast
+categories:
+  - Lodgings
+  - Nepal
+tags:
+  - cheap
+artwork: images/artwork.jpg
 ---
 
 ![](images/PANO_20140703_1425091-1024x767.jpg)

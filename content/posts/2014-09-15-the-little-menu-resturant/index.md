@@ -1,6 +1,14 @@
 ---
-title: "The Little Menu Resturant"
-date: "2014-09-15"
+title: The Little Menu Resturant
+date: '2014-09-15'
+url: /the-little-menu-resturant
+categories:
+  - Food
+  - Vietnam
+tags:
+  - food
+  - hoi an
+artwork: images/artwork.jpg
 ---
 
 \[caption id="attachment\_1283" align="aligncenter" width="700"\]![Banana Leaf Chicken](images/IMG_20140915_191811-1024x583.jpg) Banana Leaf Chicken\[/caption\]

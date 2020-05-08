@@ -1,6 +1,13 @@
 ---
-title: "Black Olives Cafe and Bar"
-date: "2014-07-10"
+title: Black Olives Cafe and Bar
+date: '2014-07-10'
+url: /black-olives-cafe-and-bar
+categories:
+  - Food
+  - Nepal
+tags:
+  - Chicken
+artwork: images/artwork.jpg
 ---
 
 After the peaceful visit to the [Gardens of Dreams](http:///2014/07/garden-of-dreams/), food was on the mind. Checking TripAdvisor we found a Black Olives Cafe and Bar (rated #4 out of 383 restaurants on Trip Advisor). Using this information we went in pursuit for an assumed good food experience. Initially sent down a quiet back-alley according to TripAdvisor’s map, but could not find it. We decided to go for a back-up option on Chaksibari Marg and surprise surprise, we found Black Olives Cafe. As it was the first option we walk right in and was seated in a nice open air dining space. We were presented a single sided laminated A3 size menu with many dish options from Western to Local. The waiter was pleasant but (like other restaurants we have been) was eager to take an order for drinks with out much time to study the options. A safe cold cheap Fanta for us both. After studying the food menu, we chose Vegetable MoMo, Chicken Choila and Chicken Sandaco Kathmandu.

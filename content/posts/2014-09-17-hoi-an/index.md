@@ -1,6 +1,12 @@
 ---
-title: "Hội An"
-date: "2014-09-17"
+title: Hội An
+date: '2014-09-17'
+url: /hoi-an
+categories:
+  - Vietnam
+tags:
+  - city
+artwork: images/artwork.jpg
 ---
 
 ![hoi-an](images/hoi-an.jpg)Hoi An is recognised for the UNESCO heritage site [Hội An Ancient Town](http://whc.unesco.org/en/list/948).

@@ -1,6 +1,14 @@
 ---
-title: "We are OK"
-date: "2014-07-27"
+title: We are OK
+date: '2014-07-27'
+url: /we-are-ok
+categories:
+  - India
+  - Nepal
+tags:
+  - busy
+  - hospital
+artwork: images/artwork.jpg
 ---
 
 Hey, just a quickie letting you all know we are OK.  Kim got discharged from the hospital from food poisoning after two nights and we instantly started our tour across Nepal and India.

@@ -1,6 +1,12 @@
 ---
-title: "Third Eye Resturant"
-date: "2014-07-10"
+title: Third Eye Resturant
+date: '2014-07-10'
+url: /third-eye-resturant
+categories:
+  - Food
+tags:
+  - awful
+artwork: images/artwork.jpg
 ---
 
 We visited the [Third Eye Restaurant](http://www.tripadvisor.co.uk/Restaurant_Review-g293890-d1156626-Reviews-Third_Eye_Restaurant-Kathmandu_Kathmandu_Valley_Bagmati_Zone_Central_Region.html#REVIEWS) (rated #49 out of 385 restaurants on Trip Advisor) for evening dinner with high expectation for a decent tandoori curry. Seated upstairs we were given a plate of peanuts and menu to study. I chose Chicken Tikka Masala while Kim chose Chicken Tandoori as we wanted something simple and that would not upset our stomachs (as were already feeling fragile).

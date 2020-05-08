@@ -1,9 +1,11 @@
 ---
-title: "Still here"
-date: "2015-05-07"
-url: /still-here
+title: Still here
+date: '2015-05-07'
+url: /1738
 categories:
-- Self
+  - Self
+tags: []
+artwork: images/artwork.jpg
 ---
 
 For those of you wondering, I'm still here and active, and have just been plain lazy and enjoying myself on my travels. My Instagram account is linked to my site and publishes automatically my photo updates that I hope you're enjoying and not finding too annoying.

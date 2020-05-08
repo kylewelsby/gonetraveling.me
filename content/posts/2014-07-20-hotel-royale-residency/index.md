@@ -1,6 +1,13 @@
 ---
-title: "Hotel Royale Residency"
-date: "2014-07-20"
+title: Hotel Royale Residency
+date: '2014-07-20'
+url: /hotel-royale-residency
+categories:
+  - India
+  - Lodgings
+tags:
+  - agra
+artwork: images/artwork.jpg
 ---
 
 \[caption id="attachment\_492" align="aligncenter" width="920"\]![Hotel Royale Residency official front photo](images/1-large.jpg) Hotel Royale Residency official front photo\[/caption\]

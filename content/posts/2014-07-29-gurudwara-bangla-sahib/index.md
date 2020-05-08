@@ -1,6 +1,12 @@
 ---
-title: "Gurudwara Bangla Sahib"
-date: "2014-07-29"
+title: Gurudwara Bangla Sahib
+date: '2014-07-29'
+url: /gurudwara-bangla-sahib
+categories:
+  - Attractions
+  - India
+tags: []
+artwork: images/artwork.jpg
 ---
 
 ![IMG_20140729_120416](images/IMG_20140729_120416-1024x583.jpg)

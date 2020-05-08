@@ -1,6 +1,16 @@
 ---
-title: "The Moose and Roo Pub & Grill"
-date: "2014-09-12"
+title: The Moose and Roo Pub & Grill
+date: '2014-09-12'
+url: /the-moose-and-roo-pub-grill
+categories:
+  - Food
+  - Vietnam
+tags:
+  - burger
+  - gastropub
+  - Hanoi
+  - homely
+artwork: images/artwork.jpg
 ---
 
 ![](images/IMG_20140912_191317-1024x583.jpg)

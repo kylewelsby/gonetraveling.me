@@ -1,11 +1,12 @@
 ---
-title: "Sax n Art Jazz Club"
-date: "2014-10-04"
-artwork: images/IMG_20141004_211313-1024x583.jpg
+title: Sax n Art Jazz Club
+date: '2014-10-04'
+artwork: images/artwork.jpg
 url: /sax-n-art-jazz-club
 categories:
-- Vietnam
-- Ho Chi Minh City
+  - Nightlife
+  - Vietnam
+tags: []
 ---
 
 While in Ho Chi Minh City, we invited our hosts out for an evening of cocktails and music at Sax n Art Jazz Club {{<tripadvisor 2435381>}}.

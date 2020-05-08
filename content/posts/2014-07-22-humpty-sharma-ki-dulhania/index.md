@@ -1,6 +1,15 @@
 ---
-title: "Humpty Sharma Ki Dulhania"
-date: "2014-07-22"
+title: Humpty Sharma Ki Dulhania
+date: '2014-07-22'
+url: /humpty-sharma-ki-dulhania
+categories:
+  - Attractions
+  - India
+tags:
+  - bollywood
+  - cinema
+  - film
+artwork: images/artwork.jpg
 ---
 
  

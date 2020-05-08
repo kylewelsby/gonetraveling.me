@@ -1,10 +1,13 @@
 ---
-title: "Da Nang"
-date: "2014-09-22"
+title: Da Nang
+date: '2014-09-22'
 categories:
-- Vietnam
-- Da Nang
-artwork: images/IMG_20140921_142501-1024x583.jpg
+  - Vietnam
+artwork: images/artwork.jpg
+url: /da-nang
+tags:
+  - Da Nang
+  - danang
 ---
 
 We stayed in Da Nang for a 2 nights in [Olina Hotel](http://gonetraveling.me/2014/09/olina-hotel/ "Olina Hotel") before catching the next 14+ hour train to Nha Trang. The city is spacious with many roads built waiting for properties to be built on them (future fetched), the highly of Da Nang would be the colourful bridges at night. Each night the bridges would illuminate with colourful light displays.

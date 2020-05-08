@@ -1,10 +1,11 @@
 ---
-title: "Celebrating over 6 months of traveling"
-date: "2015-01-14"
+title: Celebrating over 6 months of traveling
+date: '2015-01-14'
 url: /celebrating-over-6-months-of-traveling
-artwork: images/IMG_20150101_0004101.jpg
+artwork: images/artwork.jpg
 categories:
-- Self
+  - Self
+tags: []
 ---
 
 It's such an alien feeling spending the holiday season over 10,000km (6,600 miles) away from my family. Actually this would have been the first Christmas I spent not dancing with Turkey and feasting on gorgeous food. However far I go I always think of home, I may not Skype that often as I would like to but it is nice to hear my mom, and dogs are still doing well, I do worry about my step dad Gary though.

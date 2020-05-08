@@ -1,6 +1,12 @@
 ---
-title: "Hotel Staywell Dx"
-date: "2014-08-07"
+title: Hotel Staywell Dx
+date: '2014-08-07'
+url: /hotel-staywell-dx
+categories:
+  - India
+  - Lodgings
+tags: []
+artwork: images/artwork.jpg
 ---
 
 ![](images/IMG_20140730_210244-583x1024.jpg)

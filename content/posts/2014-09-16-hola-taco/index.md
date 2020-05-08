@@ -1,6 +1,15 @@
 ---
-title: "Hola Taco"
-date: "2014-09-16"
+title: Hola Taco
+date: '2014-09-16'
+url: /hola-taco
+categories:
+  - Food
+  - Vietnam
+tags:
+  - awesome
+  - chicken wings
+  - flavours
+artwork: images/artwork.jpg
 ---
 
 \[caption id="attachment\_1271" align="aligncenter" width="700"\]![Best Chicken Wings Ever!](images/Picture-1024x583.jpeg) Best Chicken Wings Ever!\[/caption\]

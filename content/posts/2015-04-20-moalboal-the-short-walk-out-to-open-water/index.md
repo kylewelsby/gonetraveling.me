@@ -1,18 +1,18 @@
 ---
-title: "Moalboal, the short walk out to open water."
-date: "2015-04-20"
+title: 'Moalboal, the short walk out to open water.'
+date: '2015-04-20'
 slug: /moalboal-the-short-walk-out-to-open-water
-artwork: images/10612877_10155413674515226_7384893601417328881_n.jpg
+artwork: images/artwork.jpg
 categories:
-- Philippines
-- Cebu
-- Activities
-- Attractions
-- Diving
+  - Activities
+  - Attractions
+  - Cebu
+  - Philippines
+  - Visayas
 tags:
-- Deep Water
-- Diving
-- Scuba
+  - deep water
+  - diving
+url: /moalboal-the-short-walk-out-to-open-water
 ---
 
 Most people will tell me "the Philippines is a fantastic place for scuba diving" and since I have my open water scuba certifications I have no excuse to test this statement.

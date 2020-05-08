@@ -1,6 +1,11 @@
 ---
-title: "Sahil Khan"
-date: "2014-07-23"
+title: Sahil Khan
+date: '2014-07-23'
+url: /sahil-khan
+categories:
+  - India
+tags: []
+artwork: images/artwork.jpg
 ---
 
 ![DSC00442](images/DSC00442-1024x575.jpg)

@@ -1,6 +1,13 @@
 ---
-title: "Pho 24"
-date: "2014-08-09"
+title: Pho 24
+date: '2014-08-09'
+url: /pho-24
+categories:
+  - Food
+  - Vietnam
+tags:
+  - Hanoi
+artwork: images/artwork.jpg
 ---
 
 ![IMG_4187](images/IMG_4187-1024x575.jpg)

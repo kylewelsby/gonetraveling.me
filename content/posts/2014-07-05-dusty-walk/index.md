@@ -1,6 +1,11 @@
 ---
-title: "Dusty walk"
-date: "2014-07-05"
+title: Dusty walk
+date: '2014-07-05'
+url: /dusty-walk
+artwork: images/artwork.jpg
+categories:
+  - Nepal
+tags: []
 ---
 
 ![](images/dusty-feet-1024x575.jpg)

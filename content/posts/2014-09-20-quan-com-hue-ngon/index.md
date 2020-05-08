@@ -1,6 +1,14 @@
 ---
-title: "Quán Cơm Huế Ngon"
-date: "2014-09-20"
+title: Quán Cơm Huế Ngon
+date: '2014-09-20'
+url: /quan-com-hue-ngon
+categories:
+  - Food
+  - Vietnam
+tags:
+  - bbq
+  - Da Nang
+artwork: images/artwork.jpg
 ---
 
 ![](images/DSC01226-1024x575.jpg) We visited Quán Cơm Huế Ngon (ranked #9 out of 200 restaurants on [TripAdvisor](http://www.tripadvisor.co.uk/Restaurant_Review-g298085-d3811714-Reviews-Quan_Com_Hue_Ngon-Da_Nang_Quang_Nam_Province.html "Quán Cơm Huế Ngon on TripAdvisor")) on a Friday night and luckily got a table. Very busy with locals no other westerners to be seen. The menu choice is extensive. We chose items familiar to us, chicken, prawns, beef, and pork. The portions are relatively small so many plates will need to be ordered to feel full enough (the chicken is just a wing chopped into 4 parts for 39,000 dong). Can see it easily mounting up in cost.

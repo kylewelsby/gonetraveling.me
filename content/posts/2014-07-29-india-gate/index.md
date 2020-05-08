@@ -1,6 +1,12 @@
 ---
-title: "India Gate"
-date: "2014-07-29"
+title: India Gate
+date: '2014-07-29'
+url: /india-gate
+categories:
+  - Attractions
+  - India
+tags: []
+artwork: images/artwork.jpg
 ---
 
 India gate is a war memorial which has inscribed the names of the Indian citizens who served and died in the first world war.

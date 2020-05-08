@@ -1,6 +1,12 @@
 ---
-title: "Shipping from India"
-date: "2014-08-07"
+title: Shipping from India
+date: '2014-08-07'
+url: /shipping-from-india
+categories:
+  - India
+tags:
+  - courier
+artwork: images/artwork.jpg
 ---
 
 ![](images/india-package-1024x576.jpg)

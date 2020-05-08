@@ -1,6 +1,12 @@
 ---
-title: "Zucca"
-date: "2014-09-14"
+title: Zucca
+date: '2014-09-14'
+url: /zucca
+categories:
+  - Food
+  - Vietnam
+tags: []
+artwork: images/artwork.jpg
 ---
 
 ![](images/IMG_20140914_190135-1024x583.jpg)

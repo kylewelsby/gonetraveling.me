@@ -1,11 +1,16 @@
 ---
-title: "The once empty capital city of Phnom Penh"
-date: "2014-10-10"
+title: The once empty capital city of Phnom Penh
+date: '2014-10-10'
 url: /the-once-empty-capital-city-of-phnom-penh
-artwork: images/IMG_20141008_150736.jpg
+artwork: images/artwork.jpg
 categories:
-- Cambodia
-- Phnom Penh
+  - Cambodia
+  - Phnom Penh
+tags:
+  - choeung ek
+  - city
+  - genoside
+  - History
 ---
 
 Phnom Penh the capital of Cambodia. As in many places we've travelled to, stepping off the bus we were greeted by many tuk-tuk riders asking "where you go" in hopes to get a fare.  Being savvy Kim and I decided to take the short 1.5km walk from the bus terminal to our pre-booked hotel.

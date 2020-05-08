@@ -1,6 +1,11 @@
 ---
-title: "Vaccinations"
-date: "2014-06-16"
+title: Vaccinations
+date: '2014-06-16'
+url: /vaccinations
+artwork: images/artwork.jpg
+categories:
+  - Pre Travels
+tags: []
 ---
 
 We have had a full series vaccinations recommended by our National Health Service for travel into Asia.

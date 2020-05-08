@@ -1,11 +1,12 @@
 ---
-title: "Good Morning Nha Trang"
-date: "2014-09-25"
-artwork: images/IMG_20140924_054835-1024x583.jpg
+title: Good Morning Nha Trang
+date: '2014-09-25'
+artwork: images/artwork.jpg
 url: /good-morning-nha-trang
 categories:
-- Vietnam
-- Nha Trang
+  - Lodgings
+  - Vietnam
+tags: []
 ---
 
 The is the beach capital of Vietnam, with a long beach span that makes watching the morning sunrise magical. Many travel goers flock to this beach with its high-rise resorts right along the coast line, most residents are within a short walk from the busy beach.

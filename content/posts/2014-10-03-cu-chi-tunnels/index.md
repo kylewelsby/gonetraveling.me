@@ -1,10 +1,13 @@
 ---
-title: "Củ Chi Tunnels"
-date: "2014-10-03"
-url: cu-chi-tunnels
-artwork: images/DSC01554.jpg
+title: Củ Chi Tunnels
+date: '2014-10-03'
+url: /cu-chi-tunnels
+artwork: images/artwork.jpg
 categories:
-- Vietnam
+  - Attractions
+  - Vietnam
+tags:
+  - History
 ---
 
 The tunnels of Củ Chi {{<tripadvisor 2005826>}} are a network of connecting underground tunnels used during the Vietnam war.  The locals would live under group and defend their land.

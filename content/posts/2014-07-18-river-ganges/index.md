@@ -1,6 +1,12 @@
 ---
-title: "River Ganges"
-date: "2014-07-18"
+title: River Ganges
+date: '2014-07-18'
+url: /river-ganges
+categories:
+  - Attractions
+  - India
+tags: []
+artwork: images/artwork.jpg
 ---
 
  

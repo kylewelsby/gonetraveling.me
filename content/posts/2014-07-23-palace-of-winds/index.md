@@ -1,6 +1,12 @@
 ---
-title: "Palace of Winds"
-date: "2014-07-23"
+title: Palace of Winds
+date: '2014-07-23'
+url: /palace-of-winds
+categories:
+  - Attractions
+  - India
+tags: []
+artwork: images/artwork.jpg
 ---
 
 ![IMG_3920](images/IMG_3920-1024x575.jpg)

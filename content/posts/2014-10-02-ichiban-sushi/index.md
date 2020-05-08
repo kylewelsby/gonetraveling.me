@@ -1,12 +1,12 @@
 ---
-title: "Ichiban Sushi"
-date: "2014-10-02"
-artwork: images/DSC01552-1024x575.jpg
+title: Ichiban Sushi
+date: '2014-10-02'
+artwork: images/artwork.jpg
 url: /ichiban-sushi
 categories:
-- Vietnam
-- Ho Chi Minh City
-- Food
+  - Food
+  - Vietnam
+tags: []
 ---
 
 

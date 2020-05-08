@@ -1,6 +1,13 @@
 ---
-title: "Aranyawas"
-date: "2014-07-26"
+title: Aranyawas
+date: '2014-07-26'
+url: /aranyawas
+categories:
+  - Food
+  - India
+tags:
+  - avoid
+artwork: images/artwork.jpg
 ---
 
 ![](images/IMG_20140726_162346-1024x583.jpg)

@@ -1,11 +1,14 @@
 ---
-title: "Olina Hotel"
-date: "2014-09-22"
+title: Olina Hotel
+date: '2014-09-22'
 url: /olina-hotel
 categories:
-- Vietnam
-- Nha Trang
-- Food
+  - Lodgings
+  - Vietnam
+tags:
+  - Da Nang
+  - danang
+artwork: images/artwork.jpg
 ---
 
 Olina Hotel {{<tripadvisor 3370587>}} is a budget hotel, after checking reviews for all hotels within our price range this hotel yields less problems.

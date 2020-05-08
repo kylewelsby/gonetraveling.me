@@ -1,6 +1,16 @@
 ---
-title: "Ain't no mountain high enough."
-date: "2014-07-30"
+title: Ain't no mountain high enough.
+date: '2014-07-30'
+url: /aint-no-mountain-high-enough
+categories:
+  - Attractions
+  - India
+  - Nepal
+  - Transportation
+tags:
+  - Adventures
+  - Geckos Adventures
+artwork: images/artwork.jpg
 ---
 
 ![aint-no-mountain-high-enough](images/aint-no-mountain-high-enough.jpg)

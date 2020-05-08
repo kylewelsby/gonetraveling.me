@@ -1,6 +1,12 @@
 ---
-title: "Places"
-date: "2014-07-06"
+title: Places
+date: '2014-07-06'
+url: /places
+artwork: images/artwork.jpg
+categories:
+  - Food
+  - Nepal
+tags: []
 ---
 
 [Places Restaurant & Bar](http://www.tripadvisor.co.uk/Restaurant_Review-g293890-d4283853-Reviews-Places_Restaurant_Bar-Kathmandu_Kathmandu_Valley_Bagmati_Zone_Central_Region.html "Places on Trip Advisor") (Rated #5 our of 385 restaurants in on TripAdvisor) is a Vegetarian restaurant that is laid-back and chilled, most people here utilising the fast internet and creative atmosphere to get things done or just relax. We order Pesto Dough MoMo, Biber Dolmasi, and Taste Platter all the dishes were prepared with care and delivered in taste experience. ![IMG_1982](images/IMG_1982-1024x575.jpg)

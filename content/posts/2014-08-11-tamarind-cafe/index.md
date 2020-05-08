@@ -1,6 +1,14 @@
 ---
-title: "Tamarind Cafe"
-date: "2014-08-11"
+title: Tamarind Cafe
+date: '2014-08-11'
+url: /tamarind-cafe
+categories:
+  - Food
+  - Vietnam
+tags:
+  - cafe
+  - Hanoi
+artwork: images/artwork.jpg
 ---
 
 \[caption id="attachment\_821" align="aligncenter" width="700"\]![Restaurant Front](images/IMG_4219-1024x575.jpg) Restaurant Front\[/caption\]

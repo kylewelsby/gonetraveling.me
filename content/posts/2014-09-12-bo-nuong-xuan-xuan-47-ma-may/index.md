@@ -1,6 +1,15 @@
 ---
-title: "Bò Nướng Xuân Xuân 47 Mã Mây"
-date: "2014-09-12"
+title: Bò Nướng Xuân Xuân 47 Mã Mây
+date: '2014-09-12'
+url: /bo-nuong-xuan-xuan-47-ma-may
+categories:
+  - Food
+  - Vietnam
+tags:
+  - bbq
+  - cooking
+  - Hanoi
+artwork: images/artwork.jpg
 ---
 
 ![](images/DSC00609-1024x575.jpg)

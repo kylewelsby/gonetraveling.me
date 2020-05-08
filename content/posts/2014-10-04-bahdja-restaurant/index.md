@@ -1,12 +1,12 @@
 ---
-title: "Bahdja Restaurant"
-date: "2014-10-04"
-artwork: images/IMG_20141004_202147-1024x583.jpg
+title: Bahdja Restaurant
+date: '2014-10-04'
+artwork: images/artwork.jpg
 url: /bahdja-restaurant
 categories:
-- Vietnam
-- Ho Chi Minh City
-- Food
+  - Food
+tags:
+  - Algerian
 ---
 
 I visited Bahdja Restaurant with some friends, treating all of us to a cuisine non of us have ever experienced, Algerian (North African) Food.
