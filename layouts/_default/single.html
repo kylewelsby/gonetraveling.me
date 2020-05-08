@@ -16,5 +16,18 @@
     <a href="{{ .RelPermalink }}" class="mx-1">{{ .LinkTitle }}</a>
     {{ end }}
   </div>
+
 </article>
+{{ $pages := (where $.Site.RegularPages "Section" .Section).ByDate.Reverse }}
+
+<div class="text-gray-500 flex flex-row items-center text-lg my-5">
+  {{ with $pages.Next . }}
+    <a href="{{ .RelPermalink }}" class="w-1/2 flex-grow text-right">{{ .Title }} «</a>
+  {{ end }}
+  <span class="mx-6"> | </span>
+  {{ with $pages.Prev . }}
+    <a href="{{ .RelPermalink }}" class="w-1/2 flex-grow">» {{ .Title }}</a>
+  {{ end }}
+</div>
 {{ end }}
+

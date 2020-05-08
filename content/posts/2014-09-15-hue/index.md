@@ -12,8 +12,6 @@ tags:
 artwork: images/artwork.jpg
 ---
 
-![PANO_20140914_120057](images/PANO_20140914_120057-1024x762.jpg)
-
 The adventure outside of Vietnam's capital begins with Hue, 14 hour day [train took us from Hanoi to Huế](http://gonetraveling.me/2014/09/train-from-hanoi-to-hue/ "Train from Hanoi to Hué") and arrived in the evening after dark (20:20 PM). Maylin taxi (the green cars, heard to be the most reliable and honest) to deliver us to [Than Thien Hotel](http://gonetraveling.me/2014/09/than-thien-hotel-friendly-hotel/ "Than Thien Hotel – Friendly Hotel").
 
 Exhausted from sitting on a train all day, we needed a filling meal before we can take Doxycycline (an anantimalarial antibiotic) - the antibiotic is rejected from the body if consumed on a empty stomach. Walking around the 'touristy' area of Huế we got bombarded with rickshaw riders wanting us to uptake there services, cannabis dealers making the international spiff to mouth gesture (we all understand what it means). Ideally something that is not desired when you just want to relax. We finally decided on a cheap simple restaurant and had fried Noodles - a very basic meal.

@@ -7,7 +7,6 @@ categories:
   - Vietnam
 tags:
   - greek
-artwork: images/artwork.jpg
 ---
 
 Pita is a Greek restaurant {{<tripadvisor 6652670>}} with a simple menu the food is of great quality.

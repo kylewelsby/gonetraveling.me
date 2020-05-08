@@ -16,8 +16,6 @@ tags:
 artwork: images/artwork.jpg
 ---
 
-![halong-bay](images/halong-bay.jpg)
-
 A visit to Vietnam can not be complete without visiting the [UNESCO world heritage site Hạ Long Bay](http://whc.unesco.org/en/list/672).
 
 A collection over 1960 limestone islands and islets in the Gulf of Tonkin are divided into three sections, Hạ Long, Bái Tử Long and Lan Ha Bay. Ha Long Bay is the most popular section to visit for tourists, Bái Tử Long Bay is a protected national park and requires permission to take tourists to this part of Hạ Long Bay.
@@ -34,17 +32,15 @@ We had a beautifully prepared multi course lunch onboard while we sailed to excl
 
 After lunch a kayak activity would take us out onto the waters for over an hour around a calm quiet section to get up close and personal with the beautiful seascape. After an hour of calm kayaking we took a short swimming break on a small beach.
 
-\[caption id="attachment\_1041" align="aligncenter" width="972"\]![IMG_4646-MOTION](images/IMG_4646-MOTION.gif) Approaching empty beach\[/caption\]
-
- 
+{{<img src="images/IMG_4646-MOTION.gif" title="Approaching empty beach">}}
 
 The water is warm and inviting and a pleasure to relax in on this small beach.
 
-\[caption id="attachment\_1036" align="aligncenter" width="700"\]![Fresh mango growing on beach](images/IMG_4698-1024x575.jpg) Fresh mango growing on beach\[/caption\]
+{{<img src="images/IMG_4698-1024x575.jpg" title="Fresh mango growing on beach">}}
 
 It was interesting to see luscious greenery clinging onto the rocks.
 
-http://youtu.be/6GIwpHNUAGs
+{{<youtube 6GIwpHNUAGs>}}
 
 I saw a fight between a large spider and a humongous hornet - the hornet worn, only just.
 
@@ -56,73 +52,48 @@ A really pleasant end to a wonderful relaxing enjoyable day, we retreated to our
 
 **Day 2** A nice late start, we enjoyed breakfast while Toni explained the day's itinerary. This day involved more kayaking, and Kim joined me this time. As the tide was low we had hopes to enter a limited availability lagoon. Sadly when we arrived to the entrance the tide was rising making the lagoon too dangerous to visit. We paddled around for more than two hours, even crossing large open bodies of water and having a break on a beach again before returning to the cruise Junk for lunch, we had worked up an appetite.
 
-\[caption id="attachment\_1026" align="aligncenter" width="700"\]![Kyle ♡ Kim](images/DSC00898-1024x575.jpg) Kyle ♡ Kim\[/caption\]
+{{<img src="images/DSC00898-1024x575.jp" title="Kyle ♡ Kim">}}
 
 Lunch again was more wonderful salads, beef, pork ribs in BBQ sauce and steamed rice. - I am really impressed with the quality of food served.
 
 After lunch we had the opportunity to visit an exclusive beach on paradise island, being exhausted from the mornings kayaking we decided to rest on the Junk instead. We did not miss out on what paradise island had to offer. Paradise island is exclusively owned by Indochina Junks meaning we're the only guests who can explore and enjoy this island.
 
-\[caption id="attachment\_1019" align="aligncenter" width="700"\]![Cave Love](images/DSC00978-1024x575.jpg) Cave Love\[/caption\]
+{{<img src="images/DSC00978-1024x575.jpg" title="Cave Love">}}
 
 In the evening the crew prepared a BBQ, a BBQ which we enjoyed in the cave on the island. We were served Large prawn, chicken and pork skewers, salad, and rice. This meal in its unimaginable beautiful environment was such a treat. You can hear the droplets of water slowly forming stalactites and stalagmites, we did not realise it rained outside while we enjoyed dinner.
 
 I had to capture this moment, almost being left behind, I took [this 360 sphere photo](https://www.google.com/maps/views/view/103958417703949399427/gphoto/6057735921755214450) while inside the cave.
 
-<iframe src="https://maps.google.com/maps?layer=c&amp;panoid=E3ZfcUENEbsAAAQYH_Zz5Q&amp;ie=UTF8&amp;source=embed&amp;output=svembed&amp;cbp=13%2C292.81630428724213%2C%2C0%2C-2.4203562732500075" width="640" height="360" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-
-[Views](https://www.google.com/maps/views/): [Thiên Cảnh Sơn Cave](https://www.google.com/maps/views/view/103958417703949399427/gphoto/6057735921755214450) by [Kyle Welsby](https://www.google.com/maps/views/profile/103958417703949399427)
 
 The night could not get any better... but it did. The clear night sky allowed us to see in awe the vastness of space. Without light pollution from cities or towns, millions of stars can be seen - even two shooting stars.
 
-\[caption id="attachment\_1016" align="aligncenter" width="700"\]![Beautiful Night](images/IMG_4769-1024x575.jpg) Beautiful Night\[/caption\]
+{{<img src="images/IMG_4769-1024x575.jpg" title="Beautiful Night">}}
 
 Our camera set with the highest ISO setting managed to capture the silhouette of the islands with the glowing night sky with some stars. Really surprised as we were on water moving to the anchorage point for another peaceful night sleep in complete darkness.
 
 **Day 3** We had an early start with a quick breakfast consisting of egg, sausage, and toast. It was not as great as the other meals we have had, but kudos to the crew for being up so early to prepare it. After breakfast we were taken to a floating village community, which is the second largest in Ha Long Bay. Placed on small local fishing boats, local people rowed the boats around the village.
 
-https://www.youtube.com/watch?v=-P7pkJ-Aw-I
+{{<youtube -P7pkJ-Aw-I>}}
 
 The boats move quietly and calmly over the water. We visited the floating fishery where they school different species of fish. On this same floating section is the village school, the local children would row themselves to school to get an education.
 
-\[caption id="attachment\_1014" align="aligncenter" width="700"\]![Floating community](images/DSC00985-1024x575.jpg) Floating community\[/caption\]
+{{<img src="images/DSC00985-1024x575.jpg" title="Floating community">}}
 
 The village is mostly derelict as the government is attempting to move the community to the land as an attempt to cut the environmental impact on Ha Long bay. These villages are a likely source of some of the loose styrofoam, plastics and manmade items littering around the bay.
 
 **Conclusion** We have not cruised with any other cruise companies that sail in Ha Long Bay but from what we have heard and read, you get what you pay for. If you go cheap then you will get a cheap service. Indochina Junks have made huge efforts to stand out from the rest of the cruise companies.
 
-\[caption id="attachment\_1061" align="aligncenter" width="700"\]![Dragon's Pearl](images/IMG_4567-1024x575.jpg) Dragon's Pearl\[/caption\]
+{{<img src="images/IMG_4567-1024x575.jpg" title="Dragon's Pearl">}}
 
 I would highly recommend you consider Indochina Junks for your Ha Long Bay cruise.
 
-Food
-
-\[usr 5\]
-
-Service
-
-\[usr 5\]
-
-Value for Money
-
-\[usr 5\]
-
-Overall
-
-\[usr 5\]
 
 This tour cost us $278 per person (including transportation from Hanoi).
 
-> Indochina Junk, 06 Le Thanh Tong str, Hon Gai, Halong, Quang Ninh
-> 
-> Tel:  [(+84) 4 3926 4085](tel:+84439264085)
-> 
-> Email: [info@indochina-junk.com](mailto:info@indochina-junk.com)
-> 
-> Website: [www.indochina-junk.com](http://www.indochina-junk.com/)
+{{<place ChIJMTDmuZWrNTERg0F-7ziUYAU>}}
 
+{{<youtube rnZ8BGXpEW0>}}
 
-
-http://youtu.be/rnZ8BGXpEW0
 {{<gallery>}}
   {{<img src="images/IMG_20140822_151826.jpg" title="Relaxing on deck">}}
   {{<img src="images/IMG_20140822_152748.jpg">}}
@@ -180,9 +151,9 @@ http://youtu.be/rnZ8BGXpEW0
   {{<img src="images/DSC00994.jpg" title="Floating Scool">}}
   {{<img src="images/DSC00997.jpg" title="Cute dog on floating village">}}
   {{<img src="images/IMG_4795.jpg">}}
+  {{<img src="images/DSC01017.jpg" oriantation="portrait">}}
   {{<img src="images/IMG_4801.jpg" title="Fresh Perl ">}}
   {{<img src="images/IMG_4802.jpg" title="Fresh Pearl">}}
   {{<img src="images/DSC01004.jpg" title="&#8220;Set sail for over there..&#8221;">}}
   {{<img src="images/DSC01006.jpg">}}
-  {{<img src="images/DSC01017.jpg" oriantation="portrait">}}
 {{</gallery>}}

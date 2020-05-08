@@ -1,7 +1,6 @@
 ---
 title: Vietnam
 date: '2014-10-08'
-url: /vietnam
 artwork: images/artwork.jpg
 categories:
   - Vietnam

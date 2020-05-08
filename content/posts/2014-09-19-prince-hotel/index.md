@@ -5,14 +5,14 @@ url: /prince-hotel
 categories:
   - Lodgings
   - Vietnam
+  - Hoi An
 tags:
   - hoi an
 artwork: images/artwork.jpg
 ---
 
-![IMG_20140915_171533](images/IMG_20140915_1715331-1024x554.jpg)
 
-Prince Hotel (ranked #39 out of 110 B&B's in Hoi An on [TripAdvisor](http://www.tripadvisor.com/Hotel_Review-g298082-d5890326-Reviews-Hoi_An_Prince_Hotel-Hoi_An_Quang_Nam_Province.html "Prince Hotel on TripAdvisor")) is a fresh hotel 1km away from the city centre of Hội An.
+Prince Hotel {{<tripadvisor 5890326>}} is a fresh hotel 1km away from the city centre of Hội An.
 
 The hotel has a small swimming pool, bicycle rental and is located in a quiet area of Hội An.
 
@@ -41,13 +41,13 @@ Cons
 - Low water pressure for
 - Slow internet speeds
 
-\[usrlist Food:4 Service:4 Room:5 Value:4 English:3 Overall:5\]
+<!-- \[usrlist Food:4 Service:4 Room:5 Value:4 English:3 Overall:5\] -->
 
-> [Hoi An Prince Hotel](https://plus.google.com/113986207819421156995/about), 201 Lý Thái Tổ, tp. Hội An, Quảng Nam, Vietnam Tel: [+84 510 3927 878](+845103927878) Email: [hoianprincehotel@gmail.com](mailto:hoianprincehotel@gmail.com) Website: [hoianprincehotel.com](http://hoianprincehotel.com/)
+{{<place ChIJEWqS8HYOQjERidwpZVq2ui4>}}
 
-[![Booking-dot-com](images/Booking-dot-com.png)](https://www.booking.com/hotel/vn/prince-hoi-an.en-gb.html?aid=399308)
+<!-- [![Booking-dot-com](images/Booking-dot-com.png)](https://www.booking.com/hotel/vn/prince-hoi-an.en-gb.html?aid=399308) -->
 
-[![agoda-dot-com](images/agoda-dot-com.png)](http://www.agoda.com/hoi-an-prince-hotel/hotel/hoi-an-vn.html?cid=1649959)
+<!-- [![agoda-dot-com](images/agoda-dot-com.png)](http://www.agoda.com/hoi-an-prince-hotel/hotel/hoi-an-vn.html?cid=1649959) -->
 
 
 {{<gallery>}}

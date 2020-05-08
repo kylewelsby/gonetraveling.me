@@ -10,13 +10,11 @@ tags:
 artwork: images/artwork.jpg
 ---
 
-![](images/IMG_4180-1024x575.jpg)Hanoi is the current capital of Vietnam and the second largest city in Vietnam with an estimated population of over 2.6 million residents. Hanoi is a popular city for tourists traveling to [Sapa](http://gonetraveling.me/2014/08/sa-pa/ "Sa Pa") or [Halong Bay](http://gonetraveling.me/2014/08/ha-long-bay/ "Hạ Long Bay & Bái Tử Long Bay"), many tour operators and hotels will insist you book the tours.
+Hanoi is the current capital of Vietnam and the second largest city in Vietnam with an estimated population of over 2.6 million residents. Hanoi is a popular city for tourists traveling to [Sapa](http://gonetraveling.me/2014/08/sa-pa/ "Sa Pa") or [Halong Bay](http://gonetraveling.me/2014/08/ha-long-bay/ "Hạ Long Bay & Bái Tử Long Bay"), many tour operators and hotels will insist you book the tours.
 
-\[caption id="attachment\_1173" align="aligncenter" width="700"\]![IMG_20140811_151043](images/IMG_20140811_151043-1024x583.jpg) Many motorbikes taking up the sidewalk.\[/caption\]
+{{<img src="images/IMG_20140811_151043-1024x583.jpg" title="Many motorbikes taking up the sidewalk.">}}
 
 The crowded streets make walking a test of the brave as sidewalks are mostly occupied by parked motorbikes. Road traffic although slow closely brushes past you and if there is no space to pass you they will be right behind you beeping horns - quite literally running over you. The city does have traffic lights and zebra crossings but locals do not alway adhere to the rules - you're not guaranteed the traffic will stop and safe crossing at a zebra crossing.
-
-\[soundcloud url="https://api.soundcloud.com/tracks/166612809?secret\_token=s-eucs7" params="color=57ad68&auto\_play=false&hide\_related=false&show\_comments=true&show\_user=true&show\_reposts=false" width="100%" height="166" iframe="true" /\]
 
 Many cycle rickshaws will grab your attention by ringing a bell, and hail you with the palm down 'come here' hand gesture. It becomes second nature to ignore bells and continue walking as close to the side of the road as possible.
 
@@ -71,9 +69,9 @@ For the entire month we stayed in Hanoi we withdrawn ₫70,290,000 (exactly £
   {{<img src="images/IMG_20140811_151043.jpg" title="bike parking more important than pedestrians. ">}}
   {{<img src="images/IMG_20140913_054131-EFFECTS.jpg" title="Ga Hà Nội">}}
   {{<img src="images/PANO_20140813_070153.jpg" title="Hoàn Kiếm Lake">}}
+  {{<img src="images/DSC00587.jpg" oriantation="portrait">}}
   {{<img src="images/IMG_20140811_142358.jpg" title="Hoàn Kiếm Lake">}}
   {{<img src="images/DSC00584.jpg" title="Hoàn Kiếm Lake">}}
   {{<img src="images/IMG_4195.jpg" title="busy streets ">}}
   {{<img src="images/IMG_4191.jpg" title="Woman&#8217;s Museum Tickets">}}
-  {{<img src="images/DSC00587.jpg" oriantation="portrait">}}
 {{</gallery>}}

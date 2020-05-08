@@ -9,8 +9,6 @@ tags: []
 artwork: images/artwork.jpg
 ---
 
-![](images/IMG_20140816_183539-1024x576.jpg)
-
 While in Vietnam, we applied for our Thailand Tourist Visa so we can stay up-to 60 consecutive days in Thailand. The Thailand Embassy in Hanoi are very accommodating and friendly when it comes to applying for a Visa. They speak good english and did not make unexpected requests.
 
 We applied on a whim that we may need to give more information such as, (printed bank statements, hotel booking proof, transportation in and out) non of this information was demanded. We were asked our travel intentions - As we intend to travel overland from Cambodia and exit via Malaysia, the administrator staff pulled a face how I can describe of "Impressed".

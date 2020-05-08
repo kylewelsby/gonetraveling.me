@@ -10,9 +10,7 @@ tags:
 artwork: images/artwork.jpg
 ---
 
-![IMG_20140912_140659](images/IMG_20140912_140659-1024x627.jpg)
-
-Tu Linh Palace Hotel 2 (ranked #8 out of 436 B&B in Hanoi on [TripAdvisor](http://www.tripadvisor.co.uk/Hotel_Review-g293924-d3681265-Reviews-Tu_Linh_Palace_Hotel_2-Hanoi.html)) is in a quiet area of _Hàng Buồm_ - great to escape the night activities. You can walk (or run) anywhere within good time.
+Tu Linh Palace Hotel 2 is in a quiet area of _Hàng Buồm_ - great to escape the night activities. You can walk (or run) anywhere within good time.
 
 The front of house staff _Lilli, Ghang, Thian, and Ming_ at Tu Linh, every morning will greet with smiles saying "Hello, How are you? Did you sleep well?". They are seem genuinely are happy to see you and make the stay in Hanoi good, they are very knowledgeable about places to visit and eat. Ghang when on duty would spend most of his time playing video games, Lilli would make efforts to sell tours, and Thian would await guests and greet them with great enthusiasm, and Ming works the night shift with Te Te, He sometimes can be difficult to communicate with, but is a happy guy to chat with.
 
@@ -52,15 +50,16 @@ Cons:
 - Outrageous commission
 - Lack of loyalty discounts for long term guests
 
-\[usrlist Service:4.5 Rooms:3.5 Food:3 Value:3.5 English:4 Overall:3\]
+<!-- \[usrlist Service:4.5 Rooms:3.5 Food:3 Value:3.5 English:4 Overall:3\] -->
 
-> Tel: [(+84) 4 3826 9999](tel:+84438269999) Email: [booking@tulinhpalacehotels.com](mailto:booking@tulinhpalacehotels.com) Website: [www.tulinhpalacehotels.com/tu-linh-palace-hotel-2](http://www.tulinhpalacehotels.com/tu-linh-palace-hotel-2)
+{{<place ChIJa2TglsCrNTERlFZFyJvm5zE>}}
 
-You can book on [Agoda](http://www.agoda.com/tu-linh-palace-hotel-2/hotel/hanoi-vn.html?cid=1649959), [Booking.com](http://www.booking.com/hotel/vn/tu-linh-palace-2.html?aid=399308) or Directly.
 
-[![agoda.com](images/005-logo-top-agoda-com.jpg)](http://www.agoda.com/tu-linh-palace-hotel-2/hotel/hanoi-vn.html?cid=1649959)
+<!-- You can book on [Agoda](http://www.agoda.com/tu-linh-palace-hotel-2/hotel/hanoi-vn.html?cid=1649959), [Booking.com](http://www.booking.com/hotel/vn/tu-linh-palace-2.html?aid=399308) or Directly. -->
 
-[![booking.com](images/booking.com_logo_blue_1000.jpg)](http://www.booking.com/hotel/vn/tu-linh-palace-2.html?aid=399308)
+<!-- [![agoda.com](images/005-logo-top-agoda-com.jpg)](http://www.agoda.com/tu-linh-palace-hotel-2/hotel/hanoi-vn.html?cid=1649959) -->
+
+<!-- [![booking.com](images/booking.com_logo_blue_1000.jpg)](http://www.booking.com/hotel/vn/tu-linh-palace-2.html?aid=399308) -->
 
 
 {{<gallery>}}

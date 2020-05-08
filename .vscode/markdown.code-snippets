@@ -21,5 +21,17 @@
 			"{{<img src=\"images/$0\">}}"
 		],
 		"description": "Gallery Shortcode"
+	},
+	"TripAdvisor Shortcode":{
+		"prefix": ["trip"],
+		"body": [
+			"{{<tripadvisor $0>}}"
+		]
+	},
+	"Place Shortcode": {
+		"prefix": ["place"],
+		"body": [
+			"{{<place $0>}}"
+		]
 	}
 }
