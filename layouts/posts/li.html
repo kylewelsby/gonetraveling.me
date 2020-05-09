@@ -3,8 +3,8 @@
 <a href="{{ .RelPermalink }}"class="flex flex-col items-center">
   {{ if .Param "artwork" }}
     {{ with .Resources.GetMatch (printf "*%s*" .Params.artwork) }}
-      {{ $img := .Fit (printf "%sx%s Gaussian jpg" (string (mul $width 2)) (string (mul $height 2))) }}
-      <img src="{{ $img.RelPermalink }}" class="object-cover h-64 w-screen mb-4 max-w-auto"/>
+      {{ $img := .Fill (printf "%sx%s Center NearestNeighbor jpg" (string (mul $width 2)) (string (mul $height 2))) }}
+      <img src="{{ $img.RelPermalink }}" class="object-cover h-64 w-screen mb-4 max-w-auto" loading="lazy"/>
     {{ end }}
   {{ else }}
     <hr class="border-solid border-double border-t-4 w-full max-w-lg pb-12"/>

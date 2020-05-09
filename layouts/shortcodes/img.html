@@ -35,7 +35,7 @@
 {{ with $.Page.Resources.GetMatch (printf "*%s*" (.Get "src")) }}
   {{ $img := .Fit (printf "%sx%s Gaussian jpg" (string (mul $width 2)) (string (mul $height 2))) }}
   <div class="rounded overflow-hidden shadow-lg {{ $class }}">
-    <img src="{{ $img.RelPermalink }}" class="w-full" alt="{{ $title }}" width="{{ $width }}" height="{{ $height }}">
+    <img src="{{ $img.RelPermalink }}" class="w-full" alt="{{ $title }}" width="{{ $width }}" height="{{ $height }}" loading="lazy"/>
     {{- if $title -}}
     <p class="text-gray-700 text-base text-sm px-6 py-4">{{ $title }}</p>
     {{- end -}}
