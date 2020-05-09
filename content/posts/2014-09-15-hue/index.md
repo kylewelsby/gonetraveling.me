@@ -24,7 +24,7 @@ The next day we made it our mission to go and book our bus tickets for onward tr
 
 After sorting bus tickets, exploration of the city could commence. We turned one corner and 4 rickshaws jumped on us whilst trying to take a photo. (nearly breaking into a run to get away) we walked across the large steel bridge with calm and piece from hawkers as pedestrians are separate from road traffic. Making it to the other side we realised a historic military presence. Vendors along the rider side streets would sell old coins, Chinaware and medals. We made some effort to visit the Imperial city, entrance is 110,000₫ per person (very pricy for ruins)  without no guide, maps or detail what this place really is. We exhausted ourselves walking around in the hot sun looking at some of the beautiful reconstructions and ruins - we only lasted a couple of hours until migraine set in.
 
-\[caption id="attachment\_1208" align="aligncenter" width="700"\]![](images/IMG_4934-1024x575.jpg) Lotterria - Vietnam's McDonalds fast food alternative\[/caption\]
+{{<img src="images/IMG_4934-1024x575.jpg" title="Lotterria - Vietnam's McDonalds fast food alternative">}}
 
 We had a quick lunch at Lotterria (Vietnam's McDonalds fast food alternative) having a Shrimp burger, fried chicken and some other weird tasting burger, was not amazing. Directly next door is a large supermarket, we resupplied water, snacks and soap.
 

@@ -11,11 +11,9 @@ tags:
   - home
 ---
 
-\[caption id="" align="alignnone" width="2235"\]![](images/IMG_20140609_111343.jpg) All of our stuff in storage boxes\[/caption\]
 
 We are intending to travel for an extended and unknown duration and have spent the last month selling and packing our personal possessions in preparation for storage.
 
-\[caption id="" align="alignnone" width="1720"\][![](images/IMG_20140427_152807.jpg)](https://plus.google.com/u/0/+KyleWelsby/posts/DsQDj5kjXRe) Our car, we call "Frank".\[/caption\]
 
 We sold our Car, and a whole bunch of items on eBay, to build up some useful cash from assets that would otherwise be left gathering dust or rust while we travel.  So far we've managed to make nearly £1500.
 

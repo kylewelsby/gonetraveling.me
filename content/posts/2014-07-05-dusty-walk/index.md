@@ -12,7 +12,7 @@ tags: []
 
 Friday we decided to expand our knowledge of the local area, we picked a direction and started walking until we decided to try a new direction.  After crossing a really busy road, We found [Samakhusi](http://en.wikipedia.org/wiki/Samakhushi) a more cultural area not far outside of [Thamel](http://en.wikipedia.org/wiki/Thamel).
 
-\[youtube=[http://youtu.be/269rsfLgHvQ](http://youtu.be/269rsfLgHvQ)\]
+{{<youtube 269rsfLgHvQ>}}
 
 We got a gist of how some of Kathmandu residents live - small dark rooms, trash piles in just off the road, the odd sleeping dog and people watching us walk by.  However we still seen clothing trade is a relatively big deal.  Ability to get nice western looking cloths in a few shops.
 

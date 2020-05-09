@@ -12,11 +12,11 @@ tags:
 artwork: images/artwork.jpg
 ---
 
-![IMG_20140726_091930](images/IMG_20140726_091930-1024x583.jpg)
 
-We visited Pukhraj Durry Udhyog for a few hours in the morning, having breakfast and shown how rugs are made by hand.  We loved the hospitality, the simple cooking, the brilliant flavour of the rice and pancakes. We seen a couple of rugs that taken our eye and could not resist to buy them.  \[youtube=http://youtu.be/6AJf03drNxQ\]
+We visited Pukhraj Durry Udhyog for a few hours in the morning, having breakfast and shown how rugs are made by hand.  We loved the hospitality, the simple cooking, the brilliant flavour of the rice and pancakes. We seen a couple of rugs that taken our eye and could not resist to buy them.  
 
-\[youtube=http://youtu.be/R5g68ItgKok\]
+{{<youtube 6AJf03drNxQ>}}
+{{<youtube R5g68ItgKok>}}
 
 
 
@@ -43,8 +43,4 @@ There is also has a home stay [Chhotaram Prajapat's Homestay](http://www.agoda.c
   {{<img src="images/IMG_3975.jpg" title="Pukharj and his mustache ">}}
   {{<img src="images/IMG_3979.jpg" title="the professional ">}}
   {{<img src="images/Screenshot-2014-08-02-23.07.08.png" title="Me pot making">}}
-{{</gallery>}}
-{{<gallery>}}
-  {{<img src="images/Screenshot-2014-08-02-23.07.08.png" title="Me pot making">}}
-  {{<img src="images/IMG_3979.jpg" title="the professional ">}}
 {{</gallery>}}

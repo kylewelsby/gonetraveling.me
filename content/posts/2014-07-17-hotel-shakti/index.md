@@ -9,7 +9,7 @@ tags: []
 artwork: images/artwork.jpg
 ---
 
-[Hotel Shakti](http://www.agoda.com/en-gb/hotel-shakti/hotel/kathmandu-np.html?cid=1649959 "Agoda: Hotel Shakti") (ranked 33 out of 70 on TripAdvisor) was a comfortable enough stay.  Every-other day there is a large tour group passing though (some european youth group that all wear the same uniform).
+[Hotel Shakti](http://www.agoda.com/en-gb/hotel-shakti/hotel/kathmandu-np.html?cid=1649959 "Agoda: Hotel Shakti") was a comfortable enough stay.  Every-other day there is a large tour group passing though (some european youth group that all wear the same uniform).
 
 The staff was very friendly, making our stay comfortable and assisting when needed. There was hot water most times which was very welcome to enjoy a long shower after a hot day.
 

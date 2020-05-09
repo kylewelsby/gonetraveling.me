@@ -2,7 +2,6 @@
 title: Vaccinations
 date: '2014-06-16'
 url: /vaccinations
-artwork: images/artwork.jpg
 categories:
   - Pre Travels
 tags: []

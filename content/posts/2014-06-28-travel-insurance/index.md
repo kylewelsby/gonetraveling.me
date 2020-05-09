@@ -2,7 +2,6 @@
 title: Travel Insurance
 date: '2014-06-28'
 url: /travel-insurance
-artwork: images/artwork.jpg
 categories:
   - Pre Travels
 tags: []

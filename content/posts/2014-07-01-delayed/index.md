@@ -24,7 +24,7 @@ We were served our evening meal like normal service even though we were still at
 
 We were told to disembark, go through security and wait for coaches to take us to a nearby Park Inn hotel where we would be put up for the night.
 
-\[youtube=http://youtu.be/7WvByHRNjEY\]
+{{<youtube 7WvByHRNjEY>}}
 
 It was not until 03:30 when we finally got to rest.
 

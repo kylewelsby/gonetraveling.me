@@ -2,7 +2,6 @@
 title: ...and we're off
 date: '2014-06-30'
 url: /and-were-off
-artwork: images/artwork.jpg
 categories:
   - Transportation
 tags:
