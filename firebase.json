@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "predeploy": "hugo --minify",
+    "predeploy": "NODE_ENV=production hugo",
     "public": "public",
     "ignore": [
       "firebase.json",
