@@ -8,4 +8,10 @@ author:
 params:
   googlePlacesAPIKey: AIzaSyDVcuW4Q6Gd1SuHATdn86L-ZjVF4cAcjtM # this key only works on GoneTraveling.me
   tripAdvisorAPIKey: 6F988E410E334D3CBCEBC86A6DAA4788
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: -1
 ---
