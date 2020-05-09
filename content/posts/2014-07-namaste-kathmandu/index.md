@@ -19,7 +19,7 @@ We where kindly collected form the airport by Hari from [Zen Bed & Breakfast](ht
 
 {{<img src="images/Sleepy-Kim-1024x576.jpg" title="Kim exhausted from all flight delays, taking a nap in New Delhi Airport">}}
 
-After checking in we Crashed, exhausted from our [delayed departure](posts/2014-07/delayed/ "delayed…").
+After checking in we Crashed, exhausted from our [delayed departure](/posts/2014-07-delayed/ "delayed…").
 
 We found [Himalayan Java Coffee Shop](https://www.tripadvisor.co.uk/Restaurant_Review-g293890-d1846797-Reviews-Himalayan_Java_Coffee-Kathmandu_Kathmandu_Valley_Bagmati_Zone_Central_Region.html) (after spending 4 minutes waiting to cross the road). We sat back, and watched the world by. Watched how traffic flows and just enjoyed a different way of life.
 

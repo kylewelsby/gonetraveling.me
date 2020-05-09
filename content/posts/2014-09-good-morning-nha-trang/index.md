@@ -15,7 +15,7 @@ We arrived via Train from Da Nang, the journey was very painless and not as even
 
 {{<place ChIJi89YoXxncDER23T-Sy4Fj9I>}}
 
-We made the effort to wake up before sunrise and observe the sunrise across the South China Sea (as the sun rises from the East). It was wonderful sitting there watching the morning events, locals coming to the beach for a early morning swim - and then burring themselves in sand (could not understand, but they where happy doing so) I even decided to go for a [run along the beach](https://runkeeper.com/user/MeKyle/activity/440614401) as the air was cooler.
+We made the effort to wake up before sunrise and observe the sunrise across the South China Sea (as the sun rises from the East). It was wonderful sitting there watching the morning events, locals coming to the beach for a early morning swim - and then burring themselves in sand (could not understand, but they where happy doing so) I even decided to go for a run along the beach as the air was cooler.
 
 **Food** Some notable places we ate at; [Pita](/posts/2014-09-pita-gr-restaurant/ "Pita GR Restaurant") (a greek restaurant that serves Souvlaki), and [Lanterns](/posts/2014-09-lanterns-vietnamese-restaurant/ "Lanterns Vietnamese Restaurant") (Vietnamese food). Both unbelievably great tasting places. You should eat at these places.
 

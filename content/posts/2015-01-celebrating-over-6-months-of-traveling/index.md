@@ -12,12 +12,12 @@ It's such an alien feeling spending the holiday season over 10,000km (6,600 mile
 
 A little over 6 months ago in July Kim and I left the comforts of Great Britain and arrived in Katmandu, Nepal. This is my first time outside of the European Union. We set a challenged to visit as many counties in Asia, and now we are on on country #6 - Malaysia.
 
-1. [Nepal](/category/destinations/nepal/)
-2. [India](/category/destinations/india)
-3. [Vietnam](/category/destinations/vietnam)
-4. [Cambodia](/category/destinations/cambodia)
-5. [Thailand](/category/destinations/thailand)
-6. [Malaysia](/category/destinations/malaysia)
+1. [Nepal](/categories/nepal/)
+2. [India](/categories/india)
+3. [Vietnam](/categories/vietnam)
+4. [Cambodia](/categories/cambodia)
+5. [Thailand](/categories/thailand)
+6. [Malaysia](/categories/malaysia)
 
 I maintained good coverage and documented my travels, hotels and food until Cambodia, where it has since been a hindrance maintaining the blogging momentum. Getting into the mood to write has been difficult to get into - _as I'm writing this its 04:00 am and I've had difficulty sleeping for the last few days_.
 

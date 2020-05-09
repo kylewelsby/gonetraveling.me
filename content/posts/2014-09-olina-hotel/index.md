@@ -8,7 +8,6 @@ categories:
 tags:
   - Da Nang
   - danang
-artwork: images/artwork.jpg
 ---
 
 Olina Hotel {{<tripadvisor 3370587>}} is a budget hotel, after checking reviews for all hotels within our price range this hotel yields less problems.

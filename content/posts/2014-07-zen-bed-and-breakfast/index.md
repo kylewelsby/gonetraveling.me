@@ -12,7 +12,7 @@ artwork: images/artwork.jpg
 
 ![](images/PANO_20140703_1425091-1024x767.jpg)
 
-After major flight [delays](/delayed/ "delayed…"), We arrived into Kathmandu, Nepal and was given a complementary airport transfer to [Zen Bed and Breakfast](https://www.agoda.com/zen-bed-and-breakfast-kathmandu/hotel/kathmandu-np.html?cid=1649959) in a local taxi, Hari (the owner) personally collected us. Hari, kept in touch via SMS and had no problem with our delay, we was not charged for the unused night we missed from our delay.
+After major flight [delays](/posts/2014-07-delayed/ "delayed…"), We arrived into Kathmandu, Nepal and was given a complementary airport transfer to [Zen Bed and Breakfast](https://www.agoda.com/zen-bed-and-breakfast-kathmandu/hotel/kathmandu-np.html?cid=1649959) in a local taxi, Hari (the owner) personally collected us. Hari, kept in touch via SMS and had no problem with our delay, we was not charged for the unused night we missed from our delay.
 
 <iframe src="https://maps.google.com/maps?layer=c&amp;panoid=g_flcpvhhToAAAQfCQEiJw&amp;ie=UTF8&amp;source=embed&amp;output=svembed&amp;cbp=13%2C226.9104%2C%2C0%2C0" width="700" height="394" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 

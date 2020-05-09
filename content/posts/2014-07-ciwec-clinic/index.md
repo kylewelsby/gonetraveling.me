@@ -7,10 +7,9 @@ categories:
   - Nepal
 tags:
   - diarrhoea
-artwork: images/artwork.jpg
 ---
 
-Our guided tour through the southern parts of Nepal was delayed because we had to admit Kim to [CIWEC Clinic](https://ciwec-clinic.com/ "CIWEC Clinic website") after she became very ill. It was identified a nasty bacterial infection (likely caused by contaminated food) caused Kim to become very ill, with diarrhoea, vomiting and abdominal pain. This is commonly called Travellers Diarrhoea or Delhi Belly. We suspected their had been some food contamination in a meal at [Thakali Kitchen](/thakali-kitchen/ "Thakali Kitchen").
+Our guided tour through the southern parts of Nepal was delayed because we had to admit Kim to [CIWEC Clinic](https://ciwec-clinic.com/ "CIWEC Clinic website") after she became very ill. It was identified a nasty bacterial infection (likely caused by contaminated food) caused Kim to become very ill, with diarrhoea, vomiting and abdominal pain. This is commonly called Travellers Diarrhoea or Delhi Belly. We suspected their had been some food contamination in a meal at [Thakali Kitchen](/posts/2014-07-thakali-kitchen/ "Thakali Kitchen").
 
 CIWEC Clinic staff were friendly and helpful to nursing Kim back to heath, although we checked in early hours of the morning (around 3:30am) there were staff ready to diagnose and treat Kim with very prompt action.  We did not have to wait to be seen at all.
 

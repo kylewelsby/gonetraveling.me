@@ -11,7 +11,7 @@ tags: []
 
 The big three-oh.  Yes, I turned thirty this year.  I told myself to get ready to do something big, scary and special to forever remember what I did during my thirtieth year.  So, while I have been back in the United Kingdom I have taken this time to Learn how to ride a Motorbike among many other activities. Learning to ride a motorbike is only one part of the preparation for a bigger part of my goal I must act before my thirtieth year is over.
 
-In this blog, I wrote extensively about my experiences in [Nepal](/categories/destinations/nepal/), [India](/categories/destinations/india/), and [Vietnam](/categories/destinations/vietnam/) before burning out from the chore of writing this I slowly reduced my documenting of my travels.  One day I might be motivated to backtrack and share some stories about this these travels.
+In this blog, I wrote extensively about my experiences in [Nepal](/categories/nepal/), [India](/categories/india/), and [Vietnam](/categories/vietnam/) before burning out from the chore of writing this I slowly reduced my documenting of my travels.  One day I might be motivated to backtrack and share some stories about this these travels.
 
 If you've followed my [YouTube channel](https://www.youtube.com/channel/UCk6c6vGiKFwoK3436qUDQWQ), you would already know where I am going with this.
 

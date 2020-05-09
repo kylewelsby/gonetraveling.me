@@ -93,7 +93,7 @@ In the evening we went on a boat ride on the Ganges, we gave some lantern offeri
 
 [![](images/IMG_3394-MOTION.gif)](/posts/2014-07-river-ganges/ "River Ganges")
 
-After the boat ride we went to [Pizzeria Vaatika Cafe](/posts/2014-08-pizzeria-vaatika-cafe/ "Pizzeria Vaatika Cafe"), which served the most horrible cheese I have ever tasted.
+After the boat ride we went to [Pizzeria Vaatika Cafe](/posts/2014-07-pizzeria-vaatika-cafe/ "Pizzeria Vaatika Cafe"), which served the most horrible cheese I have ever tasted.
 
 **Day 8 (19th July): Sleeper Train**
 

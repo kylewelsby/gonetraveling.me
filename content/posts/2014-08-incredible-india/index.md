@@ -64,7 +64,7 @@ I would consider visiting India again, next time I would like to visit the south
 
 Would not travel alone in India, especially if you are Woman. It feels safe enough but the back of my mind does think somebody may try to take liberties.
 
-[Read more of my experiences in India](/category/india/)
+[Read more of my experiences in India](/categories/india/)
 
 
 {{<gallery>}}
