@@ -18,7 +18,7 @@ jobs:
         with:
           hugo-version: '0.69.2'
       - name: Build
-        run: hugo --gc --cleanDestinationDir
+        run: hugo --minify --gc --cleanDestinationDir
       - name: Deploy to Firebase
         uses: w9jds/firebase-action@master
         with: 
