@@ -101,7 +101,7 @@ This day we mostly rested, before heading to [Varanasi Junction](https://maps.go
 
 There are stores here that sell confectionaries at a very cheap price. Welcomed for a long train ride.
 
-\[gallery type="rectangular" ids="455,456,454,453"\]
+
 
 **Day 9 (20th July): Agra / Taj Mahal** 
 
@@ -113,7 +113,7 @@ Arriving early in the morning in Agra we got some breakfast at Costa Coffee and 
 
 We taken a local bus to switching at a point to off-road jeeps to Tordi Garh which is a small village 100km south of Jaipur. We checked into [Tordi Garh Hotel](http://gonetraveling.me/2014/07/tordi-garh-hotel/ "Tordi Garh Hotel") (the only hotel in Tordi Garh) and given a traditional welcome to the grounds. We played cricket on the green before a camel back safari to the nearby hills to watch the sunset.
 
-\[gallery type="rectangular" ids="548,547,546,545,542,544,538,540,539,541,543"\]
+
 
 **Day 11 (22nd July): Jaipur**
 
@@ -189,4 +189,23 @@ Would I recommend you to visit Nepal and/or India? Absolutely!
 {{<gallery>}}
   {{<img src="images/IMG_3262.jpg" title="Kim walking ankle-deep though flood water." oriantation="portrait">}}
   {{<img src="images/IMG_20140718_121252.jpg" title="Man making our Lassi">}}
+{{</gallery>}}
+{{<gallery>}}
+  {{<img src="images/IMG_3437-EFFECTS.jpg" title="it rained, HARD">}}
+  {{<img src="images/IMG_3447.jpg">}}
+  {{<img src="images/PANO_20140719_171123.jpg" title="Tour group waiting for train to arrive. ">}}
+  {{<img src="images/IMG_3435.jpg" title="not our train">}}
+{{</gallery>}}
+{{<gallery>}}
+  {{<img src="images/IMG_3821-EFFECTS.jpg" title="Washing line">}}
+  {{<img src="images/IMG_3820.jpg" title="Tordi Garh Temple">}}
+  {{<img src="images/IMG_3819.jpg" title="curious cow">}}
+  {{<img src="images/DSC00399.jpg" oriantation="portrait">}}
+  {{<img src="images/DSC00394-MIX.jpg">}}
+  {{<img src="images/IMG_3813.jpg" title="Youth riding motoclycle">}}
+  {{<img src="images/IMG_3729.jpg" title="&#8220;I am beautiful&#8221;">}}
+  {{<img src="images/DSC00381.jpg" title="Camel butt">}}
+  {{<img src="images/IMG_3783.jpg" title="Camel ride">}}
+  {{<img src="images/IMG_3790.jpg" title="Sunset">}}
+  {{<img src="images/IMG_3806.jpg" title="Dusty Sunset">}}
 {{</gallery>}}

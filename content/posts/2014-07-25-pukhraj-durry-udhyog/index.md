@@ -22,7 +22,7 @@ We visited Pukhraj Durry Udhyog for a few hours in the morning, having breakfas
 
 As an attrition, this village also has a clay pot makers which we also had the privilege to experience.
 
-\[gallery type="rectangular" ids="623,621"\]
+
 
 > Pukharaj Durry Udhyog, Salawas Village | Kumharon ki Dhani, Near Gosala, Jodhpur 342804, India
 > 
@@ -43,4 +43,8 @@ There is also has a home stay [Chhotaram Prajapat's Homestay](http://www.agoda.c
   {{<img src="images/IMG_3975.jpg" title="Pukharj and his mustache ">}}
   {{<img src="images/IMG_3979.jpg" title="the professional ">}}
   {{<img src="images/Screenshot-2014-08-02-23.07.08.png" title="Me pot making">}}
+{{</gallery>}}
+{{<gallery>}}
+  {{<img src="images/Screenshot-2014-08-02-23.07.08.png" title="Me pot making">}}
+  {{<img src="images/IMG_3979.jpg" title="the professional ">}}
 {{</gallery>}}
