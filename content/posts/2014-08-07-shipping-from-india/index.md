@@ -9,8 +9,6 @@ tags:
 artwork: images/artwork.jpg
 ---
 
-![](images/india-package-1024x576.jpg)
-
 Before leaving India we wanted to ship the souvenirs we have purchased over the last month back to the United Kingdom.
 
 **TL;DR**

@@ -13,9 +13,7 @@ tags:
 artwork: images/artwork.jpg
 ---
 
-![aint-no-mountain-high-enough](images/aint-no-mountain-high-enough.jpg)
-
-We booked a tour with Geckos Adventures "[Ain't no mountain high enough](http://www.geckosadventures.com/himalaya/nepal/aint-no-mountain-high-enough-2014)" as it's tour route from Nepal to India, and lowest price (£760.75 per person). [Ain't no Mountain High Enough - Geckos Adventures - Pre Departure Information (PDF)](http://gonetraveling.me/wp-content/uploads/2014/07/Aint-no-Mountain-High-Enough-_-Geckos-Adventures-Pre-Departure-Information.pdf)
+We booked a tour with Geckos Adventures "[Ain't no mountain high enough](http://www.geckosadventures.com/himalaya/nepal/aint-no-mountain-high-enough-2014)" as it's tour route from Nepal to India, and lowest price (£760.75 per person). [Ain't no Mountain High Enough - Geckos Adventures - Pre Departure Information (PDF)](brocure.pdf)
 
 I shared this tour experience with 11 others.
 
@@ -63,7 +61,7 @@ We spend these days in [CIWEC Clinic](http://gonetraveling.me/2014/07/ciwec-clin
 
 We got up early in the morning and checked out of the hotel. An scheduled escort by a Himalayan Encounters representative to catch the 8am local bus from Kathmandu to Lumbini, delayed until 7:45. In the rush to jump into the taxi to the bus station, I left my sun-glasses and mobile phone. If it was not for the quick response from the Hotel staff and having a local speaking representative with us they would have been gone! The hotel arranged a motorcyclist to catch-up with us to deliver my mobile phone and sun-glasses, it was not until 3 bus stops when the motorcyclist finally caught up with us. I was super grateful I handed ₨200 (about £1.20) and relaxed into my seat for the bumpy ride across the hills of Nepal south to Lumbini. The bus was not the most pleasant experience as the temperature and humidity increased and air-conditioning kept failing as the journey continued. We arrived in Lumbini around 17:30 and checked into [Lumbini Buddha Garden Resort](http://gonetraveling.me/2014/07/lumbini-buddha-garden-resort/ "Lumbini Buddha Garden Resort").
 
-\[caption id="attachment\_381" align="aligncenter" width="700"\][![Maya Devi Temple and Sacred Pond](images/IMG_20140716_191909-1024x583.jpg)](http://gonetraveling.me/2014/07/birthplace-of-buddha/ "Birthplace of Buddha") Maya Devi Temple and Sacred Pond\[/caption\]
+{{<img src="images/IMG_20140716_191909-1024x583.jpg" title="Maya Devi Temple and Sacred Pond">}}
 
 Luckily we had enough time to quickly visit the [Birthplace of Buddha](http://gonetraveling.me/2014/07/birthplace-of-buddha/ "Birthplace of Buddha").
 

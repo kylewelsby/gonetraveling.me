@@ -9,9 +9,7 @@ tags: []
 artwork: images/artwork.jpg
 ---
 
-![](images/IMG_20140730_210244-583x1024.jpg)
-
-We chose to stay for 7 nights at [Hotel Staywell DX](http://www.agoda.com/hotel-staywell-dx/hotel/new-delhi-and-ncr-in.html?cid=1649959) (ranked #84 of 813 on [TripAdvisor](http://www.tripadvisor.co.uk/Hotel_Review-g304551-d4154210-Reviews-Hotel_Staywell_Dx-New_Delhi_National_Capital_Territory_of_Delhi.html)) to for our last hotel in India while we get our Vietnam VISA sorted.
+We chose to stay for 7 nights at [Hotel Staywell DX](http://www.agoda.com/hotel-staywell-dx/hotel/new-delhi-and-ncr-in.html?cid=1649959) {{<tripadvisor 4154210>}} to for our last hotel in India while we get our Vietnam VISA sorted.
 
 The hotel is clean, comfortable, and in a great location. Staffs are friendly and speak enough English to get on by but advanced conversations or requests are could to be misunderstood.
 
@@ -23,10 +21,6 @@ The hotel restaurant is fan cooled and can get hot during the day (not pleasant 
 
 Would I stay at [Hotel Staywell DX](http://www.agoda.com/hotel-staywell-dx/hotel/new-delhi-and-ncr-in.html?cid=1649959) again? Yes Would I recommend [Hotel Stay well Dx](http://www.agoda.com/hotel-staywell-dx/hotel/new-delhi-and-ncr-in.html?cid=1649959) ? Yes
 
-> [Hotel Staywell Dx](http://www.agoda.com/hotel-staywell-dx/hotel/new-delhi-and-ncr-in.html?cid=1649959), Desh Bandhu Gupta Rd, Paharganj, New Delhi, DL 110055, India
-> 
-> Tel: +91 11 4154 1801
-> 
-> Website: [www.hotelstaywelldx.com](http://www.hotelstaywelldx.com/)
 
-[Hotel Staywell Dx](http://www.agoda.com/hotel-staywell-dx/hotel/new-delhi-and-ncr-in.html?cid=1649959) can be booked for ₹1290 per night on [Agoda](http://www.agoda.com/hotel-staywell-dx/hotel/new-delhi-and-ncr-in.html?cid=1649959)
+<!-- [Hotel Staywell Dx](http://www.agoda.com/hotel-staywell-dx/hotel/new-delhi-and-ncr-in.html?cid=1649959) can be booked for ₹1290 per night on [Agoda](http://www.agoda.com/hotel-staywell-dx/hotel/new-delhi-and-ncr-in.html?cid=1649959) -->
+{{<place ChIJU3oKZUD9DDkRkIDqiY8COb0>}}

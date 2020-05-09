@@ -8,13 +8,11 @@ tags: []
 artwork: images/artwork.jpg
 ---
 
-![](images/incredible-india1.jpg)
-
 - Disclaimer: The following are my own opinions and are not intended to offend.
 
 We spent a little over 3 weeks in India during July 2014 mostly with a guided tour [_Ain't no mountain high enough_](http://gonetraveling.me/2014/07/aint-no-mountain-high-enough/ "Ain’t no mountain high enough.") by Geckos Adventures. The India government air an advertisement campaign "Incredible India"
 
-\[youtube=https://www.youtube.com/watch?v=r1kIOQbJRyY\]
+{{<youtube _qBE_Z8JbzY>}}
 
 "Incredible India" is one way to say it, India is both incredibly great and incredibly annoying at times too - I will explain in this post.
 
@@ -24,21 +22,19 @@ I visited India with my partner, as her descendants are Indian I have been told�
 
 We entered India overland from Nepal and I initially was disgusted, flies immediately swarmed around us, the roads covered in sloppy mud (and god knows what else), women burning piles of rubbish which contained mostly plastic, and the frantic sense of urgency on the road traffic to always overtake. This is something I have never experienced. The constant use of horns become the ongoing soundtrack of India - the horn almost seems ineffective.
 
-\[soundcloud url="https://api.soundcloud.com/tracks/163380052?secret\_token=s-1ikrF" params="color=ff5500&auto\_play=false&hide\_related=false&show\_comments=true&show\_user=true&show\_reposts=false" width="100%" height="166" iframe="true" /\]
-
 None the less, I was determined to explore India and find its beauty beyond the first introduction.
 
 I was not disappointed, I saw pockets of sheer beauty. The architecture and design seen across the land is remarkable. Buildings and trucks feature non-functional decorative detail, distinctly Indian.
 
 During our trip we visited all the remarkable places in the north of India, [The River Ganges](http://gonetraveling.me/2014/07/river-ganges/ "River Ganges"), [Taj Mahal](http://gonetraveling.me/2014/07/taj-mahal/ "Taj Mahal"), [Tordi Gardh](http://gonetraveling.me/2014/07/tordi-garh-hotel/ "Tordi Garh Hotel"), [Amber Fort](http://gonetraveling.me/2014/07/amber-fort/ "Amber Fort"), and [Udaipur](http://gonetraveling.me/2014/07/udaipur-city-palace/ "Udaipur – City Palace") to list a few.
 
-\[caption id="attachment\_652" align="aligncenter" width="700"\][![Pukharj and his mustache ](images/IMG_3975-1024x575.jpg)](http://gonetraveling.me/2014/07/pukhraj-durry-udhyog/) Pukharj and his mustache\[/caption\]
+{{<img src="images/IMG_3975-1024x575.jpg" title="Pukharj and his mustache">}}
 
 One of my favourite moments was meeting the [Pukhraj family](http://gonetraveling.me/2014/07/pukhraj-durry-udhyog/), they welcomed us with smiles food. A completely unforgettable experience.
 
 It is hard to believe the population of India, there are people everywhere! Along with the massive population are hundreds of cows you will see casually grazing around the streets.
 
-\[caption id="attachment\_546" align="aligncenter" width="700"\]![curious cow](images/IMG_3819-1024x575.jpg) curious cow\[/caption\]
+![curious cow](images/IMG_3819-1024x575.jpg)
 
 There are moments during our tour when locals go out their way to help you. When you find somebody genuine, all they want to do is make sure you are happy.  We once hired a Tuk-Tuk driver for the entire day for ₹900, he took us all around the city of Jaipur in search of souvenirs (magnets and postcards). Jaipur doesn't have many tourist shops which stock these items, the main concentration is on textiles or poor quality items told to be 'good quality' sold by everybody wanting to make a simple buck. The driver drove us around Jaipur more than 3 times finding places to shop, he was more than happy to escort us.
 
