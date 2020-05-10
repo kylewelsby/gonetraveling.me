@@ -5,7 +5,13 @@
   {{ if .Param "artwork" }}
     {{ with .Resources.GetMatch (printf "*%s*" .Params.artwork) }}
       {{ $img := .Fill (printf "%sx%s Center NearestNeighbor jpg" (string (mul $width 2)) (string (mul $height 2))) }}
-      <img src="{{ $img.RelPermalink }}" class="object-cover h-64 w-screen mb-10 max-w-auto" loading="lazy"/>
+      {{ $imgMobile := .Fill (printf "%sx%s Center NearestNeighbor jpg" (string (mul 375 2)) (string (mul 210 2))) }}
+      <img 
+        class="object-cover h-64 w-screen mb-10 max-w-auto" 
+        srcset="{{ $imgMobile.RelPermalink }} 750w,
+                {{ $img.RelPermalink }} 3298w"
+        src="{{ $img.RelPermalink }}"
+        loading="lazy"/>
     {{ end }}
   {{ end }}
 
