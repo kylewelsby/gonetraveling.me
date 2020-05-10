@@ -1,7 +1,12 @@
 {{ define "main" }}
+{{- $width := 1649 }}
+{{- $height := 256 }}
 <article class="flex flex-col items-center mb-10">
   {{ if .Param "artwork" }}
-  <img src="{{ .Params.artwork }}" class="object-cover h-hero w-full mb-10"/>
+    {{ with .Resources.GetMatch (printf "*%s*" .Params.artwork) }}
+      {{ $img := .Fill (printf "%sx%s Center NearestNeighbor jpg" (string (mul $width 2)) (string (mul $height 2))) }}
+      <img src="{{ $img.RelPermalink }}" class="object-cover h-64 w-screen mb-10 max-w-auto" loading="lazy"/>
+    {{ end }}
   {{ end }}
 
   <h1 class="text-6xl uppercase text-center">{{ .Title }}</h1>

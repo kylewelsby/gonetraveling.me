@@ -6,6 +6,539 @@
       "firebase.json",
       "**/.*",
       "**/node_modules/**"
+    ],
+    "cleanUrls": true,
+    "trailingSlash": false,
+    "headers": [
+      {
+        "source": "**/*.@(eot|otf|ttf|ttc|woff|font.css)",
+        "headers": [
+          {
+            "key": "Access-Control-Allow-Origin",
+            "value": "*"
+          }
+        ]
+      },
+      {
+        "source": "**/*.@(jpg|jpeg|gif|png)",
+        "headers": [
+          {
+            "key": "Cache-Control",
+            "value": "max-age=7200"
+          }
+        ]
+      },
+      {
+        "source": "404.html",
+        "headers": [
+          {
+            "key": "Cache-Control",
+            "value": "max-age=300"
+          }
+        ]
+      }
     ]
-  }
+  },
+  "redirects": [
+    {
+      "source": "/thirtieth-year-goal",
+      "destination": "/posts/2017-08-thirtieth-year-goal",
+      "type": 301
+    },
+    {
+      "source": "/my-experiance-as-a-digitalnomad",
+      "destination": "/posts/2015-08-my-experiance-as-a-digitalnomad",
+      "type": 301
+    },
+    {
+      "source": "/crossing-in-60-seconds",
+      "destination": "/posts/2015-05-crossing-in-60-seconds",
+      "type": 301
+    },
+    {
+      "source": "/1738",
+      "destination": "/posts/2015-05-1738",
+      "type": 301
+    },
+    {
+      "source": "/moalboal-the-short-walk-out-to-open-water",
+      "destination": "/posts/2015-04-moalboal-the-short-walk-out-to-open-water",
+      "type": 301
+    },
+    {
+      "source": "/celebrating-over-6-months-of-traveling",
+      "destination": "/posts/2015-01-celebrating-over-6-months-of-traveling",
+      "type": 301
+    },
+    {
+      "source": "/quick-update-november-2014",
+      "destination": "/posts/2014-11-quick-update-november-2014",
+      "type": 301
+    },
+    {
+      "source": "/the-once-empty-capital-city-of-phnom-penh",
+      "destination": "/posts/2014-10-the-once-empty-capital-city-of-phnom-penh",
+      "type": 301
+    },
+    {
+      "source": "/vietnam",
+      "destination": "/posts/2014-10-vietnam",
+      "type": 301
+    },
+    {
+      "source": "/ho-chi-minh-city",
+      "destination": "/posts/2014-10-ho-chi-minh-city",
+      "type": 301
+    },
+    {
+      "source": "/chill-skybar",
+      "destination": "/posts/2014-10-chill-skybar",
+      "type": 301
+    },
+    {
+      "source": "/pizza-4ps",
+      "destination": "/posts/2014-10-pizza-4ps",
+      "type": 301
+    },
+    {
+      "source": "/bahdja-restaurant",
+      "destination": "/posts/2014-10-bahdja-restaurant",
+      "type": 301
+    },
+    {
+      "source": "/sax-n-art-jazz-club",
+      "destination": "/posts/2014-10-sax-n-art-jazz-club",
+      "type": 301
+    },
+    {
+      "source": "/cu-chi-tunnels",
+      "destination": "/posts/2014-10-cu-chi-tunnels",
+      "type": 301
+    },
+    {
+      "source": "/ichiban-sushi",
+      "destination": "/posts/2014-10-ichiban-sushi",
+      "type": 301
+    },
+    {
+      "source": "/the-freedom-of-mui-ne",
+      "destination": "/posts/2014-10-the-freedom-of-mui-ne",
+      "type": 301
+    },
+    {
+      "source": "/da-lat",
+      "destination": "/posts/2014-09-da-lat",
+      "type": 301
+    },
+    {
+      "source": "/lanterns-vietnamese-restaurant",
+      "destination": "/posts/2014-09-lanterns-vietnamese-restaurant",
+      "type": 301
+    },
+    {
+      "source": "/good-morning-nha-trang",
+      "destination": "/posts/2014-09-good-morning-nha-trang",
+      "type": 301
+    },
+    {
+      "source": "/white-lion-hotel",
+      "destination": "/posts/2014-09-white-lion-hotel",
+      "type": 301
+    },
+    {
+      "source": "/pita-gr-restaurant",
+      "destination": "/posts/2014-09-pita-gr-restaurant",
+      "type": 301
+    },
+    {
+      "source": "/da-nang",
+      "destination": "/posts/2014-09-da-nang",
+      "type": 301
+    },
+    {
+      "source": "/olina-hotel",
+      "destination": "/posts/2014-09-olina-hotel",
+      "type": 301
+    },
+    {
+      "source": "/quan-com-hue-ngon",
+      "destination": "/posts/2014-09-quan-com-hue-ngon",
+      "type": 301
+    },
+    {
+      "source": "/prince-hotel",
+      "destination": "/posts/2014-09-prince-hotel",
+      "type": 301
+    },
+    {
+      "source": "/namaste-omars-indian-restaurant",
+      "destination": "/posts/2014-09-namaste-omars-indian-restaurant",
+      "type": 301
+    },
+    {
+      "source": "/hoi-an",
+      "destination": "/posts/2014-09-hoi-an",
+      "type": 301
+    },
+    {
+      "source": "/trip-nguyen-restaurant-cafe",
+      "destination": "/posts/2014-09-trip-nguyen-restaurant-cafe",
+      "type": 301
+    },
+    {
+      "source": "/hola-taco",
+      "destination": "/posts/2014-09-hola-taco",
+      "type": 301
+    },
+    {
+      "source": "/the-little-menu-resturant",
+      "destination": "/posts/2014-09-the-little-menu-resturant",
+      "type": 301
+    },
+    {
+      "source": "/than-thien-hotel-friendly-hotel",
+      "destination": "/posts/2014-09-than-thien-hotel-friendly-hotel",
+      "type": 301
+    },
+    {
+      "source": "/hue",
+      "destination": "/posts/2014-09-hue",
+      "type": 301
+    },
+    {
+      "source": "/zucca",
+      "destination": "/posts/2014-09-zucca",
+      "type": 301
+    },
+    {
+      "source": "/train-from-hanoi-to-hue",
+      "destination": "/posts/2014-09-train-from-hanoi-to-hue",
+      "type": 301
+    },
+    {
+      "source": "/ha-noi",
+      "destination": "/posts/2014-09-ha-noi",
+      "type": 301
+    },
+    {
+      "source": "/the-moose-and-roo-pub-grill",
+      "destination": "/posts/2014-09-the-moose-and-roo-pub-grill",
+      "type": 301
+    },
+    {
+      "source": "/bo-nuong-xuan-xuan-47-ma-may",
+      "destination": "/posts/2014-09-bo-nuong-xuan-xuan-47-ma-may",
+      "type": 301
+    },
+    {
+      "source": "/tu-linh-palace-hotel-2",
+      "destination": "/posts/2014-09-tu-linh-palace-hotel-2",
+      "type": 301
+    },
+    {
+      "source": "/it-arrived",
+      "destination": "/posts/2014-09-it-arrived",
+      "type": 301
+    },
+    {
+      "source": "/new-day-restaurant",
+      "destination": "/posts/2014-09-new-day-restaurant",
+      "type": 301
+    },
+    {
+      "source": "/joma-bakery-cafe",
+      "destination": "/posts/2014-09-joma-bakery-cafe",
+      "type": 301
+    },
+    {
+      "source": "/banh-mi-doner-kebab-hang-bac",
+      "destination": "/posts/2014-09-banh-mi-doner-kebab-hang-bac",
+      "type": 301
+    },
+    {
+      "source": "/ha-long-bay",
+      "destination": "/posts/2014-08-ha-long-bay",
+      "type": 301
+    },
+    {
+      "source": "/sa-pa",
+      "destination": "/posts/2014-08-sa-pa",
+      "type": 301
+    },
+    {
+      "source": "/embassy-of-kingdom-of-thailand",
+      "destination": "/posts/2014-08-embassy-of-kingdom-of-thailand",
+      "type": 301
+    },
+    {
+      "source": "/temple-of-literature",
+      "destination": "/posts/2014-08-temple-of-literature",
+      "type": 301
+    },
+    {
+      "source": "/hanoi-street-food-tour",
+      "destination": "/posts/2014-08-hanoi-street-food-tour",
+      "type": 301
+    },
+    {
+      "source": "/tamarind-cafe",
+      "destination": "/posts/2014-08-tamarind-cafe",
+      "type": 301
+    },
+    {
+      "source": "/pho-24",
+      "destination": "/posts/2014-08-pho-24",
+      "type": 301
+    },
+    {
+      "source": "/hotel-staywell-dx",
+      "destination": "/posts/2014-08-hotel-staywell-dx",
+      "type": 301
+    },
+    {
+      "source": "/incredible-india",
+      "destination": "/posts/2014-08-incredible-india",
+      "type": 301
+    },
+    {
+      "source": "/shipping-from-india",
+      "destination": "/posts/2014-08-shipping-from-india",
+      "type": 301
+    },
+    {
+      "source": "/delhi-food-tour",
+      "destination": "/posts/2014-08-delhi-food-tour",
+      "type": 301
+    },
+    {
+      "source": "/barbeque-nation",
+      "destination": "/posts/2014-08-barbeque-nation",
+      "type": 301
+    },
+    {
+      "source": "/aint-no-mountain-high-enough",
+      "destination": "/posts/2014-07-aint-no-mountain-high-enough",
+      "type": 301
+    },
+    {
+      "source": "/india-gate",
+      "destination": "/posts/2014-07-india-gate",
+      "type": 301
+    },
+    {
+      "source": "/gurudwara-bangla-sahib",
+      "destination": "/posts/2014-07-gurudwara-bangla-sahib",
+      "type": 301
+    },
+    {
+      "source": "/raasta",
+      "destination": "/posts/2014-07-raasta",
+      "type": 301
+    },
+    {
+      "source": "/hotel-perfect",
+      "destination": "/posts/2014-07-hotel-perfect",
+      "type": 301
+    },
+    {
+      "source": "/udaipur-boat-ride",
+      "destination": "/posts/2014-07-udaipur-boat-ride",
+      "type": 301
+    },
+    {
+      "source": "/indian-cooking-session",
+      "destination": "/posts/2014-07-indian-cooking-session",
+      "type": 301
+    },
+    {
+      "source": "/udaipur-city-palace",
+      "destination": "/posts/2014-07-udaipur-city-palace",
+      "type": 301
+    },
+    {
+      "source": "/we-are-ok",
+      "destination": "/posts/2014-07-we-are-ok",
+      "type": 301
+    },
+    {
+      "source": "/pratrap-bhawan",
+      "destination": "/posts/2014-07-pratrap-bhawan",
+      "type": 301
+    },
+    {
+      "source": "/aranyawas",
+      "destination": "/posts/2014-07-aranyawas",
+      "type": 301
+    },
+    {
+      "source": "/ranakpur",
+      "destination": "/posts/2014-07-ranakpur",
+      "type": 301
+    },
+    {
+      "source": "/leela-villas-guest-house",
+      "destination": "/posts/2014-07-leela-villas-guest-house",
+      "type": 301
+    },
+    {
+      "source": "/mehrangarh-fort",
+      "destination": "/posts/2014-07-mehrangarh-fort",
+      "type": 301
+    },
+    {
+      "source": "/pukhraj-durry-udhyog",
+      "destination": "/posts/2014-07-pukhraj-durry-udhyog",
+      "type": 301
+    },
+    {
+      "source": "/rawla-bagh",
+      "destination": "/posts/2014-07-rawla-bagh",
+      "type": 301
+    },
+    {
+      "source": "/sahil-khan",
+      "destination": "/posts/2014-07-sahil-khan",
+      "type": 301
+    },
+    {
+      "source": "/mughal-india-crafts-textiles",
+      "destination": "/posts/2014-07-mughal-india-crafts-textiles",
+      "type": 301
+    },
+    {
+      "source": "/palace-of-winds",
+      "destination": "/posts/2014-07-palace-of-winds",
+      "type": 301
+    },
+    {
+      "source": "/amber-fort",
+      "destination": "/posts/2014-07-amber-fort",
+      "type": 301
+    },
+    {
+      "source": "/raj-mandir-cinema",
+      "destination": "/posts/2014-07-raj-mandir-cinema",
+      "type": 301
+    },
+    {
+      "source": "/humpty-sharma-ki-dulhania",
+      "destination": "/posts/2014-07-humpty-sharma-ki-dulhania",
+      "type": 301
+    },
+    {
+      "source": "/hotel-palms",
+      "destination": "/posts/2014-07-hotel-palms",
+      "type": 301
+    },
+    {
+      "source": "/tordi-garh-hotel",
+      "destination": "/posts/2014-07-tordi-garh-hotel",
+      "type": 301
+    },
+    {
+      "source": "/taj-mahal",
+      "destination": "/posts/2014-07-taj-mahal",
+      "type": 301
+    },
+    {
+      "source": "/hotel-royale-residency",
+      "destination": "/posts/2014-07-hotel-royale-residency",
+      "type": 301
+    },
+    {
+      "source": "/agra-fort",
+      "destination": "/posts/2014-07-agra-fort",
+      "type": 301
+    },
+    {
+      "source": "/pizzeria-vaatika-cafe",
+      "destination": "/posts/2014-07-pizzeria-vaatika-cafe",
+      "type": 301
+    },
+    {
+      "source": "/river-ganges",
+      "destination": "/posts/2014-07-river-ganges",
+      "type": 301
+    },
+    {
+      "source": "/blue-lassi-shop",
+      "destination": "/posts/2014-07-blue-lassi-shop",
+      "type": 301
+    },
+    {
+      "source": "/hotel-surya",
+      "destination": "/posts/2014-07-hotel-surya",
+      "type": 301
+    },
+    {
+      "source": "/hotel-shakti",
+      "destination": "/posts/2014-07-hotel-shakti",
+      "type": 301
+    },
+    {
+      "source": "/birthplace-of-buddha",
+      "destination": "/posts/2014-07-birthplace-of-buddha",
+      "type": 301
+    },
+    {
+      "source": "/lumbini-buddha-garden-resort",
+      "destination": "/posts/2014-07-lumbini-buddha-garden-resort",
+      "type": 301
+    },
+    {
+      "source": "/thakali-kitchen",
+      "destination": "/posts/2014-07-thakali-kitchen",
+      "type": 301
+    },
+    {
+      "source": "/ciwec-clinic",
+      "destination": "/posts/2014-07-ciwec-clinic",
+      "type": 301
+    },
+    {
+      "source": "/monkey-temple",
+      "destination": "/posts/2014-07-monkey-temple",
+      "type": 301
+    },
+    {
+      "source": "/pashupatinath",
+      "destination": "/posts/2014-07-pashupatinath",
+      "type": 301
+    },
+    {
+      "source": "/bodhnath-stupa",
+      "destination": "/posts/2014-07-bodhnath-stupa",
+      "type": 301
+    },
+    {
+      "source": "/zen-bed-and-breakfast",
+      "destination": "/posts/2014-07-zen-bed-and-breakfast",
+      "type": 301
+    },
+    {
+      "source": "/bks-place",
+      "destination": "/posts/2014-07-bks-place",
+      "type": 301
+    },
+    {
+      "source": "/black-olives-cafe-and-bar",
+      "destination": "/posts/2014-07-black-olives-cafe-and-bar",
+      "type": 301
+    },
+    {
+      "source": "/third-eye-resturant",
+      "destination": "/posts/2014-07-third-eye-resturant",
+      "type": 301
+    },
+    {
+      "source": "/garden-of-dreams",
+      "destination": "/posts/2014-07-garden-of-dreams",
+      "type": 301
+    },
+    {
+      "source": "/no-i-do-not-want-taxi",
+      "destination": "/posts/2014-07-no-i-do-not-want-taxi",
+      "type": 301
+    }
+  ]
 }
