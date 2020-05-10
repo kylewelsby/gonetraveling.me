@@ -7,7 +7,7 @@ categories:
   - Nepal
 tags:
   - buddha
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 ---
 
 Thursday, We took a good walk across the city to the Harati Devi Temple (A.K.A Monkey Temple) to experience a wonderful landmark standing high just outside of Kathmandu. The views from here were amazing, You can seen the entire City and surrounding Mountains.

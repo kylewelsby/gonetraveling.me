@@ -6,7 +6,7 @@ categories:
   - India
   - Lodgings
 tags: []
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 ---
 
 ![Hotel Surya official photo](images/Hotel-Surya.jpg)

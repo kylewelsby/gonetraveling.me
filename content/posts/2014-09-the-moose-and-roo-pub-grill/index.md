@@ -10,7 +10,7 @@ tags:
   - gastropub
   - Hanoi
   - homely
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 ---
 
 The Moose and Roo Pub & Grill {{<tripadvisor 5010620>}} is a quality gastropub in the heart of the old quarter in Hanoi.

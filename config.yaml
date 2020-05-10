@@ -2,6 +2,9 @@
 baseURL: 'https://gonetraveling.me'
 languageCode: "en-GB"
 title: Gone Traveling
+theme:
+  - hugo-cloak-email
+googleAnalytics: UA-51745895
 author:
   name: Kyle Welsby
   email: kyle@mekyle.com

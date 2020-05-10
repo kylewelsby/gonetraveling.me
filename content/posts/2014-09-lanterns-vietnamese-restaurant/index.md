@@ -1,7 +1,7 @@
 ---
 title: Lanterns Vietnamese Restaurant
 date: '2014-09-25'
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 
 categories:
   - Food

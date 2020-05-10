@@ -9,7 +9,7 @@ categories:
 tags:
   - food tour
   - Hanoi
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 ---
 
 To get a crash course into Vietnamese food we could not turn down [Hanoi Street Food Tour](https://www.tripadvisor.com/Attraction_Review-g293924-d5583955-Reviews-Hanoi_Street_Food_Tour-Hanoi.html) {{<tripadvisor 5583955>}}. Reservation was made via email and we attended the tour the next day, starting at Kim building we visited many delights around Hanoi all accessible by foot. We were in a group of 8, who have traveled from England, and Australia.

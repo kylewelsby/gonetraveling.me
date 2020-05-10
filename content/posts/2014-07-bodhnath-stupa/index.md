@@ -7,7 +7,7 @@ categories:
   - Nepal
 tags:
   - buddha
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 ---
 
 This is one of the worlds biggest Buddhist shrines {{<tripadvisor 1963559>}}, it stands 118ft tall with a solid dome. Pigeons, dogs and cows are welcome guests to the shrine, and often given blessings from visitors to the shrine. A beautiful place to have a guide teach you about Buddhism.

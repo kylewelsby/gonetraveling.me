@@ -10,7 +10,7 @@ tags:
   - Bảo Thắng District
   - Home-stay
   - Homestay
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 ---
 
 Our hotel Tu Linh Palace Hotel 2 recommended us a trip to Sa Pa, the northernmost town in Vietnam. Sa Pa and sounding villages sit 1300m above sea level.

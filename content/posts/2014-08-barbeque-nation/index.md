@@ -8,7 +8,7 @@ categories:
 tags:
   - all you can eat
   - buffet
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 ---
 
 We went to [Barbeque Nation](https://www.tripadvisor.co.uk/Restaurant_Review-g304551-d4312086-Reviews-Barbeque_Nation-New_Delhi_National_Capital_Territory_of_Delhi.html "Barbeque Nation on TripAdvisor") Connaught Place {{<tripadvisor 4312086>}} for what we expected to be a simple meal.  We did not expect an all you can eat buffet with a real BBQ in the middle of the table.

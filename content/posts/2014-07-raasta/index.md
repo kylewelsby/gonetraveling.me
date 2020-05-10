@@ -7,7 +7,7 @@ categories:
   - India
 tags:
   - caribbean
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 ---
 
 ![IMG_20140729_195818](images/IMG_20140729_195818-1024x576.jpg)

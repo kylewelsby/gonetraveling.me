@@ -8,7 +8,7 @@ categories:
   - Hoi An
 tags:
   - hoi an
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 ---
 
 Namaste - Omar's Indian Restaurant {{<tripadvisor 5999031>}} that serves a good selection of dishes from all over India.

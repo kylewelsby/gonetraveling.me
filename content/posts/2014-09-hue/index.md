@@ -9,7 +9,7 @@ categories:
   - Vietnam
 tags:
   - city
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 ---
 
 The adventure outside of Vietnam's capital begins with Hue, 14 hour day [train took us from Hanoi to Huế](/posts/2014-09-train-from-hanoi-to-hue/ "Train from Hanoi to Hué") and arrived in the evening after dark (20:20 PM). Maylin taxi (the green cars, heard to be the most reliable and honest) to deliver us to [Than Thien Hotel](/posts/2014-09-than-thien-hotel-friendly-hotel/ "Than Thien Hotel – Friendly Hotel").

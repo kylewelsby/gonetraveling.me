@@ -2,7 +2,7 @@
 title: It's wonderful being at home
 date: '2014-06-17'
 
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 categories:
   - Home
   - Pre Travels

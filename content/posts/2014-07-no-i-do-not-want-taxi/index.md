@@ -5,7 +5,7 @@ date: '2014-07-06'
 categories:
   - Nepal
 tags: []
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 ---
 
 ![](images/Kathmandu-Taxi-1024x575.jpg)

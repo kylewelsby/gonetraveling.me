@@ -2,7 +2,7 @@
 title: Pizza 4P's
 date: '2014-10-05'
 
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 categories:
   - Food
   - Vietnam

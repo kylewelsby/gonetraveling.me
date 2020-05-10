@@ -3,7 +3,7 @@ title: 'About Kyle Welsby'
 linkTitle: About
 date: Sat, 05 Jul 2014 17:25:20 +0000
 draft: false
-artwork: images/IMG_20170311_173055-1024x316.jpg
+cover: images/IMG_20170311_173055-1024x316.jpg
 menu:
   main:
     weight: 2

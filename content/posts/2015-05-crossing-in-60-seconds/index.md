@@ -1,7 +1,7 @@
 ---
 title: Crossing in 60 seconds.
 date: '2015-05-18'
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 
 categories:
   - Japan

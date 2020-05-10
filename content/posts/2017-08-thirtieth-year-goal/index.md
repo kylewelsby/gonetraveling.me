@@ -1,7 +1,7 @@
 ---
 title: Goal for my 30th year
 date: '2017-08-05'
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 
 categories:
   - Self

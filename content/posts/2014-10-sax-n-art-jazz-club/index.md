@@ -1,7 +1,7 @@
 ---
 title: Sax n Art Jazz Club
 date: '2014-10-04'
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 
 categories:
   - Nightlife

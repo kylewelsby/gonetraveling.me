@@ -1,7 +1,7 @@
 ---
 title: Vietnam
 date: '2014-10-08'
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 categories:
   - Vietnam
 tags: []

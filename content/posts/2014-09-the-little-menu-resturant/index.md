@@ -8,7 +8,7 @@ categories:
 tags:
   - food
   - hoi an
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 ---
 
 After checking our Lonely Planet book and TripAdvisor we decided to eat at the Little Menu Restaurant {{<tripadvisor 3989762>}} for our first night in Hoi an.

@@ -6,7 +6,7 @@ categories:
   - Thailand
   - Vietnam
 tags: []
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 ---
 
 While in Vietnam, we applied for our Thailand Tourist Visa so we can stay up-to 60 consecutive days in Thailand. The Thailand Embassy in Hanoi are very accommodating and friendly when it comes to applying for a Visa. They speak good english and did not make unexpected requests.

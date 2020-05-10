@@ -10,7 +10,7 @@ categories:
   - Thailand
   - Uncategorized
 tags: []
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 ---
 
 {{<youtube AaZmjQ-D01c>}}

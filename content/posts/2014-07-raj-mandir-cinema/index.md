@@ -8,7 +8,7 @@ categories:
 tags:
   - bollywood
   - cinema
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 ---
 
 ![IMG_20140722_210813](images/IMG_20140722_210813-1024x583.jpg)

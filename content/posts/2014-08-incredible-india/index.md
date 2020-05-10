@@ -5,7 +5,7 @@ date: '2014-08-07'
 categories:
   - India
 tags: []
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 ---
 
 - Disclaimer: The following are my own opinions and are not intended to offend.

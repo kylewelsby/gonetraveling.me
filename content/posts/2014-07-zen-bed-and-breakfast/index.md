@@ -7,7 +7,7 @@ categories:
   - Nepal
 tags:
   - cheap
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 ---
 
 ![](images/PANO_20140703_1425091-1024x767.jpg)

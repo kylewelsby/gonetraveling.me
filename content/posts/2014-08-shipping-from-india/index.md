@@ -6,7 +6,7 @@ categories:
   - India
 tags:
   - courier
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 ---
 
 Before leaving India we wanted to ship the souvenirs we have purchased over the last month back to the United Kingdom.

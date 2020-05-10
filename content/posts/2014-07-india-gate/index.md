@@ -6,7 +6,7 @@ categories:
   - Attractions
   - India
 tags: []
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 ---
 
 India gate is a war memorial which has inscribed the names of the Indian citizens who served and died in the first world war.

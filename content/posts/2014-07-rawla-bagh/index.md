@@ -6,7 +6,7 @@ categories:
   - India
   - Lodgings
 tags: []
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 ---
 
 ![](images/PANO_20140724_1303282-1024x512.jpg)

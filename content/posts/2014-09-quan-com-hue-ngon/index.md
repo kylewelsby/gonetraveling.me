@@ -8,7 +8,7 @@ categories:
 tags:
   - bbq
   - Da Nang
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 ---
 
 We visited Quán Cơm Huế Ngon {{<tripadvisor 3811714>}} on a Friday night and luckily got a table. Very busy with locals no other westerners to be seen. The menu choice is extensive. We chose items familiar to us, chicken, prawns, beef, and pork. The portions are relatively small so many plates will need to be ordered to feel full enough (the chicken is just a wing chopped into 4 parts for 39,000 dong). Can see it easily mounting up in cost.

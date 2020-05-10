@@ -6,7 +6,7 @@ categories:
   - Food
   - Nepal
 tags: []
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 ---
 
 ![](images/1405403578_thumb.png) We visited [Thakali Kitchen](https://www.tripadvisor.com/Restaurant_Review-g293890-d1156621-Reviews-Thakali_Kitchen-Kathmandu_Kathmandu_Valley_Bagmati_Zone_Central_Region.html) {{<tripadvisor 1156621>}} as a group, recommended by our tour leader Bikash Nepal from [Himalayan Encounters](https://himalayanencounters.com/).

@@ -9,7 +9,7 @@ tags:
   - bollywood
   - cinema
   - film
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 ---
 
 We watched [Humpty Sharma Ki Dulhania](https://www.imdb.com/title/tt3678938/ "Humpty Sharma Ki Dulhania on IMDB") (A modern Bollywood film) at [Raj Mandir Cinema](/posts/2014-07-raj-mandir-cinema/ "Raj Mandir Cinema").  The experience was different than what I was expecting a Bollywood film to be like.  People in the audience cheers, whistled, took photos, and talked throughout the film.

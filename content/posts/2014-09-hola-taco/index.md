@@ -9,7 +9,7 @@ tags:
   - awesome
   - chicken wings
   - flavours
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 ---
 
 Hola Taco is a Mexican restaurant {{<tripadvisor 6736464>}} We could not be more satisfied with the food, service and price.  The music and atmosphere is really relaxing, staff are friendly and food is just damn awesome!

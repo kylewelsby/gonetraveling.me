@@ -2,7 +2,7 @@
 title: Dusty walk
 date: '2014-07-05'
 
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 categories:
   - Nepal
 tags: []

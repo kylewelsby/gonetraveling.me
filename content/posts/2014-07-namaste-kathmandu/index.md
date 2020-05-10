@@ -2,7 +2,7 @@
 title: Namaste Kathmandu
 date: '2014-07-03'
 
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 categories:
   - Nepal
 tags:

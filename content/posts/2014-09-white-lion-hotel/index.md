@@ -2,7 +2,7 @@
 title: White Lion Hotel
 date: '2014-09-25'
 
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 categories:
   - Lodgings
   - Vietnam

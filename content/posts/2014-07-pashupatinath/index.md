@@ -8,7 +8,7 @@ categories:
 tags:
   - cremation
   - death
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 ---
 
 ![DSC00205](images/DSC00205-1024x575.jpg)

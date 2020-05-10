@@ -1,7 +1,7 @@
 ---
 title: 'My experience as a #DigitalNomad'
 date: '2015-08-07'
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 
 categories:
   - Self

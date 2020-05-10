@@ -10,7 +10,7 @@ categories:
 tags:
   - Adventures
   - Geckos Adventures
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 ---
 
 We booked a tour with Geckos Adventures "[Ain't no mountain high enough](https://www.geckosadventures.com/himalaya/nepal/aint-no-mountain-high-enough-2014)" as it's tour route from Nepal to India, and lowest price (£760.75 per person). [Ain't no Mountain High Enough - Geckos Adventures - Pre Departure Information (PDF)](brocure.pdf)

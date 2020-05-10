@@ -13,7 +13,7 @@ tags:
   - cruise
   - ha long
   - ha long bay
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 ---
 
 A visit to Vietnam can not be complete without visiting the [UNESCO world heritage site Hạ Long Bay](https://whc.unesco.org/en/list/672).

@@ -9,7 +9,7 @@ categories:
 tags:
   - carpets
   - hand-made
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 ---
 
 

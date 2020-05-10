@@ -7,7 +7,7 @@ categories:
   - Hoi An
 tags:
   - city
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 ---
 
 Hoi An is recognised for the UNESCO heritage site [Hội An Ancient Town](https://whc.unesco.org/en/list/948).

@@ -2,7 +2,7 @@
 title: Places
 date: '2014-07-06'
 
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 categories:
   - Food
   - Nepal

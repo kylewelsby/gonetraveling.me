@@ -9,7 +9,7 @@ tags:
   - cabin
   - country side
   - day time transport
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 ---
 
 ![IMG_4835-EFFECTS](images/IMG_4835-EFFECTS-1024x575.jpg)

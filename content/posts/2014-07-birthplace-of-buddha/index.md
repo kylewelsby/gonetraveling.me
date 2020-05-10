@@ -7,7 +7,7 @@ categories:
   - Nepal
 tags:
   - buddha
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 ---
 
 ![](images/IMG_20140716_191909-1024x583.jpg)We had enough time in the evening to visit the Birth Place of Buddha. As the heat from the day is dissipating the light dimming this felt like the perfect time to visit this place. It was calm, cool and peaceful, even the turtles from the sacred pond came up to meet us.

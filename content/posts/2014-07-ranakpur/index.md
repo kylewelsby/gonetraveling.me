@@ -6,7 +6,7 @@ categories:
   - Attractions
   - India
 tags: []
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 ---
 
 ![PANO_20140726_143252](images/PANO_20140726_143252-1024x237.jpg)

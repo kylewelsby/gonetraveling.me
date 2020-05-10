@@ -10,7 +10,7 @@ tags:
   - garden
   - Garden of Dreams
   - History
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 ---
 
 Monday morning we submitted our claim for the [Delayed Flight](https:///2014/07/delayed/) that caused earlier disruption to our travels.

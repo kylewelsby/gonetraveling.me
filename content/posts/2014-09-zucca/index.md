@@ -6,7 +6,7 @@ categories:
   - Food
   - Vietnam
 tags: []
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 ---
 
 Zucca is a Italian, Vietnamese Restaurant {{<tripadvisor 3295650>}}.

@@ -2,7 +2,7 @@
 title: Selling up
 date: '2014-06-11'
 
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 categories:
   - Pre Travels
 tags:

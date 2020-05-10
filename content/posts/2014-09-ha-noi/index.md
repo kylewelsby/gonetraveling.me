@@ -7,7 +7,7 @@ categories:
 tags:
   - city
   - Hanoi
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 ---
 
 Hanoi is the current capital of Vietnam and the second largest city in Vietnam with an estimated population of over 2.6 million residents. Hanoi is a popular city for tourists traveling to [Sapa](/posts/2014-08-sa-pa/ "Sa Pa") or [Halong Bay](/posts/2014-08-ha-long-bay/ "Hạ Long Bay & Bái Tử Long Bay"), many tour operators and hotels will insist you book the tours.

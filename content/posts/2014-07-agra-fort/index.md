@@ -9,7 +9,7 @@ tags:
   - agra
   - fort
   - History
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 ---
 
 ![IMG_3457](images/IMG_3457-1024x575.jpg)

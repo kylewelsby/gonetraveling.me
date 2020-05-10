@@ -7,7 +7,7 @@ categories:
   - Vietnam
 tags:
   - Hanoi
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 ---
 
 Simple, cheap, delicious. A pleasant walk around Hoan Kiem Lake you will find Pho 24 at the southern point with colourful green signage. Greeted with big smiles and welcomes, and a simple menu, ordering food is easy. A choice of beef or chicken Pho. Price is really reasonable at ₫49,000 (about £1.37) per person and you get a decent serving.

@@ -7,7 +7,7 @@ categories:
   - Vietnam
 tags:
   - Hanoi
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 ---
 
 Tu Linh Palace Hotel 2 is in a quiet area of _Hàng Buồm_ - great to escape the night activities. You can walk (or run) anywhere within good time.

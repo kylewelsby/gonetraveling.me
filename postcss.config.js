@@ -2,8 +2,8 @@ const tailwindcss = require("tailwindcss");
 const autoprefixer = require("autoprefixer");
 const postcssPurgecss = require("@fullhuman/postcss-purgecss");
 const purgecss = postcssPurgecss({
-  content: ["./public/**/*.html", "./src/**/*.vue"],
-  defaultExtractor: content => content.match(/[\w-/:]+(?<!:)/g) || [],
+  content: ["./layouts/**/*.html"],
+  defaultExtractor: (content) => content.match(/[\w-/:]+(?<!:)/g) || [],
   whitelistPatterns: [
     /-(leave|enter|appear)(|-(to|from|active))$/,
     /^(?!(|.*?:)cursor-move).+-move$/,
@@ -11,10 +11,14 @@ const purgecss = postcssPurgecss({
   ]
 });
 
+const nano = require('cssnano')({
+  preset: 'default',
+})
+
 module.exports = {
   plugins: [
     tailwindcss,
     autoprefixer,
-    ...(process.env.NODE_ENV === "production" ? [purgecss] : [])
+    ...(process.env.NODE_ENV === "production" ? [purgecss, nano] : []),
   ]
 };

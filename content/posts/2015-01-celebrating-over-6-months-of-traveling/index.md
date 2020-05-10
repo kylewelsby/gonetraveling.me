@@ -2,7 +2,7 @@
 title: Celebrating over 6 months of traveling
 date: '2015-01-14'
 
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 categories:
   - Self
 tags: []

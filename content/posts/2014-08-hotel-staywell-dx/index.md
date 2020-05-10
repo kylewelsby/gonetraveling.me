@@ -6,7 +6,7 @@ categories:
   - India
   - Lodgings
 tags: []
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 ---
 
 We chose to stay for 7 nights at [Hotel Staywell DX](https://www.agoda.com/hotel-staywell-dx/hotel/new-delhi-and-ncr-in.html?cid=1649959) {{<tripadvisor 4154210>}} to for our last hotel in India while we get our Vietnam VISA sorted.

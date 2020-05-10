@@ -6,7 +6,7 @@ categories:
   - Lodgings
   - Vietnam
 tags: []
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 ---
 
 Than Thien Hotel - Friendly Hotel {{<tripadvisor 1604085>}} is a hotel in a great location allowing quiet getaway while still being in the City region.

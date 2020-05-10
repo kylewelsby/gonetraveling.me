@@ -5,7 +5,7 @@ date: '2014-07-23'
 categories:
   - India
 tags: []
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 ---
 
 While at Hotel Bissau Palace, traditional live indian music was performed while we ate our dinner and had drinks. The stringed instrument (sitar) filled the room with homonymous sound, and the instruments were not amplified.

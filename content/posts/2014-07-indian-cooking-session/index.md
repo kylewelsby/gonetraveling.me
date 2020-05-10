@@ -10,7 +10,7 @@ tags:
   - cooking
   - cooking class
   - food
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 ---
 
 ![DSC00541](images/DSC00541-1024x575.jpg)

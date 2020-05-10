@@ -7,7 +7,7 @@ categories:
   - Lodgings
 tags:
   - agra
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 ---
 
 While in Agra we stayed at [Hotel Royale Residency](https://www.agoda.com/en-gb/royale-residency-hotel/hotel/agra-in.html?cid=1649959 "Agoda: Hotel Royale Residency") {{<tripadvisor 735318>}}. The stay was pleasant, there was hot water, cable TV and in a clean comfortable room with brilliant lighting.

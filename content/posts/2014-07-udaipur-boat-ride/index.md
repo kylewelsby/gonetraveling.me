@@ -8,7 +8,7 @@ categories:
 tags:
   - boat
   - boat ride
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 ---
 
 Udaiper as seen from Lake Pichola.

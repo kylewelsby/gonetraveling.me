@@ -1,7 +1,7 @@
 ---
 title: Ichiban Sushi
 date: '2014-10-02'
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 
 categories:
   - Food

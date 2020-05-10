@@ -10,7 +10,7 @@ tags:
   - Cao lầu
   - good food
   - hoi an
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 ---
 
 Trip Nguyen Restaurant Cafe {{<tripadvisor 4559368>}} serves many Vietnamese dishes

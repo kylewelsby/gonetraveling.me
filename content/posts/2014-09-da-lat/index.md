@@ -1,7 +1,7 @@
 ---
 title: Da Lat
 date: '2014-09-28'
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 
 categories:
   - Attractions

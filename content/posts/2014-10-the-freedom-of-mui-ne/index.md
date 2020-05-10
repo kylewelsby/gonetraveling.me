@@ -2,7 +2,7 @@
 title: The freedom of Mui Ne
 date: '2014-10-01'
 
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 categories:
   - Attractions
   - Vietnam

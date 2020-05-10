@@ -1,7 +1,7 @@
 ---
 title: Chill Skybar
 date: '2014-10-06'
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 categories:
   - Attractions
   - Nightlife

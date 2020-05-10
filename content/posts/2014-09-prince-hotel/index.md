@@ -8,7 +8,7 @@ categories:
   - Hoi An
 tags:
   - hoi an
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 ---
 
 

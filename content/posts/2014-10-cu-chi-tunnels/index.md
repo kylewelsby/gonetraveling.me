@@ -2,7 +2,7 @@
 title: Củ Chi Tunnels
 date: '2014-10-03'
 
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 categories:
   - Attractions
   - Vietnam

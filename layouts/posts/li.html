@@ -2,7 +2,7 @@
 {{- $height := 256 }}
 <a href="{{ .RelPermalink }}"class="flex flex-col items-center">
   {{ if .Param "artwork" }}
-    {{ with .Resources.GetMatch (printf "*%s*" .Params.artwork) }}
+    {{ with .Resources.GetMatch (printf "*%s*" .Params.cover) }}
       {{ $img := .Fill (printf "%sx%s Center NearestNeighbor jpg" (string (mul $width 2)) (string (mul $height 2))) }}
       {{ $imgMobile := .Fill (printf "%sx%s Center NearestNeighbor jpg" (string (mul 375 2)) (string (mul 210 2))) }}
       <img 

@@ -10,7 +10,7 @@ tags:
   - fast food
   - food
   - Hanoi
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 ---
 
 Bánh Mỳ (Bánh Mì) Doner Kebab on the intersection of Hàng Bạc and Hàng Bè. It serves seasoned pork cooked on a rotary for 30,000₫ a sandwich. Really popular as a "drive-thru", many motorcycles will pull up and ask a take-away. Highly recommended for a quick-lunch or sandwich on the go.

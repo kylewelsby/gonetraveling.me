@@ -80,7 +80,7 @@ const matter = require("gray-matter");
 
       let fm = matter.read(filepath);
       fm.data.url = `/${item.slug}`;
-      fm.data.artwork = "images/artwork.jpg";
+      fm.data.cover = "images/artwork.jpg";
       fm.data.categories = categories.map((c) => c.name);
       fm.data.tags = tags.map((c) => c.name);
       fs.writeFileSync(filepath, matter.stringify(fm), "utf-8");

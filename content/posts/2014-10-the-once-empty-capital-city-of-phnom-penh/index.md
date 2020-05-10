@@ -2,7 +2,7 @@
 title: The once empty capital city of Phnom Penh
 date: '2014-10-10'
 
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 categories:
   - Cambodia
   - Phnom Penh

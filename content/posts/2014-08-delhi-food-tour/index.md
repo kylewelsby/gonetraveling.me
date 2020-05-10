@@ -9,7 +9,7 @@ categories:
 tags:
   - delhi
   - food tour
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 ---
 
 We booked a street food tour with {{<tripadvisor 3879008>}}

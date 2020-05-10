@@ -2,7 +2,7 @@
 title: 'Moalboal, the short walk out to open water.'
 date: '2015-04-20'
 slug: /moalboal-the-short-walk-out-to-open-water
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 categories:
   - Activities
   - Attractions

@@ -7,7 +7,7 @@ categories:
   - India
 tags:
   - avoid
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 ---
 
 ![](images/IMG_20140726_162346-1024x583.jpg)

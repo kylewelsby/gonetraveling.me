@@ -40,8 +40,5 @@ module.exports = {
   variants: {},
   plugins: [
     require("tailwindcss-hyphens")
-  ],
-  purge: {
-    content: ["./layouts/**/*.html"]
-  }
+  ]
 };

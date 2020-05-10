@@ -8,7 +8,7 @@ categories:
   - India
 tags:
   - desert
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 ---
 
 ![](images/IMG_20140718_121252-1024x583.jpg)

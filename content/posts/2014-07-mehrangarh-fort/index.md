@@ -7,7 +7,7 @@ categories:
   - India
 tags:
   - fort
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 ---
 
  

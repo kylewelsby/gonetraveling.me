@@ -8,7 +8,7 @@ categories:
 tags:
   - fort
   - History
-artwork: images/artwork.jpg
+cover: images/artwork.jpg
 ---
 
 We visited Amber Fort in Jaipur (a grand fort kingdom that once held 20,000 residents).  This fort is remarkable to walk around, and discover hidden secret rooms. The view around is breathtaking, seeing the wall snaking up and down the hills.
