@@ -1,5 +1,7 @@
 ---
 title: Privacy Policy
+menu:
+  footer
 ---
 
 This Website collects some Personal Data from its Users.

@@ -1,5 +1,7 @@
 ---
 title: Cookie Policy
+menu:
+  footer
 ---
 
 Cookies and other Identifiers consist of portions of code placed on the User’s device that assist the Owner in providing the Service according to the purposes described.
