@@ -21,6 +21,9 @@ jobs:
         run: hugo --minify --gc --cleanDestinationDir
         env:
           NODE_ENV: production
+          HUGO_ENV: production
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+          TRIPADVISOR_KEY: ${{ secrets.TRIPADVISOR_KEY }}
       - name: Deploy to Firebase
         uses: w9jds/firebase-action@master
         with: 
@@ -28,3 +31,6 @@ jobs:
         env:
           FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
           NODE_ENV: production
+          HUGO_ENV: production
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+          TRIPADVISOR_KEY: ${{ secrets.TRIPADVISOR_KEY }}

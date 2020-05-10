@@ -1,16 +1,18 @@
-{{- $url := (printf "http://api.tripadvisor.com/api/partner/2.0/location/%s?key=%s" (string (.Get 0)) $.Site.Params.tripAdvisorAPIKey) -}}
-{{- with (getJSON $url) -}}
-  <span>
-    (Ranked 
-    {{ if .ranking_data.ranking_string_detail -}}
-      {{- range first 1 .ranking_data.ranking_string_detail -}}
-      {{ . | safeHTML }}
-      {{- end -}}
-    {{- else -}}
-      {{ .ranking_data.ranking_string  | safeHTML }}
-    {{- end }}
-    on <a href="{{ .web_url }}">Tripadvisor</a>)
-  </span>
-{{- else -}}
-not found
-{{- end -}}
+{{ if (getenv "TRIPADVISOR_KEY") }}
+  {{- $url := (printf "http://api.tripadvisor.com/api/partner/2.0/location/%s?key=%s" (string (.Get 0)) (getenv "TRIPADVISOR_KEY")) -}}
+  {{- with (getJSON $url) -}}
+    <span>
+      (Ranked 
+      {{ if .ranking_data.ranking_string_detail -}}
+        {{- range first 1 .ranking_data.ranking_string_detail -}}
+        {{ . | safeHTML }}
+        {{- end -}}
+      {{- else -}}
+        {{ .ranking_data.ranking_string  | safeHTML }}
+      {{- end }}
+      on <a href="{{ .web_url }}">Tripadvisor</a>)
+    </span>
+  {{- else -}}
+  not found
+  {{- end -}}
+{{ end }}

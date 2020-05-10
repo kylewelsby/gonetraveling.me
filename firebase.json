@@ -1,6 +1,5 @@
 {
   "hosting": {
-    "predeploy": "NODE_ENV=production hugo",
     "public": "public",
     "ignore": [
       "firebase.json",
